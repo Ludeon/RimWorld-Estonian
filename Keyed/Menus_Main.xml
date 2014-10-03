@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Loo maailm</CreateWorld>
+  <NewColony>Uus koloonia</NewColony>
+  <BackToGame>Tagasi mängu</BackToGame>
+  <Save>Salvesta</Save>
+  <Load>Lae koloonia</Load>
+  <Options>Valikud</Options>
+  <Mods>Modifikatsioonid</Mods>
+  <Credits>Autorid</Credits>
+  <QuitToMainMenu>Välju põhimenüüsse</QuitToMainMenu>
+  <QuitToOS>Välju OS'i</QuitToOS>
+  <FictionPrimer>Kujutluse tekitaja</FictionPrimer>
+  <LudeonBlog>Ludeon'i blogi</LudeonBlog>
+  <Forums>Foorumid</Forums>
+  <OfficialWiki>Ametlik wiki</OfficialWiki>
+  <TynansTwitter>Tynan'i twitter</TynansTwitter>
+  <TynansDesignBook>Tynan'i disaini raamat</TynansDesignBook>
+  <HelpTranslate>Aita tõlkida RimWorld'i</HelpTranslate>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Vaata üle maailm</ReviewWorld>
+  <WorldGenerate>Genereeri</WorldGenerate>
+  <WorldSaveAndFinish>Salvesta ja lõpeta</WorldSaveAndFinish>
+  <Reset>Lähtesta</Reset>
+  <WorldSize>Suurus</WorldSize>
+  <WorldSeed>Seeme</WorldSeed>
+  <RandomizeSeed>Randomiseeri seeme</RandomizeSeed>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Vali maailm</SelectWorld>
+  <WorldChooseButton>Vali</WorldChooseButton>
+  <NoWorldsFilesFound>Maailma faile ei leitud. Loo esmalt maailm.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Versioon {0} on nüüd saadaval. Külasta lisa info jaoks ludeon.com.</BuildNowAvailable>
+  <BuildUpToDate>Versioon on ajakohane.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Tõrge versiooni info hankimisel: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Versiooni info laadimine...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Genereeri maailm</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Hangi modifikatsioone</GetMods>
+  <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
+  <Author>Autor</Author>
+
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
+  <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, resurssi kukkumised või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
+  <MustChooseChallengeScale>Palun vali raskusaste.</MustChooseChallengeScale>
+  <ChallengeScale>Raskusaste</ChallengeScale>
+  <ChallengeScaleTip>Kui loojutustaja saadab ohu sinu juure, siis nad on {0} sama suured kui väljakutse raskusastmel.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Ehitaja mood</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Lihtne</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Karm</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Väljakutse</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Tõsine väljakutse</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Ekstreemne väljakutse</ChallengeScale_ExtremeChallenge>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Vali maandumis asukoht</SelectLandingSite>
+  <SelectSite>Vali asukoht</SelectSite>
+  <MustSelectLandingSite>Palun vali maandumis asukoht.</MustSelectLandingSite>
+  <CannotLandBiome>Sa ei saa maanduda sellel bioomil: {0}</CannotLandBiome>
+  <WorldRenderMode>Mood</WorldRenderMode>
+  <WorldRenderModeFull>Täielik</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Kõrgus</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Viljakus</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Sademed</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Bioomid</WorldRenderModeBiomes>
+  <BiomeNotImplemented>bioom pole veel lisatud</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} juba on baas seal.</BaseAlreadyThere>
+  <Biome>Bioom</Biome>
+  <Terrain>Maastik</Terrain>
+  <Elevation>Kõrgus</Elevation>
+  <Fertility>Viljakus</Fertility>
+  <AvgTemp>Keskmine temperatuur</AvgTemp>
+  <Rainfall>Sademed</Rainfall>
+  <HasCoast0>Põhjarannik</HasCoast0>
+  <HasCoast1>Idarannik</HasCoast1>
+  <HasCoast2>Lõunarannik</HasCoast2>
+  <HasCoast3>Läänerannik</HasCoast3>
+  <FactionBase>Partei baas</FactionBase>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Loo inimesed</CreateCharacters>
+  <FirstNameDesc>Inimese eesnimi.\n\nSeda kuvatakse ainult teatud menüüdes.</FirstNameDesc>
+  <ShortIdentifierDesc>Inimese lühike indetifitseerija.\n\nSeda kuvatakse koguaeg. See võib olla ees- või perekonnanimi, või täielikult erinev hüüdnimi.</ShortIdentifierDesc>
+  <LastNameDesc>Inimese perekonnanimi.\n\nSeda kuvatakse ainult teatud menüüdes.</LastNameDesc>
+  <Randomize>Randomiseeri</Randomize>
+  <AgeIndicator>vanus {0}</AgeIndicator>
+  <Backstory>Tagalugu</Backstory>
+  <IncapableOf>Võimetu tegema</IncapableOf>
+  <Traits>Oskused</Traits>
+  <TraitsDoNothing>Oskused on hetkel lihtsalt lõbusad loo osad; enamus neist ei tee veel midagi. See muutub tulevates versioonides.</TraitsDoNothing>
+  <PermanentMoodEffect>Alatised tuju effektid</PermanentMoodEffect>
+  <Skills>Oskused</Skills>
+  <NoneLower>puudub</NoneLower>
+  <Adulthood>Täiskasvanuiga</Adulthood>
+  <Childhood>Lapseiga</Childhood>
+  <Male>Mees</Male>
+  <Female>Naine</Female>
+  <Pain>Valu</Pain>
+
+  <!--=========== Misc ==========-->
+  <Start>Alusta</Start>
+  <Advanced>Täpsem</Advanced>
+  <Next>Edasi</Next>
+  <Back>Tagasi</Back>
+  <Gameplay>Gameplay</Gameplay>
+  <ConfirmQuit>Tõesti välju? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
+  <EveryoneNeedsValidName>Igal inimisel on vaja kehtivat nime.</EveryoneNeedsValidName>
+  <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
+  <GeneratingMap>Mapi genereerimine...</GeneratingMap>
+</LanguageData>
