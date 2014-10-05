@@ -73,7 +73,7 @@
   <WorldRenderModeFertility>Viljakus</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Sademed</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Bioomid</WorldRenderModeBiomes>
-  <BiomeNotImplemented>bioom pole veel lisatud</BiomeNotImplemented>
+  <BiomeNotImplemented>Bioom pole veel lisatud</BiomeNotImplemented>
   <BaseAlreadyThere>{0} juba on baas seal.</BaseAlreadyThere>
   <Biome>Bioom</Biome>
   <Terrain>Maastik</Terrain>
@@ -113,7 +113,7 @@
   <Next>Edasi</Next>
   <Back>Tagasi</Back>
   <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Tõesti välju? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
+  <ConfirmQuit>Tõesti väljuda? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
   <EveryoneNeedsValidName>Igal inimisel on vaja kehtivat nime.</EveryoneNeedsValidName>
   <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
   <GeneratingMap>Mapi genereerimine...</GeneratingMap>

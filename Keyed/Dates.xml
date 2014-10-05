@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ClockTime>Aeg</ClockTime>
+  <ClockDate>Kuupäev</ClockDate>
+  <ClockYear>Aasta</ClockYear>
+  <DateReadoutTip>Sinu saabumisest möödunud päevi: {0}\nIgas kuus on {1} päeva.</DateReadoutTip>
+
+  <FullDate>{0} {1}, aasta {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Jaanuar</MonthFullJanuary>
+  <MonthFullFebruary>Veebruar</MonthFullFebruary>
+  <MonthFullMarch>Märts</MonthFullMarch>
+  <MonthFullApril>Aprill</MonthFullApril>
+  <MonthFullMay>Mai</MonthFullMay>
+  <MonthFullJune>Juuni</MonthFullJune>
+  <MonthFullJuly>Juuli</MonthFullJuly>
+  <MonthFullAugust>August</MonthFullAugust>
+  <MonthFullSeptember>September</MonthFullSeptember>
+  <MonthFullOctober>Oktoober</MonthFullOctober>
+  <MonthFullNovember>November</MonthFullNovember>
+  <MonthFullDecember>Detsember</MonthFullDecember>
+
+  <MonthShortJanuary>Jaan</MonthShortJanuary>
+  <MonthShortFebruary>Veb</MonthShortFebruary>
+  <MonthShortMarch>Mär</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Mai</MonthShortMay>
+  <MonthShortJune>Juun</MonthShortJune>
+  <MonthShortJuly>Juul</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Okt</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Det</MonthShortDecember>
+</LanguageData>
