@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- glow -->
+  <Dark>Pime</Dark>
+  <Lit>Valgustatud</Lit>
+  <LitBrightly>Eredalt valgustatud</LitBrightly>
+
+  <!-- food quality -->
+  <NoneQuality>Puudub</NoneQuality>
+  <PlantQuality>Taim</PlantQuality>
+  <RawQuality>Toores</RawQuality>
+  <MealAwfulQuality>Kohutav</MealAwfulQuality>
+  <MealSimpleQuality>Lihtne</MealSimpleQuality>
+  <MealFineQuality>Peen</MealFineQuality>
+  <MealLavishLavish>Suurepärane</MealLavishLavish>
+
+  <!-- diet type -->
+  <NeverEats>Ei söö kunagi</NeverEats>
+  <Omnivorous>Segatoitlane</Omnivorous>
+  <Herbivorous>Taimtoiduline</Herbivorous>
+  <Carnivorous>Lihasööja</Carnivorous>
+
+  <!-- history upload pref -->
+  <Unspecified>Otsustamata</Unspecified>
+  <Always>Luba</Always>
+  <Never>Ära luba</Never>
+
+  <!-- Price types -->
+  <PriceTypeVeryCheap>väga odav</PriceTypeVeryCheap>
+  <PriceTypeCheap>odav</PriceTypeCheap>
+  <PriceTypeNormal>tavaline</PriceTypeNormal>
+  <PriceTypeExpensive>kallis</PriceTypeExpensive>
+  <PriceTypeExorbitant>väga kallis</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>Üldine</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Üldine</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Kaitse</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Esmane</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Töö</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Võitlus</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sotsiaalsus</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Muu</StatCategory_PawnMisc>
+  <StatCategory_Building>Ehitamine</StatCategory_Building>
+
+  <EquippedStatOffsets>Offsets kui varustatud</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Modifikaatorid kui varustus sellest tehtud</StuffOfEquipmentStatModifiers>
+</LanguageData>

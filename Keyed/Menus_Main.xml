@@ -80,12 +80,15 @@
   <Elevation>Kõrgus</Elevation>
   <Fertility>Viljakus</Fertility>
   <AvgTemp>Keskmine temperatuur</AvgTemp>
+  <AvgJanTemp>Keskmine temperatuur (Jaan): {0}</AvgJanTemp>
+  <AvgJulTemp>Keskmine temperatuur (Juul): {0}</AvgJulTemp>
   <Rainfall>Sademed</Rainfall>
   <HasCoast0>Põhjarannik</HasCoast0>
   <HasCoast1>Idarannik</HasCoast1>
   <HasCoast2>Lõunarannik</HasCoast2>
   <HasCoast3>Läänerannik</HasCoast3>
   <FactionBase>Partei baas</FactionBase>
+  <StoneTypesHere>Kivi tüübid</StoneTypesHere>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Loo inimesed</CreateCharacters>

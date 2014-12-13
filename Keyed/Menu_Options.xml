@@ -11,13 +11,14 @@
   <!-- Gameplay -->
   <EdgeScreenScroll>Ekraani hiirega liigutamine</EdgeScreenScroll>
   <CustomCursor>Erinev hiir</CustomCursor>
+  <KeyboardConfig>Klaviatuuri konfiguratsioon</KeyboardConfig>
   <ChooseLanguage>Vali keel</ChooseLanguage>
   <AdaptiveTutor>Kohanev õpetaja</AdaptiveTutor>
   <ResetAdaptiveTutor>Lähtesta Kohanev õpetaja</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Kohanemisvõimeline õpetaja on lähtestatud. Ta nüüd õpetab sind algusest peale.</AdaptiveTutorIsReset>
   <RunInBackground>Jookse tagataustal</RunInBackground>
   <DevelopmentMode>Arendamis mood</DevelopmentMode>
-  <LogDeepProfileData>Logi sügavaid andmeid</LogDeepProfileData>
+  <LogVerbose>Logi sügavaid andmeid</LogVerbose>
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>
   <ChangeStoryteller>Vali loojutustaja</ChangeStoryteller>
