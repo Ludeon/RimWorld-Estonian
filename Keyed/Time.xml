@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<DaysLower>päeva</DaysLower>
+	<SecondsLower>sekundit</SecondsLower>
+
+	<SeasonSpring>Kevad</SeasonSpring>
+	<SeasonSummer>Suvi</SeasonSummer>
+	<SeasonFall>Sügis</SeasonFall>
+	<SeasonWinter>Talv</SeasonWinter>
+</LanguageData>

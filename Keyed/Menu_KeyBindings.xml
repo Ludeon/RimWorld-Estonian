@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SaveButton>Salvesta</SaveButton>
+  
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Puhasta</ClearBinding>
+  <ResetBinding>Taasta vaikimisi seadetele</ResetBinding>
+  <BindingButtonToolTip>Vasak klõps, et muuta selle tegevuse nuppu või parem klõps valikute jaoks</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Vajuta suvalist klahvi või Esc, et tühistada...</PressAnyKeyOrEsc>
+</LanguageData>
