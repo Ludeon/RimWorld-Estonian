@@ -5,20 +5,12 @@
   <Lit>Valgustatud</Lit>
   <LitBrightly>Eredalt valgustatud</LitBrightly>
 
-  <!-- food quality -->
-  <NoneQuality>Puudub</NoneQuality>
-  <PlantQuality>Taim</PlantQuality>
-  <RawQuality>Toores</RawQuality>
-  <MealAwfulQuality>Kohutav</MealAwfulQuality>
-  <MealSimpleQuality>Lihtne</MealSimpleQuality>
-  <MealFineQuality>Peen</MealFineQuality>
-  <MealLavishLavish>Suurepärane</MealLavishLavish>
-
   <!-- diet type -->
   <NeverEats>Ei söö kunagi</NeverEats>
   <Omnivorous>Segatoitlane</Omnivorous>
   <Herbivorous>Taimtoiduline</Herbivorous>
   <Carnivorous>Lihasööja</Carnivorous>
+  <Dendrovorous>Puusööja</Dendrovorous>
 
   <!-- history upload pref -->
   <Unspecified>Otsustamata</Unspecified>
@@ -32,17 +24,52 @@
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>väga kallis</PriceTypeExorbitant>
 
-  <!-- stat category -->
-  <StatCategory_General>Üldine</StatCategory_General>
-  <StatCategory_GeneralNonPawn>Üldine</StatCategory_GeneralNonPawn>
-  <StatCategory_Armor>Kaitse</StatCategory_Armor>
-  <StatCategory_PawnPrimary>Esmane</StatCategory_PawnPrimary>
-  <StatCategory_PawnWork>Töö</StatCategory_PawnWork>
-  <StatCategory_PawnCombat>Võitlus</StatCategory_PawnCombat>
-  <StatCategory_PawnSocial>Sotsiaalsus</StatCategory_PawnSocial>
-  <StatCategory_PawnMisc>Muu</StatCategory_PawnMisc>
-  <StatCategory_Building>Ehitamine</StatCategory_Building>
+  <!-- Quality category -->
+  <QualityCategory_Awful>kohutav</QualityCategory_Awful>
+  <QualityCategory_Shoddy>vilets</QualityCategory_Shoddy>
+  <QualityCategory_Poor>kehv</QualityCategory_Poor>
+  <QualityCategory_Normal>normaalne</QualityCategory_Normal>
+  <QualityCategory_Good>hea</QualityCategory_Good>
+  <QualityCategory_Superior>väga hea</QualityCategory_Superior>
+  <QualityCategory_Excellent>suurepärane</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meistritöö</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendaarne</QualityCategory_Legendary>
 
-  <EquippedStatOffsets>Offsets kui varustatud</EquippedStatOffsets>
-  <StuffOfEquipmentStatModifiers>Modifikaatorid kui varustus sellest tehtud</StuffOfEquipmentStatModifiers>
+  <QualityCategoryShort_Awful>khtv</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>vlts</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>kehv</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>hea</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>vhea</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>srep</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>meis</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>lgnd</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>Nälgiv</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Pakiliselt näljane</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Näljane</HungerLevel_Hungry>
+  <HungerLevel_Fed>Toidetud</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Üliväsinud</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Väga väsinud</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Väsinud</HungerLevel_Tired>
+  <HungerLevel_Rested>Puhanud</HungerLevel_Rested>
+  
+  <!-- Hilliness -->
+  <Hilliness_Flat>Tasane</Hilliness_Flat>
+  <Hilliness_SmallHills>Väiksed künkad</Hilliness_SmallHills>
+  <Hilliness_LargeHills>Suured künkad</Hilliness_LargeHills>
+  <Hilliness_Mountainous>Mägine</Hilliness_Mountainous>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Loomine</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Esitamine</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Kehtetu</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Konfiguratsiooni andmete ettevalmistamine</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Sisu failide ettevalmistamine</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Sisu üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Eelvaate faili üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Muudatuste pühendamine</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 </LanguageData>

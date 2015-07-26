@@ -2,6 +2,8 @@
 <LanguageData>
   <!-- Tab titles -->
   <WorkTab>Töö</WorkTab>
+  <OutfitsTab>Varustus</OutfitsTab>
+  <RestrictionsTab>Piirangud</RestrictionsTab>
   <FactionsTab>Parteid</FactionsTab>
   <StatisticsTab>Statistika</StatisticsTab>
   <HistoryTab>Ajalugu</HistoryTab>
@@ -16,12 +18,26 @@
   <CannotDoThisWork>{0} ei suuda teha seda tüüpi tööd.</CannotDoThisWork>
   <NoneBrackets>(ükski)</NoneBrackets>
 
+  <!-- Outfits tab -->
+  <CurrentOutfit>Hetke varustus</CurrentOutfit>
+  <ManageOutfits>Halda varustusi</ManageOutfits>
+  <ClearForcedApparel>Puhasta sunnitud</ClearForcedApparel>
+  <ApparelForcedLower>sunnitud</ApparelForcedLower>
+  <ForcedApparel>Sunnitud varustus</ForcedApparel>
+  <OutfitEdit>Muuda...</OutfitEdit>
+  
+  <!-- Restrictions tab -->
+  <Copy>Kopeeri</Copy>
+  <Paste>Kleebi</Paste>
+  <AllowedArea>Lubatud ala</AllowedArea>
+  
   <!-- Factions tab -->
   <Hostile>Vaenulik</Hostile>
   <HostileTo>{0} vaenlane</HostileTo>
   <CurrentGoodwill>Hetke maine selle parteiga.</CurrentGoodwill>
 
   <!-- Statistics tab -->
+  <Playtime>Play time</Playtime>
   <Storyteller>Loojutustaja</Storyteller>
   <ColonyWealthTotal>Koloonia rikkus</ColonyWealthTotal>
   <ColonyWealthItems>Koloonia rikkus (asjad)</ColonyWealthItems>

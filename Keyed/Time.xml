@@ -1,10 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<DaysLower>päeva</DaysLower>
-	<SecondsLower>sekundit</SecondsLower>
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+ 
+  <DaysLower>päeva</DaysLower>
+  <SecondsLower>sekundit</SecondsLower>
 
-	<SeasonSpring>Kevad</SeasonSpring>
-	<SeasonSummer>Suvi</SeasonSummer>
-	<SeasonFall>Sügis</SeasonFall>
-	<SeasonWinter>Talv</SeasonWinter>
+  <SeasonSpring>Kevad</SeasonSpring>
+  <SeasonSummer>Suvi</SeasonSummer>
+  <SeasonFall>Sügis</SeasonFall>
+  <SeasonWinter>Talv</SeasonWinter>
+  
+  <Born>Sündinud: {0} {1} {2}</Born>
+  <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeChronological>
+  <AgeBiological>Bioloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeBiological>
+
+  <DaysHours>{0} päeva, {1} tundi</DaysHours>
 </LanguageData>

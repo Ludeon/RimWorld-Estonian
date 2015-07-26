@@ -9,6 +9,9 @@
   <DesignatorDeconstruct>Dekonstrueeri</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Dekonstrueeri ehitis ja võta tagasi osa nende resurssidest.</DesignatorDeconstructDesc>
 
+  <DesignatorUninstall>Deinstalli</DesignatorUninstall>
+  <DesignatorUninstallDesc>Deinstalli see, et seda saaks liigutada, müüa, või installida kuhugi mujale.</DesignatorUninstallDesc>
+  
   <DesignatorHarvest>Korista vilja</DesignatorHarvest>
   <DesignatorHarvestDesc>Määra taimi, mida koristada, et saada toitu ja muid tooteid.</DesignatorHarvestDesc>
 
@@ -17,7 +20,6 @@
 
   <DesignatorHaulThings>Vea asju</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Määra kivitükke ja teisi asju, mida vedada prügi aladesse. Pole vajalik asjadele nagu toit või laibad, mis on alati veatavad.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Pole midagi vedada siin.</NothingToHaulHere>
   <MustHaulHaulables>Saab ainult määrata veatavaid mitte-automaatilisi asju (näiteks kivitükid).</MustHaulHaulables>
 
   <DesignatorHunt>Jahi</DesignatorHunt>
@@ -35,23 +37,26 @@
   <DesignatorPlanRemove>Eemalda kavandeid</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Eemalda planeerimis juhiseid.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Lisa kodupiirkond</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Kolonistid parandavad ehitisi, puhastavad põrandaid ja kustutavad tulekahjusi ainult kodupiirkonnas.</DesignatorHomeRegionAddDesc>
+  <DesignatorAreaHomeExpand>Suurenda koduala</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistid parandavad ehitisi, puhastavad põrandaid, ja kustutavad tulekahjusid kodualal.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Eemalda koduala</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Eemaldab koduala. Kolonistid enam ei puhasta, paranda, või kustuta tulekahjusid.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorHomeRegionRemove>Eemalda kodupiirkond</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Eemaldab kodupiirkonna. Kolonistid enam ei puhasta, paranda või kustuta tulekahjusid siin.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorAreaNoRoofExpand>Suurenda katuseta ala</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Loo ala, kus katuseid ei teki. See eemaldab ka olemasolevad õhukesed katused.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Eemalda katuseta ala</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Eemaldab katuseta ala. Katused tekivad siin, ja olemasolevaid katuseid ei eemaldata.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorRegionNoRoofAdd>Lisa laevaba piirkond</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Loo piirkond, kus katused ei teki. Kolonistid ka eemaldavad siin olemasolevad katused.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorAreaSnowClearExpand>Suurenda lumepuhastus ala</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Loo ala, mida kolonistid proovivad hoida lumevabana.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Eemalda lumepuhastus ala</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Eemaldab lumepuhastus ala. Kolonistid enam ei hoia seda ala lumest puhtana.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorRegionNoRoofRemove>Eemalda laevaba piirkond</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Eemalda laevaba piirkond. Katused tekivad siin ja olemasolevad katuseid ei lõhuta ära.</DesignatorRegionNoRoofRemoveDesc>
-
-  <DesignatorRegionSnowClearAdd>Lisa lumepuhastus piirkond</DesignatorRegionSnowClearAdd>
-  <DesignatorRegionSnowClearAddDesc>Loo piirkond, mida kolonistid proovivad hoida puhtana lumest.</DesignatorRegionSnowClearAddDesc>
-
-  <DesignatorRegionSnowClearRemove>Eemalda lumepuhastus piirkond</DesignatorRegionSnowClearRemove>
-  <DesignatorRegionSnowClearRemoveDesc>Eemaldab lumepuhastus piirkonna. Kolonistid enam ei proovi hoida seda piirkonda vabana lumest.</DesignatorRegionSnowClearRemoveDesc>
+  <DesignatorExpandAreaAllowed>Suurenda lubatud ala</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Suurenda lubatud ala.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Eemalda lubatud ala</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Eemalda lubatud ala blokke.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>Halda lubatud alasid...</ManageAreaAlloweds>
 
   <DesignatorGrowingZoneDesc>Loo piirkond, kus sinu kolonistid proovivad kasvatada teatud tüüpi taime.</DesignatorGrowingZoneDesc>
 
@@ -65,6 +70,15 @@
   <DesignatorClaim>Nõua</DesignatorClaim>
   <DesignatorClaimDesc>Nõua neutraalsed struktuurid kolooniale, kaasa arvatud iidsed varemed ja maha jäetud piiramisbaasid. Nõutud struktuure saab parandada ja hooldada sinu kolonistide poolt.</DesignatorClaimDesc>
 
+  <DesignatorRemoveFloor>Eemalda korrus</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Eemalda koorus, et tooda nähtavale maastik allpool.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Röövi</DesignatorStrip>
+  <DesignatorStripDesc>Röövi rõivad laipadelt ja vigastatutelt.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Sea üles lõks uuesti</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Sea üles lõks uuesti, et seda saaks vallandada jälle.</DesignatorRearmTrapDesc>
+
   <!-- placement of blueprints -->
   <UnchosenStuff>Valimata materjal</UnchosenStuff>
   <TooCloseToMapEdge>Liiga lähedal mapi äärele.</TooCloseToMapEdge>
@@ -74,11 +88,13 @@
   <InteractionSpotOutOfBounds>Interaktsiooni koht on piiridest väljas.</InteractionSpotOutOfBounds>
   <InteractionSpotWillBeBlocked>Interaktsiooni koht blokeeritakse {0} poolt.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} blokeeriks {1} interaktsiooni ruudu.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>Maastik siin on juba {0}.</TerrainIsAlready>
+  <TerrainIsAlready>Maastik on juba siin {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
   <IdenticalThingExists>Identiline ese juba eksisteerib siin.</IdenticalThingExists>
   <IdenticalBlueprintExists>Identne kavand juba eksisteerib siin.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Maastik siin ei toeta seda.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Ruum juba hõivatud.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Peab sihtima eemaldatavat põrandat.</TerrainMustBeRemovable>
 
   <!-- placement of zones -->
   <ExpandOrCreateZone>Laienda {0} või\nLoo uus {1}</ExpandOrCreateZone>

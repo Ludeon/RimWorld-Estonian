@@ -4,12 +4,11 @@
   <Audiovisuals>Hääled ja graafika</Audiovisuals>
   <GameVolume>Mängu helitegevus</GameVolume>
   <MusicVolume>Muusika helitegevus</MusicVolume>
-  <GraphicsQuality>Graafika kvaliteet</GraphicsQuality>
-  <GraphicsQualityNormal>Normaalne</GraphicsQualityNormal>
-  <GraphicsQualityGreat>Suurepärane</GraphicsQualityGreat>
+  <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
   <EdgeScreenScroll>Ekraani hiirega liigutamine</EdgeScreenScroll>
+  <PauseOnLoad>Peata laadimisel</PauseOnLoad>
   <CustomCursor>Erinev hiir</CustomCursor>
   <KeyboardConfig>Klaviatuuri konfiguratsioon</KeyboardConfig>
   <ChooseLanguage>Vali keel</ChooseLanguage>
@@ -22,17 +21,16 @@
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>
   <ChangeStoryteller>Vali loojutustaja</ChangeStoryteller>
+  <AutosaveInterval>Automaatse salvestamise tihedus</AutosaveInterval>
+  <TemperatureMode>Temperatuuri mood</TemperatureMode>
 
   <!-- Resolution -->
   <Resolution>Resolutsioon</Resolution>
   <Fullscreen>Täisekraan</Fullscreen>
-  <CurrentRes>Hetkel {0}</CurrentRes>
-  <ChooseResolution>Vali resolutsioon</ChooseResolution>
 
   <!-- Privacy-->
   <Privacy>Privaatsus</Privacy>
   <UserName>Kasutajanimi</UserName>
   <ChooseHistoryUploadPref>Andmete saatmise eelistus</ChooseHistoryUploadPref>
-  <CurrentHistoryUploadPref>Hetkel {0}</CurrentHistoryUploadPref>
   <AboutHistoryUpload>Mängimise andmed aitavad arendajatel tasakaalustada mängu. Kui sa nõustud, siis sinu andmeid saadetakse iga {0} mängu päeva (ja mõndadel haruldastel juhtudel nagu mängu lõpp) järel RimWorldi serveritesse ja siis analüüsitakse. Üleslaetud mängimise andmed koosnevad ainult statistikast ja ajaloo andmetest mängu kohta - isiklikku andmeid ei saadeta, väljaarvata kasutajanimi, mis tähendab, et see on täielikult anonüümne.</AboutHistoryUpload>
 </LanguageData>

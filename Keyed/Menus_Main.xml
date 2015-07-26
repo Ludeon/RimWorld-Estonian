@@ -43,23 +43,28 @@
   <GenerateWorld>Genereeri maailm</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Hangi modifikatsioone</GetMods>
+  <OpenSteamWorkshop>Ava Steam'i Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Hangi modifikatsiooni foorumist</GetModsFromForum>
   <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Oled sa kindel, et tahad kustutada kogu {0} sisu?</ConfirmDeleteMod>
+  <Unsubscribe>Tühista tellimus</Unsubscribe>
+  <ConfirmUnsubscribe>Oled sa kindel, et tahad tühistada {0} tellimuse?</ConfirmUnsubscribe>
   <Author>Autor</Author>
+  <WorkshopPage>Workshop'i lehekülg</WorkshopPage>
+  <UploadToSteamWorkshop>Lae üles Steam'i Workshop'i</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Uuenda Steam Workshop'is</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Üles laadimine juba toimub.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop'i esitamine luhtus.\n\nPõhjus: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>Selle modifikatsiooni esitamisel, nõustud sa Steam Workshop'i kasutustingimused. Klikka siia rohkema info jaoks.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>{0} edukalt üleslaetud.</WorkshopUploadSucceeded>
+  <DownloadingMod>{0} allalaadimine</DownloadingMod>
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
   <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, resurssi kukkumised või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
-  <MustChooseChallengeScale>Palun vali raskusaste.</MustChooseChallengeScale>
-  <ChallengeScale>Raskusaste</ChallengeScale>
-  <ChallengeScaleTip>Kui loojutustaja saadab ohu sinu juure, siis nad on {0} sama suured kui väljakutse raskusastmel.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Ehitaja mood</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Lihtne</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Karm</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Väljakutse</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Tõsine väljakutse</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Ekstreemne väljakutse</ChallengeScale_ExtremeChallenge>
+  <MustChooseDifficulty>Palun vali raskusaste.</MustChooseDifficulty>
+  <Difficulty>Raskusaste</Difficulty>
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Vali maandumis asukoht</SelectLandingSite>
@@ -100,14 +105,13 @@
   <Backstory>Tagalugu</Backstory>
   <IncapableOf>Võimetu tegema</IncapableOf>
   <Traits>Oskused</Traits>
-  <TraitsDoNothing>Oskused on hetkel lihtsalt lõbusad loo osad; enamus neist ei tee veel midagi. See muutub tulevates versioonides.</TraitsDoNothing>
   <PermanentMoodEffect>Alatised tuju effektid</PermanentMoodEffect>
   <Skills>Oskused</Skills>
   <NoneLower>puudub</NoneLower>
   <Adulthood>Täiskasvanu</Adulthood>
   <Childhood>Lapseiga</Childhood>
-  <Male>Mees</Male>
-  <Female>Naine</Female>
+  <Male>mees</Male>
+  <Female>naine</Female>
   <Pain>Valu</Pain>
 
   <!--=========== Misc ==========-->
