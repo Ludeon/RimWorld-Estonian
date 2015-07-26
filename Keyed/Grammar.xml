@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IndefiniteArticle>a</IndefiniteArticle>
+  <DefiniteArticle>the</DefiniteArticle>
+
+  <Proits>selle</Proits>
+  <Prohis>tema</Prohis>
+  <Proher>tema</Proher>
+  <ProitsCap>Selle</ProitsCap>
+  <ProhisCap>Tema</ProhisCap>
+  <ProherCap>Tema</ProherCap>
+
+  <ProitObj>see</ProitObj>
+  <ProhimObj>ta</ProhimObj>
+  <ProherObj>ta</ProherObj>
+  <ProitObjCap>See</ProitObjCap>
+  <ProhimObjCap>ta</ProhimObjCap>
+  <ProherObjCap>ta</ProherObjCap>
+
+  <Prohe>ta</Prohe>
+  <Proshe>ta</Proshe>
+  <Proit>see</Proit>
+  <ProheCap>Ta</ProheCap>
+  <ProsheCap>Ta</ProsheCap>
+  <ProitCap>See</ProitCap>
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Autosaving>Autosaving</Autosaving>
+  
+  <GameStartDialog>Kolm teist ärkavad krüptoune sarkofaagist sireenide ja rebeneva metalli hääle peale. Te saate napilt pääste laevadesse enne, kui laev katki kistakse.\n\nMõnda aega hiljem, te maandute tundmatul rimworldil.\n\nSel ajal kui tähelaeva tükid kukuvad teie ümber, te hakkate tegema plaane ellujäämiseks.</GameStartDialog>
+
+  <Colony>Koloonia</Colony>
+  
+  <ChangeLanguageFromMainMenu>Sa saad vahetada keelt ainult valikute ekraanilt põhimenüüs.</ChangeLanguageFromMainMenu>
+
+  <AndLower>ja</AndLower>
+  <DisabledLower>disabled</DisabledLower>
+
+  <CloseButton>Sulge</CloseButton>
+
+  <VersionIndicator>Versioon {0}</VersionIndicator>
+  <DevelopmentBuildLower>arendusversioon</DevelopmentBuildLower>
+  <CompiledOn>Kompileeritud {0}</CompiledOn>
+  <LoggedIntoSteamAs>Logitud sisse Steam'i kui {0}</LoggedIntoSteamAs>
+  
+  <!-- Content generation-->
+  <MeatLabel>{0} liha</MeatLabel>
+  <MeatDesc>{0} küpsetamatta liha.</MeatDesc>
+
+  <LeatherLabel>{0} nahk</LeatherLabel>
+  <LeatherDesc>{0}st tehtud nahk.</LeatherDesc>
+
+  <CorpseLabel>{0} laip</CorpseLabel>
+  <CorpseDesc>{0} laip.</CorpseDesc>
+  <DeadLabel>{0} (surnud)</DeadLabel>
+
+  <RoughStoneTerrainLabel>ebatasane {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Ebatasane, looduslik {0} maastik.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>tahumata {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Ebatasaselt lõigatud looduslik {0} põrand.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>tasane {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Tasandatud looduslik {0} põrand.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (plaan)</BlueprintLabelExtra>
+  <FrameLabelExtra> (ehitus)</FrameLabelExtra>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(mitmed)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Kolonist suri</ColonistDied>
+</LanguageData>
