@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ITab titles -->
+  <TabBills>Arved</TabBills>
+  <TabGrowing>Kasvatamine</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabTraining>Treenimine</TabTraining>
+  <TabPrisoner>Vang</TabPrisoner>
+  <TabGuest>Külaline</TabGuest>
+  <TabGear>Varustus</TabGear>
+  <TabNeeds>Vajadused</TabNeeds>
+  <TabStorage>Ladustamine</TabStorage>
+  <TabHealth>Tervis</TabHealth>
+  <TabRace>Rass</TabRace>
+  <TabBasics>Põhitõed</TabBasics>
+  <TabStats>Statistika</TabStats>
+  <TabArt>Kunst</TabArt>
+  
+  <!-- Bills tab  -->
+  <AddBill>Lisa arve</AddBill>
+  <RecipeRequiresSkills>Retsept {0} vajab neid oskusi. Ühelgi sinu kolonistil pole neid oskusi, nii et keegi ei saa seda arvet täita.</RecipeRequiresSkills>
+  <MinimumSkill>Min oskus</MinimumSkill>
+  <SuspendedCaps>PEATATUD</SuspendedCaps>
+  <BoundWorkerIs>Töötaja: {0}</BoundWorkerIs>
+  <PlantVerb>Istuta</PlantVerb>
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Värbamisraskus</RecruitmentDifficulty>
+  <GetsFood>Saab toitu</GetsFood>
+  <DoctorsCare>Arsti hooldus</DoctorsCare>
+  <GetsMedicine>Saab ravimeid</GetsMedicine>
+  <ShouldTryToRecruit>Proovi värvata</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Läbikäimine puudub</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Sõbralik vestlus</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Vestle ja värba</PrisonerAttemptRecruit>
+  <PrisonerRelease>Vabasta</PrisonerRelease>
+  <PrisonerExecution>Hukka</PrisonerExecution>
+
+  <!-- Medical - general -->
+  <MoveSpeed>Liikumiskiirus</MoveSpeed>
+  <Efficiency>Tõhusus</Efficiency>
+  <MissingBodyPart>Kadunud</MissingBodyPart>
+  <DestroyedBodyPart>Hävitatud</DestroyedBodyPart>
+  <ShatteredBodyPart>Purunenud</ShatteredBodyPart>
+  <RemovedBodyPart>Eemaldatud</RemovedBodyPart>
+  <Healthy>Tervislik</Healthy>
+  <InPain>Valus</InPain>
+  <PainLevel>Valu</PainLevel>
+  <Dead>Surnud</Dead>
+  <Unconscious>Teadvusetu</Unconscious>
+  <PainShock>Šokis</PainShock>
+  <Injured>Vigasatud</Injured>
+  <NoInjuries>(pole vigastusi)</NoInjuries>
+  <WholeBody>Terve keha</WholeBody>
+  <DataProcessing>Andmetöötlus</DataProcessing>
+  <Communication>Suhtelimine</Communication>
+  <AffectsLower>mõjutab</AffectsLower>
+  <BleedingRate>Veritsuskiirus</BleedingRate>
+  <HealthOverview>Ülevaade</HealthOverview>
+  <MedicalOperationsShort>Operatsioonid ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Muudatused ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Meditsiinilised operatsioonid</MedicalOperations>
+  <Amputate>Amputeeri</Amputate>
+  <Harvest>Korista</Harvest>
+
+  <!-- Medical - Body and activities condition -->
+  <None>Puudub</None>
+  <VeryPoor>Väga kehv</VeryPoor>
+  <Poor>Kehv</Poor>
+  <Weakened>Nõrgenenud</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Tõhustatud</Enhanced>
+  <SeriouslyImpaired>Tõsiselt häiritud</SeriouslyImpaired>
+  <Impaired>Häiritud</Impaired>
+  <SlightlyImpaired>Veidi häiritud</SlightlyImpaired>
+  <NoPain>Puudub</NoPain>
+  <LittlePain>Väike</LittlePain>
+  <MediumPain>Keskmine</MediumPain>
+  <SeverePain>Tõsine</SeverePain>
+  <ExtremePain>Ekstreemne</ExtremePain>
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Treenitav intelligentsus</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Vajab treenitavat intelligentsust {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} on liiga väike selle treenimiseks.</CannotTrainTooSmall>
+  <TrainingNeedsPrerequisite>Eelvajadused: {0}</TrainingNeedsPrerequisite>
+</LanguageData>

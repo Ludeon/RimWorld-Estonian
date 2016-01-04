@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <JumpToLocation>Hüppa asukohta</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Suvi</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Suvi on alanud! Aga talv on tulemas.\n\nSinu põllukultuurid ei kasva talvekülmas. Kindlasti hoiusta mitme kuu väärtuses toitu nüüd, kuni sa veel saad.\n\nSa saad ehitada jahutus ruumi, et hoida toitu halvaks minemast.\n\nJa proovi osta, varastada või valmistada mõningaid parkasid või sa külmud ära, kui sa astud väljad.</FirstSummerWarning>
+
+  <RelationsBrokenDown>Suhted {0}'ga on halvenenud. Nad on nüüd vaenulikud sinu vastu.</RelationsBrokenDown>
+  <RelationsWarmed>Suhted {0}'ga on soojenenud. Nad pole enam vaenulikud sinu vastu.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Kuna sa vangistasid {0}, {1} on nüüd su vastane.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Koloonia heatahe</ColonyGoodwill>
+  <Neutral>Neutraalne</Neutral>
+
+  <ShortCircuitRain>{0} on sattunud lühisesse vihmas ja alustanud tulekahju.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Ala avaldanud</LetterLabelAreaRevealed>
+  <AreaRevealed>Uus ala on avaldunud.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Uus ala on avaldunud. See sisaldab vanu, vaenulikke mehhanoide.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>Katus on sisse varisenud, sest see oli liiga kaugel toetusest.</RoofCollapsed>
+  <TheseThingsCrushed>Need asjad said viga:</TheseThingsCrushed>
+  <NothingCrushed>Midagi ei saanud viga.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Katuse sissevaring</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} õnnestus värvata {1} ({2} võimalus).</RecruitSuccess>
+  <RecruitFail>{0} ei õnnestunud värvata {1} ({2} võimalus).</RecruitFail>
+
+  <LetterLabelBirthday>Sünnipäeva</LetterLabelBirthday>
+  <BirthdayChronological>On {0}'i kronoloogiline sünnipäeva täna! Bioloogiliselt, {1} on {3} aastat vana.\n\nKronoloogiliselt, {1} sai just {2}.\n\nJäta meelde, et kuna inimesed ei vanane krüptouinakus, on kronoloogiline sünnipäev erinev bioloogilisest sünnipäevast.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} on jõudnud {1} bioloogilise vanuseni.\n\nKahjuks on {0} saanud mõned uued haigused vananemise tõttu:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Haigus</LetterLabelNewDisease>
+  <NewDisease>{0} haigestus {1} tõttu.\n\nKindlusta, et sul on meditsiiline voodi ja arst. Kindlusta, et {0} saab korralikku ravi ja veedab võimalikult palju aega voodis.</NewDisease>
+  <NewPartDisease>{0} on arenenud haigus tema {1}s.\n\nKindlusta, et sul on meditsiiline voodi ja arst. Kindlusta, et {0} saab korralikku ravi ja veedab võimalikult palju aega voodis.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Iidne oht</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Kui {0} jõuab iidse seina lähedale, tunneb ta halba eelaimust. Ta ei ole kindel miks, aga ta tunnetab, et see tolmune ehitis võib sisaldada suurt ohtu.</AncientShrineWarning>
+
+  <StruckMineable>Oleme tabanud {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} kättemaks</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{0} ründab peale viga saamist!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{0} ründab taltsutamis proovi tõttu!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Teised {0} läheduses on samuti raevunud!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} langes lõksu</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} langes kogematta lõksu ja sai viga.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} on arenenud {1}, {2} tõttu.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>Heatahe</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Halbtahe</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Vaimne murre</LetterLabelMentalBreakdown>
+</LanguageData>

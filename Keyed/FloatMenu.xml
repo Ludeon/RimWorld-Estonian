@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CallOnRadio>Kutsu {0}</CallOnRadio>
+  <CannotUseReason>Ei saa kasutada ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Ei saa kasutada (päikesepurse)</CannotUseSolarFlare>
+  <CannotUseNoPower>Ei saa kasutada (pole elektrit)</CannotUseNoPower>
+  <CannotUseNoPath>Ei saa kasutada (pole teed)</CannotUseNoPath>
+  <CannotUseReserved>Ei saa kasutada (reserveeritud)</CannotUseReserved>
+  <CannotUseFull>Ei saa kasutada (täis)</CannotUseFull>
+  
+  <FireAt>Tulekahju {0}</FireAt>
+
+  <OutOfRange>ulatusest väljas</OutOfRange>
+  <CannotHitTarget>ei saa lüüa sihtmärki</CannotHitTarget>
+  <CannotFight>{0} ei saa võidelda</CannotFight>
+
+  <OrderManThing>Mees {0}</OrderManThing>
+  
+  <MeleeAttack>Lähivõitle {0}</MeleeAttack>
+  <MeleeAttackToDeath>Lähivõitle {0} surmani</MeleeAttackToDeath>
+  <NoPath>pole teed</NoPath>
+
+  <ForbiddenLower>keelatud</ForbiddenLower>
+  <SociallyImproperLower>sotsiaalselt ebasobimatu</SociallyImproperLower>
+  <PrisonerRoomLower>vangiruum</PrisonerRoomLower>
+  <BurningLower>põlev</BurningLower>
+  <NoEmptyPlaceLower>pole tühja kohta konfigureeritud hoiustamiseks</NoEmptyPlaceLower>
+  <AlreadyFilledLower>juba piisavalt täidetud</AlreadyFilledLower>
+  <MissingMaterials>vaja materjale</MissingMaterials>
+  <MissingSkill>oskus liiga madal</MissingSkill>
+  <NoEmptyGraveLower>pole tühja hauda konfigureeritud hoiustamiseks</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>loom suhtles liiga hiljuti</AnimalInteractedTooRecently>
+  <NoUsableFood>pole kasutatavat toitu</NoUsableFood>
+  <AnimalsSkillTooLow>Looma oskus liiga madal</AnimalsSkillTooLow>
+
+  <ConsumeThing>Tarbi {0}</ConsumeThing>
+  <Teetotaler>täiskarsklane</Teetotaler>
+
+  <CannotGoNoPath>Ei saa siia minna (pole teed)</CannotGoNoPath>
+  <GoHere>Mine siia</GoHere>
+  
+  <Arrest>Arresteeri {0}</Arrest>
+  <TryToArrest>Proovi arresteerida {0}</TryToArrest>
+  <CannotArrest>Ei saa arresteerida</CannotArrest>
+
+  <Capture>Vangista {0}</Capture>
+  <CannotCapture>Ei saa vangistada</CannotCapture>
+
+  <Rescue>Päästa {0}</Rescue>
+  <CannotRescue>Ei saa päästa</CannotRescue>
+
+  <CarryToCryptosleepCasket>Vii {0} krüptouinaku laekasse</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Ei saa kanda krüptouinaku laekasse</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Pole saadaval krüptouinaku laegas.</NoCryptosleepCasket>
+  <NoPrisonerBed>Pole kättesaadav, reserveerimata, kinnine vangivoodi.</NoPrisonerBed>
+  <NoNonPrisonerBed>Pole kättesaadav, reserveerimata mitte vangivoodi.</NoNonPrisonerBed>
+  <Reserved>Reserveeritud kellegi teise poolt.</Reserved>
+  <ReservedBy>Reserveeritud {0} poolt</ReservedBy>
+  <IsReservedBy>{0} on reserveeritud {1} poolt.</IsReservedBy>
+
+  <Incapable>võimetu</Incapable>
+  <IncapableOfCapacity>võimetu tegema {0}</IncapableOfCapacity>
+
+  <Equip>Varusta {0}</Equip>
+  <EquipWarningBrawler>(lähivõitleja on õnnetu)</EquipWarningBrawler>
+  <CannotEquip>Ei saa varustada {0}</CannotEquip>
+  
+  <ForceWear>Sund varusta {0}</ForceWear>
+  <CannotWear>Ei saa kanda {0}</CannotWear>
+  
+  <Strip>Võta {0} riidest lahti</Strip>
+  <CannotStrip>Ei saa võtta {0} riidest lahti</CannotStrip>
+
+  <Deposit>Hoiusta {0} {1}s</Deposit>
+  <CannotDeposit>Ei saa hoiustada {0} {1}s</CannotDeposit>
+
+  <SelfDestructHere>Ise hävita siin</SelfDestructHere>
+  
+  <Drop>Viska maha {0}</Drop>
+
+  <UseMedicalBed>Puhka kuni paranenud</UseMedicalBed>
+  <NotInjured>Pole vigastatud</NotInjured>
+  <SomeoneElseSleeping>Okkupeeritud</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Sisene krüptouinaku laekasse</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Ava krüptouinaku laegas</OpenCryptosleepCasket>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Ei saa {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Ei saa tähtsustada (võimetu {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Juba {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Ei saa tähtsustada ({0} pole {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Ei saa tähtsustada (uurimine on pikaajaline tegevus)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Ei saa tähtsustada ({0} on keelatud)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Tähtsusta {0} {1}</PrioritizeGeneric>
+</LanguageData>

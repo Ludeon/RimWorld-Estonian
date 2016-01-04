@@ -56,7 +56,7 @@
   <DesignatorExpandAreaAllowedDesc>Suurenda lubatud ala.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>Eemalda lubatud ala</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>Eemalda lubatud ala blokke.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorClearAreaAllowedDesc>
-  <ManageAreaAlloweds>Halda lubatud alasid...</ManageAreaAlloweds>
+  <ManageAreas>Halda lubatud alasid...</ManageAreas>
 
   <DesignatorGrowingZoneDesc>Loo piirkond, kus sinu kolonistid proovivad kasvatada teatud tüüpi taime.</DesignatorGrowingZoneDesc>
 
@@ -78,6 +78,15 @@
 
   <DesignatorRearmTrap>Sea üles lõks uuesti</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>Sea üles lõks uuesti, et seda saaks vallandada jälle.</DesignatorRearmTrapDesc>
+  
+  <DesignatorOpen>Ava</DesignatorOpen>
+  <DesignatorOpenDesc>Ava täis hauad või konteinerid.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Tapa</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Tapa taltsutatud loom.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Taltsuta</DesignatorTame>
+  <DesignatorTameDesc>Talsuta metsik loom.</DesignatorTameDesc>
 
   <!-- placement of blueprints -->
   <UnchosenStuff>Valimata materjal</UnchosenStuff>
