@@ -16,6 +16,17 @@
   <Born>Sündinud: {0} {1} {2}</Born>
   <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeChronological>
   <AgeBiological>Bioloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeBiological>
-
   <DaysHours>{0} päeva, {1} tundi</DaysHours>
+  
+  <!-- Date periods -->
+  <Period1Month>1 kuu</Period1Month>
+  <PeriodMonths>{0} kuud</PeriodMonths>
+  <Period1Day>1 päev</Period1Day>
+  <PeriodDays>{0} päeva</PeriodDays>
+  <Period1Hour>1 tund</Period1Hour>
+  <PeriodHours>{0} tundi</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Alustatud</Started>
+  <Lasted>Kestnud</Lasted>
 </LanguageData>

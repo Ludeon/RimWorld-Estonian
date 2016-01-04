@@ -4,6 +4,7 @@
   <WorkTab>Töö</WorkTab>
   <OutfitsTab>Varustus</OutfitsTab>
   <RestrictionsTab>Piirangud</RestrictionsTab>
+  <AnimalsTab>Loomad</AnimalsTab>
   <FactionsTab>Parteid</FactionsTab>
   <StatisticsTab>Statistika</StatisticsTab>
   <HistoryTab>Ajalugu</HistoryTab>
@@ -30,6 +31,9 @@
   <Copy>Kopeeri</Copy>
   <Paste>Kleebi</Paste>
   <AllowedArea>Lubatud ala</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>Peremees</Master>
   
   <!-- Factions tab -->
   <Hostile>Vaenulik</Hostile>

@@ -17,6 +17,7 @@
   <AdaptiveTutorIsReset>Kohanemisvõimeline õpetaja on lähtestatud. Ta nüüd õpetab sind algusest peale.</AdaptiveTutorIsReset>
   <RunInBackground>Jookse tagataustal</RunInBackground>
   <DevelopmentMode>Arendamis mood</DevelopmentMode>
+  <ResetModsConfigOnCrash>Automaatselt lähtesta modifikatsiooni konfiguratsiooni krahh</ResetModsConfigOnCrash>
   <LogVerbose>Logi sügavaid andmeid</LogVerbose>
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>

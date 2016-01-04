@@ -41,7 +41,7 @@
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>hea</QualityCategoryShort_Good>
   <QualityCategoryShort_Superior>vhea</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>srep</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>srp</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>meis</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>lgnd</QualityCategoryShort_Legendary>
   
@@ -72,4 +72,17 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Sisu üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Eelvaate faili üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Muudatuste pühendamine</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  
+  <!-- Trainable intelligence -->
+  <TrainableIntelligence_None>Puudub</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>Lihtne</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>Keskmine</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>Edasijõudnud</TrainableIntelligence_Advanced>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>Arstiabi puudub</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Arsti hooldus, ilma ravimiteta</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Ravimtaimed või halvem</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Tavalised ravimid või halvem</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Parima kvaliteediga arstiabi</MedicalCareCategory_Best>
 </LanguageData>

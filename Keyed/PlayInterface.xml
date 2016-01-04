@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <Overview>Ülevaade</Overview>
-  <OverviewTip>Halda koloonia töö prioriteete ja statistikat.</OverviewTip>
-  <ResearchTip>Uuri ja otsusta teadustöö projketide kohta.</ResearchTip>
   <Wiki>Viki</Wiki>
   <WikiTip>Avab veebi lehitseja, et näha RimWorld'i vikit ja saada abi mängimiseks.</WikiTip>
   <Menu>Menüü</Menu>
-  <MenuTip>Salvesta, lae, või sulge mäng, või muuda valikuid.</MenuTip>
-
-  <Architect>Arhitekt</Architect>
 </LanguageData>

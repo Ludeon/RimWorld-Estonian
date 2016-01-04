@@ -68,6 +68,7 @@
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Vali maandumis asukoht</SelectLandingSite>
+  <SelectRandomSite>Vali juhuslik asukoht</SelectRandomSite>
   <SelectSite>Vali asukoht</SelectSite>
   <MustSelectLandingSite>Palun vali maandumis asukoht.</MustSelectLandingSite>
   <CannotLandBiome>Sa ei saa maanduda sellel bioomil: {0}</CannotLandBiome>

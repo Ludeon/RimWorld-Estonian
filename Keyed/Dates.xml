@@ -3,9 +3,9 @@
   <ClockTime>Aeg</ClockTime>
   <ClockDate>Kuupäev</ClockDate>
   <ClockYear>Aasta</ClockYear>
-  <DateReadoutTip>Sinu saabumisest möödunud päevi: {0}\nIgas kuus on {1} päeva.</DateReadoutTip>
+  <DateReadoutTip>Sinu saabumisest möödunud päevi: {0}\nIgas kuus on {1} päeva.\nHetke aastaaeg: {2}</DateReadoutTip>
 
-  <FullDate>{0} {1}, aasta {2}</FullDate>
+  <FullDate>{0} {1}, {2}</FullDate>
   <MonthFullDate>{0} {1}</MonthFullDate>
   
   <MonthFullJanuary>Jaanuar</MonthFullJanuary>

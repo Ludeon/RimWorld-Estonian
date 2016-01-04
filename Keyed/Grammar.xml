@@ -2,6 +2,8 @@
 <LanguageData>
   <IndefiniteArticle>a</IndefiniteArticle>
   <DefiniteArticle>the</DefiniteArticle>
+  <IndefiniteForm>a {0}</IndefiniteForm>
+  <DefiniteForm>the {0}</DefiniteForm>
 
   <Proits>selle</Proits>
   <Prohis>tema</Prohis>
