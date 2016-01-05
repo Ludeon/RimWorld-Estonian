@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ClickToJumpToProblem>Klikka probleemi juurde hüppamiseks</ClickToJumpToProblem>
+
+  <NeedSawmill>Vaja saeveskit</NeedSawmill>
+  <NeedSawmillDesc>Sul on vaja saeveskit, et tükeldada palke plankudeks.\n\nEhita käsitsi saeveski või elektriline saeveski.</NeedSawmillDesc>
+
+  <PoorMood>Halb meeleolu</PoorMood>
+  <PoorMoodDesc>Nendel kolonistidel on halb meeleolu ja neil võib tekkida kerge vaimne murre igal ajal:\n\n{0}</PoorMoodDesc>
+  <TerribleMood>Kohutav meeleolu</TerribleMood>
+  <TerribleMoodDesc>Need kolonistid on kriitiliselt stressis ja neil võib tekkida raske - ja võib-olla vägivaldne - vaimne murre igal ajal:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Kontrolli nende kolonistide vajaduste tabelit, et näha mis neid häirib.</LowMoodDescEnding>
+  
+  <ColonistNeedsRescue>Kolonist vajab päästmist</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonistid vajavad päästmist</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Need kolonistid on maas töövõimetud:\n\n{0}\nSaada teine kolonist neid päästma ja viima neid tagasi voodisse.\n\n(Et päästa, vali teine kolonist, siis parem klikka ohvrit ja vali päästa.</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Ehita ruum</BuildARoom>
+  <BuildARoomDesc>Ruum koosneb erinevatest seina osadest koos uksega.\n\nKasuta arhitekti menüüd vasakul all ekraaniosas, et määrata, kuhu sa tahad asju ehitada. Kui sa midagi valid ehitamiseks, siis sinu kolonistid teevad töö ära, siis kui nad saavad.</BuildARoomDesc>
+
+  <NeedDefenses>Vaja kaitseid</NeedDefenses>
+  <NeedDefensesDesc>Sa oled olnud juba siin olnud mõnda aega ja arvatavasti on sind märgatud. Piraadi rünnakud hakkavad varsti.\n\nSa peaksid ette valmistama kaitseid.\n\nEhita mõningad kahurid.</NeedDefensesDesc>
+
+  <NeedDoctor>Vaja arsti</NeedDoctor>
+  <NeedDoctorDesc>Need kolonistid vajavad arstiabi, aga sul pole terveid koloniste määratud arstideks:\n\n{0}\nMäära terve kolonist arstiks. Kui jäetud ravimatta, haavad ei pruugi kunagi korralikult paraneda ja võivad jääda igavesteks.</NeedDoctorDesc>
+
+  <NeedMiner>Vaja kaevurit</NeedMiner>
+  <NeedMinerDesc>Sa oled määranud mõningaid kivisid kaevandamiseks, aga ükski kolonist pole määratud kaevuriks.\n\nMäära kolonist kaevuriks.</NeedMinerDesc>
+
+  <NeedWarden>Vaja vangihaldajat</NeedWarden>
+  <NeedWardenDesc>Sul on vang, aga ükski kolonist pole määratud vangihaldajat.\n\nMäära kolonist vangihaldajat.</NeedWardenDesc>
+
+  <LowFood>Madal toit</LowFood>
+  <LowFoodDesc>Sul on ainult {0} täis pulga väärtuses toitu laos. See on ohtlikult madal.\n\nKasvata, osta, leia või tapa natuke toitu.</LowFoodDesc>
+
+  <LowMedicine>Madal ravimid</LowMedicine>
+  <LowMedicineDesc>Sul on ainult {0} ravimit jäänud alles laos.\n\nOsta rohkem ravimeid kauplejatelt.</LowMedicineDesc>
+  <NoMedicineDesc>Sul pole ravimeid alles jäänud laos.\n\nOsta rohkem ravimeid kauplejatelt.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Vaja kolonisti voodeid</NeedColonistBeds>
+  <NeedColonistBedsDesc>Sul on rohkem koloniste, kui sul on kolonisti voodeid. Kellegil puudub koht magamiseks.\n\nTee rohkem voodeid või muuda vangivoodi kolonisti voodiks.\n\nKui sul pole resursse, magamiskohad on tasuta ja on võimalik asetada koheselt.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Jahimehel puuduvad relvad</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonist on määratud jahimeheks, aga pole relvi. Nad ei jahi enne, kui nad kannavad relva.\n\nEt vähendada vigastusi, on soovitav anda neile kaugrelv.</HunterLacksWeaponDesc>
+
+  <Starvation>Nälgimine</Starvation>
+  <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu. Sul on vaja toiduallikat nagu toitainete pasta dispenserist ja natuke selle täitmiseks. Samuti kindlusta, et nad ei ole väeteenistuses.</StarvationDesc>
+
+  <Exhaustion>Väsimus</Exhaustion>
+  <ExhaustionDesc>Need kolonistid on väsinud ja vajavad puhkust:\n\n{0}\nSaa neile natuke puhkust. Neil on vaja voodit märgitud kolonisti kasutuseks. Samuti kindlusta, et nad ei ole väeteenistuses.</ExhaustionDesc>
+
+  <NeedFoodHopper>Vaja toidusalve</NeedFoodHopper>
+  <NeedFoodHopperDesc>Sul on toitainete pasta dispenser ilma toidusalveta selle kõrval.\n\nEt töötada, pasta dispenseril on vaja toitu kõrvalolevalt toidusalvelt, mis on täidetud toore toiduga.\n\nEhita toidusalv dispenseri kõrvale.</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>Ehitis vajab elektrit</BuildingNeedsPower>
+  <BuildingsNeedPower>Ehitised vajavad elektrit</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Need elektrit vajavad ehitised on täielikult lahti ühendatud kõigist võimalikest elektriallikatest:\n\n{0}\nÜhenda need elektri generatoori või patareiga.</BuildingsNeedPowerDesc>
+  <AndMore>ja veel</AndMore>
+
+  <NeedMealSource>Vaja toiduallikat</NeedMealSource>
+  <NeedMealSourceDesc>Sul pole viisi valmistada korralikke eineid toorest toidust.\n\nEhita toitainete pasta dispenser või pliit.\n\n(See ei või olla vangikongis või muidu kolonistid ei saa seda kasutada)</NeedMealSourceDesc>
+
+  <NeedHomeArea>Vaja koduala</NeedHomeArea>
+  <NeedHomeAreaDesc>Sa pead määratlema koduala, kus sinu kolonistid puhastavad, kustutavad tulekahjusid ja parandavad asju.\n\nMääratle koduala kasutades tsoonide sektsiooni arhitektuuri menüüs.</NeedHomeAreaDesc>
+
+  <NeedBatteries>Vaja patareisid</NeedBatteries>
+  <NeedBatteriesDesc>Sul on ainult päikesegeneratoorid ja puuduvad patareid. See tähendab, et sa kaotad elektri igakord, kui päike loojub.\n\nEhita patarei või paar, et saada läbi öö.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Kauplemismaht puudub</NoTradingCapacity>
+  <NoTradingCapacityDesc>Sul pole viisi kauplemiseks mööduvate laevadega.\n\nEhita kommunikatsiooni konsool.</NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>Lähivõitlejal on kaugrelv</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Ühel sinu kolonistil on lähivõitleja isikupära, aga kannab kaugrelva. See teeb nad väga ebaõnnelikuks.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Kilbi kasutajal on kaugrelv</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Ühel su kolonistidel on personaalne kilp ja kannab kaugrelva. Nad ei saa enda relva lasta läbi kilbi (väljaarvatud sihtmärgid, kes neid juba katsuvad).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Vaja uurimisprojekti</NeedResearchProject>
+  <NeedResearchProjectDesc>Sul on varustus teha uurimistööd, aga ei ole valinud uurimisprojekti.\n\nAva uuringute menüü ja vali projekt.</NeedResearchProjectDesc>
+  
+  <NeedDump>Vaja prügilat</NeedDump>
+  <NeedDumpDesc>Sa oled määranud {0} äravedamiseks, aga kolonistidel pole seda kuhugi viia.\n\nMäära ala ja sätesta selle seaded vastu võtma {0}'d.</NeedDumpDesc>
+
+  <ColonistsIdle>{0} kolonisti tegevuseta</ColonistsIdle>
+  <ColonistsIdleDesc>Need kolonistid ekslevad ilma tegevuseta:\n\n{0}\nSa peaksid arvatavasti neile leidma mingi kasuliku tegevuse.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>Kolonistid vajavad ravi</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Need kolonistid vajavad arstiabi. Ilma selleta nad võivad surra enda haavadesse, või nende haavad võivad muutuda igaveseks.\n\n{0}\nRavi neid saates nad haiglavoodisse.\n\n(Esiteks, määra haiglavoodi valides see ja määrates see haiglavoodiks. Siis, vali haavatud kolonist ja parem klikka haiglavoodile ja tee nad patsiendiks)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hüpotermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Need kolonistid kannatavad hüpotermia käes:\n\n{0}\nKindlusta, et nende riietus on sobiv aastaajale ja et siseruumid on korralikult köetud.</AlertHypothermiaDesc>
+  
+  <ColonistsAwaitingMedicalOperation>{0} kolonisti ootavad meditsiinilist operatsiooni</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>Need kolonistid ootavad meditsiinilist operatsiooni:\n\n{0}\nKindlusta, et sul on kõik vajalikud meditsiinilised töövahendid ja vaba arst.</ColonistsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Tulekahju!</FireInHomeArea>
+  <FireInHomeAreaDesc>Tulekahju on sinu kodualas.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Tõsine haigus</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Inimesed on surmaohus tõsise haiguse tõttu:\n\n{0}\nKindlusta, et nad saavad parima võimaliku arstiabi.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Inimesed on surmaohus tõsise haiguse tõttu:\n\n{0}\nKui võimalik, kaalutle amputeerimist või haigete kehaosade välja vahetamist, et hoida koloniste elus.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Piljard vajab ruumi</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Üks sinu piljardilaudadest on takistuse kõrval, mis takistab koloniste seda kasutamast.\n\nPiljardilaud vajab selle ümber vaba ruumi kõigil külgedel, et olla kasutatav.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Jahimehel on kilp ja kaugrelv</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Ühel sinu jahimeestest on kaugrelv ja kannab personaalset kilpi, mis takistab teda laskmast eemalt.\n\nNad ei saa jahtida, enne kui kilp on eemaldatud.</HunterHasShieldAndRangedWeaponDesc>
+</LanguageData>

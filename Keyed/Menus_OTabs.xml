@@ -37,7 +37,7 @@
   
   <!-- Factions tab -->
   <Hostile>Vaenulik</Hostile>
-  <HostileTo>{0} vaenlane</HostileTo>
+  <HostileTo>{0}'i vaenlane</HostileTo>
   <CurrentGoodwill>Hetke maine selle parteiga.</CurrentGoodwill>
 
   <!-- Statistics tab -->
