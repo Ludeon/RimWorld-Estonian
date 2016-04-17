@@ -3,15 +3,17 @@
   <MainPageCredit>Koloonia simulaator Tynan Sylvester'i poolt</MainPageCredit>
 
   <Credits_Developers>Arendajad</Credits_Developers>
-  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_DirectionVarious>Suund, disain, kood, kunst</Credit_DirectionVarious>
   <Credit_MusicAndSound>Muusika ja hääled</Credit_MusicAndSound>
-  <Credit_AdditionalProgramming>Lisa programmeerimine</Credit_AdditionalProgramming>
+  <Credit_Code>Kood</Credit_Code>
   <Credit_GameArt>Mängu kunst</Credit_GameArt>
-  <Credit_MenuArt>Menüü kunst</Credit_MenuArt>
+  <Credit_MenuArt>Menüü kunst</Credit_MenuArt>,
+  <Credit_AdditionalCode>Lisaprogrammeerimine</Credit_AdditionalCode>
 
   <Credits_TitleCommunity>Kogukonna vabatahtlikud</Credits_TitleCommunity>
   <Credit_Tester>Testija</Credit_Tester>
   <Credit_ModDonation>Modifikatsiooni annetaja</Credit_ModDonation>
+  <Credit_WritingDonation>Kirjutamisdoonor</Credit_WritingDonation>
   <Credit_Moderator>Moderaator</Credit_Moderator>
   <Credit_WikiMaster>Wiki valdaja</Credit_WikiMaster>
 

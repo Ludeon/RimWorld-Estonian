@@ -46,6 +46,9 @@
   <Starvation>Nälgimine</Starvation>
   <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu. Sul on vaja toiduallikat nagu toitainete pasta dispenserist ja natuke selle täitmiseks. Samuti kindlusta, et nad ei ole väeteenistuses.</StarvationDesc>
 
+  <StarvationAnimals>Looma nälgimine</StarvationAnimals>
+  <StarvationAnimalsDesc>Need koloonia loomad nälgivad:\n\n{0}\nHangi neile toitu.</StarvationAnimalsDesc>
+  
   <Exhaustion>Väsimus</Exhaustion>
   <ExhaustionDesc>Need kolonistid on väsinud ja vajavad puhkust:\n\n{0}\nSaa neile natuke puhkust. Neil on vaja voodit märgitud kolonisti kasutuseks. Samuti kindlusta, et nad ei ole väeteenistuses.</ExhaustionDesc>
 
@@ -90,8 +93,8 @@
   <AlertHypothermia>Hüpotermia</AlertHypothermia>
   <AlertHypothermiaDesc>Need kolonistid kannatavad hüpotermia käes:\n\n{0}\nKindlusta, et nende riietus on sobiv aastaajale ja et siseruumid on korralikult köetud.</AlertHypothermiaDesc>
   
-  <ColonistsAwaitingMedicalOperation>{0} kolonisti ootavad meditsiinilist operatsiooni</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>Need kolonistid ootavad meditsiinilist operatsiooni:\n\n{0}\nKindlusta, et sul on kõik vajalikud meditsiinilised töövahendid ja vaba arst.</ColonistsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} patsienti ootavad meditsiinilist operatsiooni</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Need patsiendid ootavad meditsiinilist operatsiooni:\n\n{0}\nKindlusta, et sul on kõik vajalikud meditsiinilised töövahendid ja vaba arst.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Tulekahju!</FireInHomeArea>
   <FireInHomeAreaDesc>Tulekahju on sinu kodualas.</FireInHomeAreaDesc>

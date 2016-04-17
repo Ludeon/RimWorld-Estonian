@@ -12,12 +12,14 @@
 
   <OutOfRange>ulatusest väljas</OutOfRange>
   <CannotHitTarget>ei saa lüüa sihtmärki</CannotHitTarget>
-  <CannotFight>{0} ei saa võidelda</CannotFight>
+  <IsIncapableOfViolenceLower>{0} ei suuda olla vägivaldne</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} ei ole võtluses</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>ei saa käsutada kontrollimatuid üksuseid</CannotOrderNonControlledLower>
 
   <OrderManThing>Mees {0}</OrderManThing>
   
-  <MeleeAttack>Lähivõitle {0}</MeleeAttack>
-  <MeleeAttackToDeath>Lähivõitle {0} surmani</MeleeAttackToDeath>
+  <MeleeAttack>Lähivõitle {0}'ga</MeleeAttack>
+  <MeleeAttackToDeath>Lähivõitle {0}'ga surmani</MeleeAttackToDeath>
   <NoPath>pole teed</NoPath>
 
   <ForbiddenLower>keelatud</ForbiddenLower>
@@ -32,6 +34,8 @@
   <AnimalInteractedTooRecently>loom suhtles liiga hiljuti</AnimalInteractedTooRecently>
   <NoUsableFood>pole kasutatavat toitu</NoUsableFood>
   <AnimalsSkillTooLow>Looma oskus liiga madal</AnimalsSkillTooLow>
+  <NoComponentsToRepair>vaja komponente</NoComponentsToRepair>
+  <NoFuelToRefuel>vaja {0}</NoFuelToRefuel>
 
   <ConsumeThing>Tarbi {0}</ConsumeThing>
   <Teetotaler>täiskarsklane</Teetotaler>
@@ -39,9 +43,9 @@
   <CannotGoNoPath>Ei saa siia minna (pole teed)</CannotGoNoPath>
   <GoHere>Mine siia</GoHere>
   
-  <Arrest>Arresteeri {0}</Arrest>
-  <TryToArrest>Proovi arresteerida {0}</TryToArrest>
-  <CannotArrest>Ei saa arresteerida</CannotArrest>
+  <Arrest>Arreteeri {0}</Arrest>
+  <TryToArrest>Proovi arreteerida {0}</TryToArrest>
+  <CannotArrest>Ei saa arreteerida</CannotArrest>
 
   <Capture>Vangista {0}</Capture>
   <CannotCapture>Ei saa vangistada</CannotCapture>
@@ -53,8 +57,9 @@
   <CannotCarryToCryptosleepCasket>Ei saa kanda krüptouinaku laekasse</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>Pole saadaval krüptouinaku laegas.</NoCryptosleepCasket>
-  <NoPrisonerBed>Pole kättesaadav, reserveerimata, kinnine vangivoodi.</NoPrisonerBed>
-  <NoNonPrisonerBed>Pole kättesaadav, reserveerimata mitte vangivoodi.</NoNonPrisonerBed>
+  <NoPrisonerBed>Pole ühtegi kättesaadavat, reserveerimata, kinnist vangivoodit.</NoPrisonerBed>
+  <NoNonPrisonerBed>Pole ühtegi kättesaadavat, reserveerimata mitte vangivoodit.</NoNonPrisonerBed>
+  <NoAnimalBed>Pole ühtegi kättesaadavat, reserveerimata loomavoodit.</NoAnimalBed>
   <Reserved>Reserveeritud kellegi teise poolt.</Reserved>
   <ReservedBy>Reserveeritud {0} poolt</ReservedBy>
   <IsReservedBy>{0} on reserveeritud {1} poolt.</IsReservedBy>
@@ -68,6 +73,7 @@
   
   <ForceWear>Sund varusta {0}</ForceWear>
   <CannotWear>Ei saa kanda {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>puuduvad keha osad</CannotWearBecauseOfMissingBodyParts>
   
   <Strip>Võta {0} riidest lahti</Strip>
   <CannotStrip>Ei saa võtta {0} riidest lahti</CannotStrip>
@@ -82,6 +88,9 @@
   <UseMedicalBed>Puhka kuni paranenud</UseMedicalBed>
   <NotInjured>Pole vigastatud</NotInjured>
   <SomeoneElseSleeping>Okkupeeritud</SomeoneElseSleeping>
+  
+  <TradeWith>Kauple {0}'ga</TradeWith>
+  <CannotTrade>Ei saa kaubelda</CannotTrade>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Sisene krüptouinaku laekasse</EnterCryptosleepCasket>

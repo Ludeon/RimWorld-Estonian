@@ -8,7 +8,7 @@
   <RelationsBrokenDown>Suhted {0}'ga on halvenenud. Nad on nüüd vaenulikud sinu vastu.</RelationsBrokenDown>
   <RelationsWarmed>Suhted {0}'ga on soojenenud. Nad pole enam vaenulikud sinu vastu.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Kuna sa vangistasid {0}, {1} on nüüd su vastane.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Kuna sa vangistasid {0}, on {1} nüüd su vaenlane.</RelationsBrokenCapture>
 
   <ColonyGoodwill>Koloonia heatahe</ColonyGoodwill>
   <Neutral>Neutraalne</Neutral>
@@ -51,9 +51,52 @@
   <LetterHealthComplications>{0} on arenenud {1}, {2} tõttu.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
 
+  <LetterHediffFromRandomHediffGiver>{0} on arenenud tervislik seisund: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Liidri surm</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{1} kildkonna liider {0} on surnud ja on asendatud {2} poolt.</LetterLeadersDeath>
+  
+  <!-- Family -->
+  <LetterLabelNoticedFamilyMembers>Pere</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>On saabumas sinu kolonistide või vangide perekonnaliikmed {0}'i saabuvas grupis.\n\nJäta meelde, kuigi nad on sugluses, ründavad nad siiski üksteist, sest nende kildkonnad on halvas suhtes.\n\nPerekonnaliikmed on:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>On saabumas sinu kolonistide või vangide perekonnaliikmed {0}'i saabuvas sõbralikus grupis:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>On saabumas sinu kolonistide või vangide perekonnaliikmed saabuvas grupis:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>Orbiidikaupleja müüb sinu kolonistide või vangide perekonnaliikmeid:</LetterFamilyMembersTraderShipSlaves>
+  
+  <FamilyLetterAppendedSuffix>(pere)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>NAME on kolonisti perekonnaliige. HECAP on {0}'i {1}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME on ühe sinu vangide perekonnaliige. HECAP on {0}'i {1}.</FamilyLetterAppendedTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Afäär</LetterLabelAffair>
+  <LetterAffair>{0}, abiellunud {1}'ga, on alustanud afääri {2}'ga.</LetterAffair>
+  <LetterLabelNewLovers>Uued armastajad</LetterLabelNewLovers>
+  <LetterNewLovers>{0} ja {1} on tulnud kokku ja on nüüd armastajad.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} ja {1} pole enam suhtes.</LetterNoLongerLovers>
+  <LetterLabelAcceptedProposal>Abielu vastuvõetud!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Ettepanek lükati tagasi</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} on nõustunud {0}'i abieluettepanekuga.\n\nMingi aeg tulevatel päevadel või hooaegadel korraldavad nad abielutseremoonia ja kutsuvad kõik kolonistid osalema. Kaalutle abielu koha panekut, kui tahad kontrollida kus tseremoonia toimub.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} ei nõustunud {0}'i abieluettepanekuga. {0} ei ole rõõmus selle üle.</LetterRejectedProposal>
+  
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Heatahe</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Halbtahe</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Vaimne murre</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Seotud looma surm</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, seotud {1}'ga, on surnud. See mõjutab {1}'e meeleolu.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} nimega {1}, seotud {2}'ga, on surnud. See mõjutab {2}'e meeleolu.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} on surnud. See mõjutab järgenvate inimeste meeleolu:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} nimega {1} on surnud. See mõjutab järgenvate inimeste meeleolu:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Vanglast põgenemine</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Vangid on korraldanud vangist välja murdmise! Nad on kuidagi lõhkunud ukseluku ja põgenevad välja. Nad võivad otsida relvi, võidelda või proovida põgeneda. Need vangid on seotud:\n\n{0}\n\nVangid on tõenäolisemad põgeneda proovima siis, kui nad on ebaõnnelikud, arvukad ja terved.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>Pidu</LetterLabelNewParty>
+  <LetterNewParty>{0} korraldab pidu! Kõik kes lähevad saavad lõbu ja sotsiaalsetenergiat ja positiivse meeleolu boonuse.</LetterNewParty>
 </LanguageData>

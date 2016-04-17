@@ -5,13 +5,6 @@
   <Lit>Valgustatud</Lit>
   <LitBrightly>Eredalt valgustatud</LitBrightly>
 
-  <!-- diet type -->
-  <NeverEats>Ei söö kunagi</NeverEats>
-  <Omnivorous>Segatoitlane</Omnivorous>
-  <Herbivorous>Taimtoiduline</Herbivorous>
-  <Carnivorous>Lihasööja</Carnivorous>
-  <Dendrovorous>Puusööja</Dendrovorous>
-
   <!-- history upload pref -->
   <Unspecified>Otsustamata</Unspecified>
   <Always>Luba</Always>
@@ -24,6 +17,19 @@
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>väga kallis</PriceTypeExorbitant>
 
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>aedviljad</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>toorliha</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>surnukehad</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>seemned</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>loomatooted</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>elustaimed</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>eluspuud</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>söögikorrad</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>töödeldud toidud</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>alkohol</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>kuivtoit</FoodTypeFlags_AnimalKibble>
+  
   <!-- Quality category -->
   <QualityCategory_Awful>kohutav</QualityCategory_Awful>
   <QualityCategory_Shoddy>vilets</QualityCategory_Shoddy>
@@ -35,7 +41,7 @@
   <QualityCategory_Masterwork>meistritöö</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendaarne</QualityCategory_Legendary>
 
-  <QualityCategoryShort_Awful>khtv</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>kohut</QualityCategoryShort_Awful>
   <QualityCategoryShort_Shoddy>vlts</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>kehv</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>

@@ -14,7 +14,9 @@
   <TabRace>Rass</TabRace>
   <TabBasics>Põhitõed</TabBasics>
   <TabStats>Statistika</TabStats>
+  <TabRecords>Rekordid</TabRecords>
   <TabArt>Kunst</TabArt>
+  <TabSocial>Sotsiaalne</TabSocial>
   
   <!-- Bills tab  -->
   <AddBill>Lisa arve</AddBill>
@@ -62,6 +64,10 @@
   <MedicalOperations>Meditsiinilised operatsioonid</MedicalOperations>
   <Amputate>Amputeeri</Amputate>
   <Harvest>Korista</Harvest>
+  <MemoryLower>mälu</MemoryLower>
+  <SocialInteractionsLower>suhtlused</SocialInteractionsLower>
+  <HungerRate>Nälja kiirus</HungerRate>
+  <Tiredness>Väsimus</Tiredness>
 
   <!-- Medical - Body and activities condition -->
   <None>Puudub</None>
@@ -84,4 +90,14 @@
   <CannotTrainNotSmartEnough>Vajab treenitavat intelligentsust {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} on liiga väike selle treenimiseks.</CannotTrainTooSmall>
   <TrainingNeedsPrerequisite>Eelvajadused: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(no relationships)</NoRelationships>
+  <Kidnapped>Kidnapped</Kidnapped>
+  <Slave>Slave</Slave>
+  <FactionLeader>Faction leader</FactionLeader>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>I'm dead</IAmDead>
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 </LanguageData>

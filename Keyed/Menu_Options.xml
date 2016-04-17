@@ -17,13 +17,15 @@
   <AdaptiveTutorIsReset>Kohanemisvõimeline õpetaja on lähtestatud. Ta nüüd õpetab sind algusest peale.</AdaptiveTutorIsReset>
   <RunInBackground>Jookse tagataustal</RunInBackground>
   <DevelopmentMode>Arendamis mood</DevelopmentMode>
-  <ResetModsConfigOnCrash>Automaatselt lähtesta modifikatsiooni konfiguratsiooni krahh</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Lähtesta modifikatsioonid krahhi korral</ResetModsConfigOnCrash>
   <LogVerbose>Logi sügavaid andmeid</LogVerbose>
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>
   <ChangeStoryteller>Vali loojutustaja</ChangeStoryteller>
-  <AutosaveInterval>Automaatse salvestamise tihedus</AutosaveInterval>
+  <AutosaveInterval>Automaatsalvestuse intervall</AutosaveInterval>
   <TemperatureMode>Temperatuuri mood</TemperatureMode>
+  <ShowRealtimeClock>Näita reaalajas kella</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Maksimaalne automaatsalvestuse intervall lõppsurma moodis on {0} päev.</MaxPermadeathAutosaveIntervalInfo>
 
   <!-- Resolution -->
   <Resolution>Resolutsioon</Resolution>

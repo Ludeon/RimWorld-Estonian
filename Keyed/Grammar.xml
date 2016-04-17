@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <IndefiniteArticle>a</IndefiniteArticle>
-  <DefiniteArticle>the</DefiniteArticle>
-  <IndefiniteForm>a {0}</IndefiniteForm>
-  <DefiniteForm>the {0}</DefiniteForm>
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <Proits>selle</Proits>
   <Prohis>tema</Prohis>
