@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Confirm>Kinnita</Confirm>
+  <GoBack>Tagasi</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Taastatud ühtimatust või korrupeerunud modifikatsiooni krahhist</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Tundub, et mõningad aktiivsed modifikatsioonid põhjustasid krahhi.\n\nNad olid ühtimatud üksteisega, loodud mõnele teisele RimWorld'i versioonile või olid korrupeerunud.\n\nKõik modifikatsioonid on välja lülitatud ja on võimalik uuesti aktiveerida modifikatsioonide menüüst.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Viga Mängufailide laadimisel</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Viga mängu Mängufailide laadimisel. Vaata vealogi rohkema informatsiooni jaoks.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Mäng jookseb hetkel kohandatud modifikatsioonidega, need võivad põhjustada probleeme.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Viga mapi genereerimise ajal</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Viga mapi genereerimise ajal. Vaata vealogi rohkema informatsiooni jaoks.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Viga mapi laadimisel</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Viga mapi laadimisel. Vaata vealogi rohkema informatsiooni jaoks.</ErrorWhileLoadingMap>
+  
+  <!-- Long events -->
+  <InitializingInterface>Kasutajaliidese alglaadimine</InitializingInterface>
+  <UnloadingUnusedAssets>Kasutamata failide mahalaadimine</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Kõigi aktiivsete modifikatsioonide laadimine</LoadingAllActiveMods>
+  <LoadingDefs>Definitsioonide laadimine</LoadingDefs>
+  <LoadingAssets>Mängufailide laadimine</LoadingAssets>
+  <Initializing>Alglaadimine</Initializing>
+  <LoadingWorld>Maailma laadimine</LoadingWorld>
+  <LoadingMap>Mapi laadimine</LoadingMap>
+  <InitializingMap>Mapi alglaadimine</InitializingMap>
+  <SpawningAllThings>Kõigi asjade loomine</SpawningAllThings>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Salvesta</SaveGameButton>
+  <OverwriteButton>Kirjuta üle</OverwriteButton>
+  <LoadGameButton>Lae</LoadGameButton>
+  <ConfirmDelete>Tõesti kustutada {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Kustuta see salvestus.</DeleteThisSavegame>
+  <SavedAs>Salvestatud kui {0}.</SavedAs>
+  <NeedAName>Palun sisesta nimi.</NeedAName>
+  <LoadingLongEvent>Laadimine</LoadingLongEvent>
+  <SavingLongEvent>Salvestamine</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(lõppsurm)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Praegune versioon on {0}, aga salvestusfail on pärit versioonist {1}, mis on täielikult erinev versioon.\n\nSelle salvestuse laadimine arvatavasti ei tööta.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Praegune versioon on {0}, aga salvestusfail on pärit versioonist {1}, mis on erinev revisjon.\n\nSelle salvestuse laadimine peaks veel töötama.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Salvestusfail on salvestatud praeguse mänguversiooniga ja peaks töötama vigadeta.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Salvestusfail on tundmatus formaadis ja peaaegu kindlasti ei tööta õigesti.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Viga faili salvestamisel {0}:\n\n{1}</ProblemSavingFile>
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Tundub, et sa viibid siin mõnda aega. {0} soovitab, et sa annaksid kolooniale nime.\n\nMis peaks koloonia nimi olema?</NameColonyMessage>
+  <ColonyGainsName>Koloonia on nüüd tuntud kui {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>See koloonia nimi ei ole sobiv.</ColonyNameIsInvalid>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Palun sisesta sobiv nimi.</NameIsInvalid>
+  <NameIsInUse>Nimi juba kasutuses.</NameIsInUse>
+  <ZoneGainsName>Tsooni nimi on nüüd {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Kolonisti hüüdnimi on nüüd {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Versiooni ebakõla</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Mapp salvestati mänguversiooniga {0}\nHetke versioon on {1}\n\nSelle salvestusfaili laadimine võib põhjustada vigu ja krahhe.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Maailmafail genereeriti mänguversiooniga {0}\nHetke versioon on {1}\n\nSelle maailma laadimine võib põhjustada vigu ja krahhe. Sa peaksid arvatavasti genereerima uue maailmafaili.</WorldFileVersionMismatch>
+  <ModsMismatchWarningTitle>Modifikatsioonide ebakõla</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Mapp salvestati erinevate modifikatsioonidega kui mis on hetkel aktiivsed. See võib põhjustada probleeme vastavalt sellele, mida need modifikatsioonid teevad.\n\nMapp salvestati järgnevate modifikatsioonidega (järgnevas järjekorras):\n\n{0}\n\nMe jookseme järgnevatega:\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Sa oled muutnud oma ekraaniseadeid. Kas uued seaded töötavad hästi?\n\nAutomaat-lähtestamine {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Säilita</ResolutionKeep>
+  <ResolutionRevert>Lähtesta</ResolutionRevert>
+
+  <!-- Research -->
+  <Research>Uurimistöö</Research>
+  <Researched>Uuritud</Researched>
+  <Unresearched>Uurimata</Unresearched>
+  <Finished>Lõpetatud</Finished>
+  <InProgress>Arengus</InProgress>
+  <Locked>Lukustatud</Locked>
+  <ResearchMenuWithoutBench>Kuni sa ehitad uurimistöö laua, sinu kolonistid ei saa teha uurimistööd teha.\n\nAga sa saad siiski vaadata uurimistöö projekte hetkel.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Uurimistöö eeldused</ResearchPrerequisites>
+  <RequiredResearchBench>Vajalik uurimistöö laud</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Vajalik uurimistöö laua rajatis</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>Hoiatus: Sa maandud külmunud keskkonnas. See võib-olla raske või peaaegu võimatu ellu jääda. Kui sa ei taha ekstreemset väljakutset, siis vali erinev maandumiskoht või hooaeg.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Hoiatus: Mängu jõudlus võib väheneda suurtel mappidel. Ludeonicrous suurus on testimatta ja peaaegu kindlasti ei mängi hästi.</MapSizePerformanceWarning>
+  <MapSize>Mapi suurus</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} blokki)</MapSizeDesc>
+  <MapSizeSmall>Väike</MapSizeSmall>
+  <MapSizeMedium>Keskmine</MapSizeMedium>
+  <MapSizeLarge>Suur</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapStartSeason>Alg hooaeg:</MapStartSeason>
+  <MapStartSeasonDefault>Automaatne</MapStartSeasonDefault>
+  <PermadeathMode>Lõppsurma mood</PermadeathMode>
+  <PermadeathModeInfo>Lõppsurma moodis saad sa ainult ühe salvestusfaili ja saad salvestada ainult mängust väljudes. Sa ei saa mängu uuesti laadida, et parandada vigu ja kui su koloonia sureb, siis on see kõik.\n\nSee on kuidas RimWorld'i on õeldud mängida, väga dramaatiliste pööretega, mis mängivad välja täieliku mõjuga.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <Suspended>Peatatud</Suspended>
+  <NotSuspended>Pole peatatud</NotSuspended>
+  <SuspendedAllCaps>PEATATUD</SuspendedAllCaps>
+  <RepeatCount>Korda: {0}</RepeatCount>
+  <Forever>Lõpmatult</Forever>
+  <Details>Detailid</Details>
+  <IngredientSearchRadius>Koostisosade raadius</IngredientSearchRadius>
+  <CurrentlyHave>Praegu on olemas</CurrentlyHave>
+  <CountingProducts>Loendamine</CountingProducts>
+  <Infinite>Lõpmatu</Infinite>
+  <MinimumSkillLevel>Min. {0} oskus</MinimumSkillLevel>
+  
+  <RecipeCannotHaveTargetCount>(Sellel retseptil ei saa olla sihtmärkkogus, sest sellel on mitu või ettearvamatud saadused)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Töökogus</WorkAmount>
+  <MinimumSkills>Minimaalsed oskused:</MinimumSkills>
+  <BillRequires>Vajab {0} {1}</BillRequires>
+  <BillRequiresNutrition>Vajab {0} toitlikust</BillRequiresNutrition>
+  <BillRequiresMayVary>Märkus: väike-mahu koostisosad nagu kuld vajavad 20x rohkem.</BillRequiresMayVary>
+  <ThisIsSmallVolume>See on väike-mahu koostisosa. See tähendab, et ika 'ühik' on ainult 1/20 sama palju kui normaal-mahu koostisosa. Et täita samad koostisosa kogused, vajad sa 20x rohkem kui tavaliselt.</ThisIsSmallVolume>
+  <UsableIngredients>koostisosad</UsableIngredients>
+  <DoXTimes>Tee X korda</DoXTimes>
+  <DoUntilYouHaveX>Tee kuni sul on X</DoUntilYouHaveX>
+  <DoForever>Tee lõpmatult</DoForever>
+  <BillRepeatTargetCountShort>Kuni {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Kukuta põrandale</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Vii parimasse lattu</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Vii lähimasse lattu</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>Kahju</Damage>
+  <Accuracy>Täpsus</Accuracy>
+  <BurstShotCount>Järglaskudearv</BurstShotCount>
+  <WarmupTime>Ülessoenemine</WarmupTime>
+  <MeleeWarmupTime>Lähivõitluse ülessoenemine</MeleeWarmupTime>
+  <CooldownTime>Jahtumisaeg</CooldownTime>
+  <BurstShotFireRate>Laskekiirus</BurstShotFireRate>
+  <Range>Kaugrelv</Range>
+  <GrowsWild>Kasvab metsikuks</GrowsWild>
+  <Harvestable>Korjatav</Harvestable>
+  <LimitedLifespan>Piiratud eluaeg</LimitedLifespan>
+  <GrowingTime>Kasvuaeg</GrowingTime>
+  <GrowingTimeDesc>Taimed kasvab ainult osa päevas ja ainult siis kui on piisavalt valgust. See statistika mõõdab kui palju aega taim tegelikult peab kasvama, et kasvada täissuuruseks. Tegelik päris kasvamisaeg on üldiselt umbes kaks korda pikem. Madalad temperatuurid vähendavad samuti kasvukiirust.</GrowingTimeDesc>
+  <Days>päeva</Days>
+  <FertilityRequirement>Viljakuse nõue</FertilityRequirement>
+  <LightRequirement>Valguse nõue</LightRequirement>
+  <Attributes>Atribuudid</Attributes>
+  <LifeSpan>Elupikkus</LifeSpan>
+  <Nutrition>Toitlikkus</Nutrition>
+  <Joy>Lõbu</Joy>
+  <FoodQuality>Todi kvaliteet</FoodQuality>
+  <WalkSpeedProperty>Kõndimiskiirus</WalkSpeedProperty>
+  <MinFoodQuality>Min. toidu kvaliteet</MinFoodQuality>
+  <Diet>Diet</Diet>
+  <RecruitDifficulty>Värbamisraskus</RecruitDifficulty>
+  <MarketValue>Alghind</MarketValue>
+  <Covers>Katted</Covers>
+  <BodyPartEfficiency>Keha osa efektiivsus</BodyPartEfficiency>
+  <MoodChange>Meeleolu muutus</MoodChange>
+  <Wildness>Metsikus</Wildness>
+  <WildnessExplanation>Metsikuid loomi on raskem talsutada, treenida ja käsitseda.</WildnessExplanation>
+  <AnimalFilthRate>Looma mustuse kiirus</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Loomad toodavad mustust kui liiguvad ringi konstrueeritud põrandatel. See on keskmine kogus toodetud mustust {0} kõnnitud bloki kohta.\n\nSuuremad või vähem kodulooma moodi loomad toodavad rohkem mustust.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Aeg</TimeRecordsCategory>
+  <MiscRecordsCategory>Muu</MiscRecordsCategory>
+
+  <!-- Trade -->
+  <DragToTrade>Lohista number,\net kaupelda</DragToTrade>
+  <BuyPriceDesc>Hind, mis sa maksad kui sa ostad selle.</BuyPriceDesc>
+  <SellPriceDesc>Hind, mis sa saad selle müümise eest.</SellPriceDesc>
+  <PriceTypeDesc>Selle asja eest on hind {0}.</PriceTypeDesc>
+  <ColonyCount>Kui palju on seda kaupa koloonial valmis kauplemiseks.\n\nSa saad ainult müüa asju orbitaalkauplejatele, kui nad on väljas ja kaubamajakate lähedal.</ColonyCount>
+  <TraderCount>Kui palju on seda kaupa kauplejal valmis kauplemiseks.</TraderCount>
+  <AcceptButton>Kinnita</AcceptButton>
+  <ResetButton>Lähtesta</ResetButton>
+  <CancelButton>Katkesta</CancelButton>
+  <YourTradeableSilver>Sinu kaubeldav hõbe: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Sa saad ainult kaubelda hõbedaga, mis on kaubamajakate lähedal ja pole katuse all.</YourTradeableSilverTip>
+  <TraderHasNoMore>Kauplejal pole rohkem.</TraderHasNoMore>
+  <ColonyHasNoMore>Pole rohkem müüa.</ColonyHasNoMore>
+  <TraderWillNotTrade>Kaupleja pole nõus seda kaupa sisse vahetama.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Sinu kaupleja {0} ei saa rääkida halva tervise tõttu.\n\nSee mõjutab kaubahindu.\n\nKaalu parema tervisega kaupleja kasutamist.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Kauplejal on ebasobiv kogus, et täielikult katta see vahetus. Jätkata sellest hoolimata?</ConfirmTraderShortFunds>
+  <SortBy>Sorteeri</SortBy>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Suhtlemisoskus: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>Uurimustöö lõpetatud: {0}</ResearchFinished>
+  <ResearchScreen>Uurimistöö ekraan</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Kas sa tahad laadida üles enda mängimise andmed RimWorld'i serveritesse, et aidata arendajatel mängu parandada? Kui sa nõustud, siis sinu andmed laetakse üles iga {0} päeva järel (ja mõningatel teistel harudastel juhtudel nagu mängu lõpp). Privaatsuseelistusi saab vahetada hiljem seadete menüüs.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Kuigi ajalugu on saadetud anonüümselt, saad sa lisada oma nime.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Luba mängimise andmete üleslaadimine</HistoryUploadYes>
+  <HistoryUploadNo>Ära luba mängimise andmete üleslaadimist</HistoryUploadNo>
+  <HistoryUploadYesOnce>Lae üles ainult see kord</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Ära lae üles seekord, küsi hiljem uuesti</HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <Outfit>Komplekt</Outfit>
+  <SelectOutfit>Vali komplekt...</SelectOutfit>
+  <NewOutfit>Uus komplekt</NewOutfit>
+  <DeleteOutfit>Kustuta komplekt...</DeleteOutfit>
+  <OutfitInUse>Komplekt on kasutuses {0} poolt.</OutfitInUse>
+  <NoOutfitSelected>Ühtegi komplekti pole valitud</NoOutfitSelected>
+</LanguageData>

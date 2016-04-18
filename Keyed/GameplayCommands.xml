@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandForbiddenDesc>Keelatud - kolonistid ei kasuta seda.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Pole keelatud - kolonistid võivad seda kasutada.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Lülita elektrit</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Lülitab elektrit sisse või välja.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Määra elektrilülitus</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Määra seda asja elektrit lülitatama. Kolonistib tuleb varsti ja vajutab lülitit.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>Ühenda uuesti</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Proovi uuesti ühendada muu elektrivõrguga ühendusraadiuses. See on kasulik kui on ühendatud alatoidetud võrguga või kui on muu elektrivõrk läheduses.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Kogumistkoht</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiive - kolonistid kogunevad selle koha ümber.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Mitteaktiivne - kolonistid ei kogune selle koha ümber.</CommandGatherSpotToggleDescInactive>
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Võitlusesse</CommandDraftLabel>
+  <CommandUndraftLabel>Võitlusest välja</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Lülita võitluses osalemist.\n\nOsalevad inimesed võtavad käske ja võitlevad. Nad ei tööta, söö, ega puhka.</CommandToggleDraftDesc>
+  <IsIncapped>{0} on teadvusetu.</IsIncapped>
+  
+  <CommandCancelConstructionLabel>Tühista</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Tühista see konstruktsioon.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Tõuse üles</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Tõuse üles hetke voodist.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Määra omanik</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Määra see voodi omatavaks kindla kolonisti poolt.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Määra kolonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Määra see haud omatavaks kindla kolonisti poolt.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Määra</BuildingAssign>
+  <BuildingUnassign>Tühista määrang</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Määra vangidele</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Määra voodid selles ruumis kasutavateks vangide poolt.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Ei saa määrata välivoodeid vangidele.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Määra kolonistidele</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Määra voodid selles ruumis kasutavateks kolonistide poolt.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Määra meditsiiniliseks</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Määra see voodi ainult meditsiiniliseks kasutuseks.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Määra mitte-meditsiiniliseks</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Määra see voodi mitte-meditsiiniliseks kasutuseks.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Vangimoodi sisselülitamine mõjutab tervet ruumi (sest vangid ja kolonistid ei saa magada samas ruumis).\n\nNeed inimesed kaotavad oma voodi:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Vangimoodi väljalülitamine mõjutab tervet ruumi (since prisoners and colonists cannot sleep in the same room).\n\nNeed inimesed kaotavad oma voodi:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Oled kindel, et tahad seda teha?</AreYouSure>
+
+  <CommandDetonateLabel>Lõhka</CommandDetonateLabel>
+  <CommandDetonateDesc>Algatab stardiloenduse lõhkemiseni.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>Nimeta ümber</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Nimeta ümber see tsoon.</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>Peida</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Ära peida</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Peida/ära peida seda tsooni.</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>Kustuta</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Kustuta see tsoon.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Kopeeri seaded</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Kopeeri selle tsooni seaded lõikelauale, et saaksid need kleepida teisele tsoonile.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Kleebi seaded</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Kirjuta üle selle tsooni seaded nendega, mis on eelnevalt lõikelauale kopeeritud.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Luba külvamine</CommandAllowSow>
+  <CommandAllowSowDesc>Kui keelatud, siis kolonistid kunagi ei külva taimi selesse tsooni. Nad siiski veel koristavad saaki.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Sea sunnitud sihtmärk</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Seab sihtmärgi, mida see kahur peab ründama jätkuvalt niikaua kui ta saab.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Peata sunnitud ründamine</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Peatab sunnitud ründamise ja lubab kahuril lasta nii nagu ta soovib.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Hetkel ei sundründa.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Sihtmärk kaugemal kui maksimaalne kaugus.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Sihtmärk lähemal kui minimaalne kaugus.</MessageTargetBelowMinimumRange>
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Alusta õhkutõus</CommandShipLaunch>
+  <CommandShipLaunchDesc>Alustab laeva õhkutausu järjekorra hetke konfiguratsiooniga.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Näita õhkutõusu raportit</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Näitab valmisoleku raportit laeva õhkutõusu võimest.</CommandShipLaunchReportDesc>
+
+  <!-- Pod -->
+  <CommandPodEject>Väljuta magaja</CommandPodEject>
+  <CommandPodEjectDesc>Ärata üles krüptomagaja ja väljuta ta.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Ei sisalda kedagi.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>Läbiminek keelatud</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Kui uks keelatud, siis kolonistid ja liitlased ei lähe sellest läbi. See ei mõjuta kuidas vaenlased ja loomad uksega käituvad.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Hoia lahti</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Kui aktiivne, siis sinu kolonistid ei sulge ust peale läbiminekut.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Lähtesta</CommandResetTemp>
+  <CommandResetTempDesc>Lähtesta sihttemperatuur ruumi temperatuurile.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Tõsta sihttemperatuuri.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Alanda sihttemperatuuri.</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>Paigalda</CommandInstall>
+  <CommandInstallDesc>Asi on hetkel pakitud hoiustamiseks või transporidks. Kasuta seda käsku, et paigaldada see lõplikusse asukohta.</CommandInstallDesc>
+  <CommandReinstall>Paigalda uuesti...</CommandReinstall>
+  <CommandReinstallDesc>Määra see toode maha võtmiseks ja ümber paigaldamiseks kuhugi mujale.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Loo hoiukoht selle ehitise ümber, mis oleks täpselt kauplemismajaka raadiuse kujuga.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Loo hoiukoht</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Loo kasvukoht ümber selle ehitise, mis oleks täpselt lampi valguse raadiuse kujuga.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Loo kasvukoht</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>Automaatselt taasrelvasta</CommandAutoRearm>
+  <CommandAutoRearmDesc>Kui see on sees, siis lõks määratakse automaatseks taasrelvastamiseks kui see päästetakse lahti.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Vabasta loomad</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Kui see on sees, siis taltsutatud loomad saadetakse kaugsihtmärke ründama. Kui see on väljas, siis nad jäävad peremehe lähedusse valvama.</CommandReleaseAnimalsDesc>
+  
+  <!-- Squad attack -->
+  <CommandSquadAttack>Ründa</CommandSquadAttack>
+  <CommandSquadAttackDesc>Käsuta valitud kolonistid ründama sihtmärki.</CommandSquadAttackDesc>
+</LanguageData>

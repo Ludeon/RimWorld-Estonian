@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FactionGreetingHostile>{0} karjub monitorisse ja katkestab ühenduse.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} tervitab {1}'i ettevaatlikult ja küsib mis ta tahab.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} tervitab {1}'i soojalt ka küsib kuidas koloonial läheb.</FactionGreetingWarm>
+
+  <Disconnect>Katkesta ühendus</Disconnect>
+
+  <OfferGift>Paku kingitust</OfferGift>
+  <NeedSilverLaunchable>vaja {0} hõbedat kaubandusmajaka lähedal</NeedSilverLaunchable>
+  <NotEnoughSilver>Pole piisavalt hõbedat.</NotEnoughSilver>
+  <SilverForGoodwill>{0} hõbedat {1} heatahte eest</SilverForGoodwill>
+  <SilverGiftSent>{0}'i esindaja tänab sind.\n\n(Heatahe paranes {1} võrra).</SilverGiftSent>
+
+  <RequestMilitaryAid>Palu kohest sõjalist abi ({0} heatahet)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} ei aita sul võidelda teiste kildkondadega, kes ei ole nende vaenlased. See sisaldab ka mõningaid, kes sind praegu ähvardavavad, {1}. Kas sa soovid sellest hoolimata abi paluda?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Jah, helista sellest hoolimata.</CallConfirm>
+  <CallCancel>Ei, ära pane tähele.</CallCancel>
+  <MilitaryAidSent>{0}'i esindaja nõustub saatma võitlejaid sulle appi.</MilitaryAidSent>
+</LanguageData>

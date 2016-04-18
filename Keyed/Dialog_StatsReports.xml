@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StatsReport_BaseValue>Baasväärtus</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Asjakohased iseloomujooned</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Asjakohane varustus</StatsReport_RelevantGear>
+  <StatsReport_LifeStage>Eluetapp</StatsReport_LifeStage>
+  <StatsReport_Material>Materjal</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakteri kvaliteet</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Oskuse faktorid</StatsReport_Skills>
+  <StatsReport_OtherStats>Teised väärtuse faktorid</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Tervise faktorid</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} tähtsus</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Järg-töödeldud kurv</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Lõppväärtus</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Baas turuhind on arvutatud ehitusmaterjalidest ja töökogusest.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Kvaliteedi kordaja</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>{0} vanuse kordaja</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>{0} tervise kordaja</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>{0} meeleolu kordaja</StatsReport_MoodMultiplier>
+  <StatsReport_DifficultyMultiplier>{0} raskuse kordaja</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Voodis</StatsReport_InBed>
+  <StatsReport_Facilities>Rajatised</StatsReport_Facilities>
+  <StatsReport_BodySize>{0} keha suuruse kordaja</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Väärtust kuvatakase järgenvas formaadis:\nDPS ( Lähivõitluse kahju / Jahtumisperiood sekundites / Lähivõitluse löögivõimalus )\n\nDPS = Lähivõitluse kahju * Lähivõitluse löögivõimalus / Jahtumisperiood sekundites</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Lähivõitluse kahju</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Jahtumisperiood</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Lähivõitluse löögivõimalus</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0}s</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Oodatav eluiga</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Puuduvate kehaosade kordaja</StatsReport_MissingBodyParts>
+  <AverageOfAllAttacks>kõihi rünnakute keskmine</AverageOfAllAttacks>
+  <StatsReport_UnpoweredWorkTable>Pole elektrit</StatsReport_UnpoweredWorkTable>
+</LanguageData>
