@@ -47,7 +47,7 @@
 
   <!--=========== Mods screen ==========-->
   <OpenSteamWorkshop>Ava Steam'i Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Hangi modifikatsiooni foorumist</GetModsFromForum>
+  <GetModsFromForum>Hangi modifikatsioone foorumist</GetModsFromForum>
   <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Oled sa kindel, et tahad kustutada kogu {0} sisu?</ConfirmDeleteMod>

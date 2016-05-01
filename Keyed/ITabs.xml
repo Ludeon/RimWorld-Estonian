@@ -92,12 +92,12 @@
   <TrainingNeedsPrerequisite>Eelvajadused: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <NoRelationships>(no relationships)</NoRelationships>
-  <Kidnapped>Kidnapped</Kidnapped>
-  <Slave>Slave</Slave>
-  <FactionLeader>Faction leader</FactionLeader>
-  <OpinionOf>Opinion of {0}</OpinionOf>
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
-  <IAmDead>I'm dead</IAmDead>
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <NoRelationships>(suhted puuduvad)</NoRelationships>
+  <Kidnapped>Röövitud</Kidnapped>
+  <Slave>Ori</Slave>
+  <FactionLeader>Kildkonna juht</FactionLeader>
+  <OpinionOf>Arvamust {0}'st</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'i arvamus minust</SomeonesOpinionOfMe>
+  <IAmDead>Ma olen surnud</IAmDead>
+  <IAmPsychopath>Ma olen psühhopaat</IAmPsychopath>
 </LanguageData>

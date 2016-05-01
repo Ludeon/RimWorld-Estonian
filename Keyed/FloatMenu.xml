@@ -8,7 +8,7 @@
   <CannotUseReserved>Ei saa kasutada (reserveeritud)</CannotUseReserved>
   <CannotUseFull>Ei saa kasutada (täis)</CannotUseFull>
   
-  <FireAt>Tulekahju {0}</FireAt>
+  <FireAt>Tulista {0}</FireAt>
 
   <OutOfRange>ulatusest väljas</OutOfRange>
   <CannotHitTarget>ei saa lüüa sihtmärki</CannotHitTarget>
