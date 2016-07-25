@@ -64,6 +64,7 @@
   <MedicalOperations>Meditsiinilised operatsioonid</MedicalOperations>
   <Amputate>Amputeeri</Amputate>
   <Harvest>Korista</Harvest>
+  <RemoveOrgan>Eemalda</RemoveOrgan>
   <MemoryLower>mälu</MemoryLower>
   <SocialInteractionsLower>suhtlused</SocialInteractionsLower>
   <HungerRate>Nälja kiirus</HungerRate>

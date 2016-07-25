@@ -9,6 +9,7 @@
   <!-- Gameplay -->
   <EdgeScreenScroll>Ekraani hiirega liigutamine</EdgeScreenScroll>
   <PauseOnLoad>Peata laadimisel</PauseOnLoad>
+  <PauseOnUrgentLetter>Peata tähtsa kirja korral</PauseOnUrgentLetter>
   <CustomCursor>Erinev hiir</CustomCursor>
   <KeyboardConfig>Klaviatuuri konfiguratsioon</KeyboardConfig>
   <ChooseLanguage>Vali keel</ChooseLanguage>
@@ -22,7 +23,7 @@
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>
   <ChangeStoryteller>Vali loojutustaja</ChangeStoryteller>
-  <AutosaveInterval>Automaatsalvestuse intervall</AutosaveInterval>
+  <AutosaveInterval>Salvestamise intervall</AutosaveInterval>
   <TemperatureMode>Temperatuuri mood</TemperatureMode>
   <ShowRealtimeClock>Näita reaalajas kella</ShowRealtimeClock>
   <MaxPermadeathAutosaveIntervalInfo>Maksimaalne automaatsalvestuse intervall lõppsurma moodis on {0} päev.</MaxPermadeathAutosaveIntervalInfo>

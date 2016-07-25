@@ -14,6 +14,7 @@
   <Unowned>Omanik puudub</Unowned>
   <DeadTime>Surnud {0}</DeadTime>
   <WalkSpeed>kõndimiskiirus {0}</WalkSpeed>
+  <FertShort>vilj.</FertShort>
   <DyingLower>suremine</DyingLower>
   <FilthOnFeet>Mustust jalgadel:</FilthOnFeet>
   <NotEnoughStoredLower>pole piisavalt hoiustatud</NotEnoughStoredLower>
@@ -40,7 +41,6 @@
   <Off>Väljas</Off>
   <PowerSwitch_Power>Elekter</PowerSwitch_Power>
   <JoyTolerances>Rõõmu tolerantsid</JoyTolerances>
-  <MentalStateLetterLabel>Vaimne seisund</MentalStateLetterLabel>
   <MilkFullness>Piima kogus</MilkFullness>
   <WoolGrowth>Karvakasv</WoolGrowth>
   <EggProgress>Muna edenemine</EggProgress>
@@ -53,24 +53,31 @@
   <BrokenDown>Katki</BrokenDown>
   <BondBrackets>(side)</BondBrackets>
   <Fuel>Kütus</Fuel>
+  <Enemies>vastased</Enemies>
+  <TimePassed>aega möödunud</TimePassed>
+  <CurrentRadius>praegune raadius</CurrentRadius>
+  <RadiusExpandsIn>raadius suureneb</RadiusExpandsIn>
+  <Permanent>püsiv</Permanent>
   
   <!--TextMotes-->
-  <Headshot>Lask pähe</Headshot>
+  <Headshot>Pähelask</Headshot>
   <TreatQuality>ravimiskvaliteet {0}</TreatQuality>
   <PoorResult>halb tulemus</PoorResult>
   <GoodResult>hea tulemus</GoodResult>
   <TextMote_TreatSuccess>Ravi õnnestus!\n{0} võimalus</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Ravi ebaõnnestus\n{0} võimalus</TextMote_TreatFailed>
   <HarvestFailed>Saagikoristus\nebaõnnestus</HarvestFailed>
+  <TextMote_RecruitFail>Värbamine ebaõnnestus!\n{0} chance</TextMote_RecruitFail>
   <TextMote_TameFail>Taltsutamine ebaõnnestus\n{0} võimalus</TextMote_TameFail>
   <TextMote_TameSuccess>Taltsutatud!\n{0} võimalus</TextMote_TameSuccess>
   <TextMote_TrainFail>Treenimine ebaõnnestus: {0}\n{1} võimalus</TextMote_TrainFail>
   <TextMote_TrainSuccess>Treenitud: {0}\n{1} võimalus</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Parandamine\nebaõnnestus</TextMote_FixBrokenDownBuildingFail>
-
+  <TextMote_ConstructionFail>Ehitamine\nebaõnnestus</TextMote_ConstructionFail>
 
   <!-- Areas -->
   <Home>Kodu</Home>
+  <BuildRoof>Ehita katus</BuildRoof>
   <NoRoof>Katus puudub</NoRoof>
   <SnowClear>Lumepuhastus</SnowClear>
   <AreaDefaultLabel>Tsoon {0}</AreaDefaultLabel>
@@ -110,12 +117,18 @@
   <WatchingSunset>Vaatab päikeseloojangut</WatchingSunset>
   <Stargazing>Vaatab tähti</Stargazing>
   <WatchingEclipse>Vaatab varjutust</WatchingEclipse>
-  <DeliveringFood>Viib toitu {0}'le.</DeliveringFood>
-  <UsingVerb>Kasutab {0} {1} peal.</UsingVerb>
+  <UsingVerb>Kasutab {0}'i {1} peal.</UsingVerb>
   <AreaLower>tsoon</AreaLower>
-  <ReportCowering>Kardab.</ReportCowering>
+  <ReportCowering>kardab.</ReportCowering>
+  <ReportStanding>seisab.</ReportStanding>
+  <ReportExtinguishingFire>tulekustutamine.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>tulekustutamine {0} peal.</ReportExtinguishingFireOn>
   
-	<!-- Shooting report -->
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>Osalemine abielu tseremoonial</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Osalemine peol</LordReportAttendingParty>
+  
+  <!-- Shooting report -->
   <WeaponMissRadius>Relva möödalaske kaugus</WeaponMissRadius>
   <ShootReportShooterAbility>Laskja</ShootReportShooterAbility>
   <ShootReportWeapon>Relv</ShootReportWeapon>
@@ -126,6 +139,7 @@
   <ShootingCover>Kate</ShootingCover>
   <CoverThingBlocksPercentOfShots>{0} peatab {1}</CoverThingBlocksPercentOfShots>
   <NoCoverLower>kate puudub</NoCoverLower>
+  <Execution>Hukkamine</Execution>
 	
   <!-- Generated recipes -->
   <RecipeMake>Valmista {0}</RecipeMake>
@@ -135,8 +149,9 @@
   <ThoughtExpiresIn>Saab läbi: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Hakkab läbi saama: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>Saab läbi lõplikult: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdHard>Raske vaimse murde piir</MentalBreakThresholdHard>
-  <MentalBreakThresholdSoft>Kerge vaimse murde piir</MentalBreakThresholdSoft>
+  <MentalBreakThresholdExtreme>Ekstreemse vaimse murde piir</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Suure vaimse murde piir</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Väikse vaimse murde piir</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
@@ -185,16 +200,8 @@
   <RotStateDessicated>Dessicated</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
-  <ShotBy>Lastud {0} poolt</ShotBy>
+  <ShotBy>Lastud {0}'i  poolt</ShotBy>
   <CannotHit>Ei saa sihtmärgile pihta.</CannotHit>
-
-  <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Hoiustamata</StoragePriorityUnstored>
-  <StoragePriorityLow>Madal</StoragePriorityLow>
-  <StoragePriorityNormal>Keskmine</StoragePriorityNormal>
-  <StoragePriorityPreferred>Eelistatud</StoragePriorityPreferred>
-  <StoragePriorityImportant>Tähtis</StoragePriorityImportant>
-  <StoragePriorityCritical>Kriitiline</StoragePriorityCritical>
 
   <!-- Rotting -->
   <CurrentlyFrozen>Külmutatud (ei rikne)</CurrentlyFrozen>
@@ -244,6 +251,7 @@
   <ZoneVisibilityToggleButton>Lülita tsoonide nähtavust.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Lülita ilukuva.\n\nKuvab ilu, nagu nähtuna karakteri poolt, kui seisab hiire poolt osutatud kohas.</ShowBeautyToggleButton>
   <ShowRoomStatsToggleButton>Lülita ruumi statistika kuva.\n\nNäitab hiire poolt osutatava ruumi statistikat.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Lülita kolonisti riba.\n\nKuvab ikoone ja põhiolekut kõigi kolonistide kohta ekraani ülaosas.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Lülita automaatselt kodutsooni suurendamine ümber uute ehitiste.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Lülita kategoriseeritus ressurside kuval.</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Lülita loomanimede kuvamine taltsutatud loomadel.</ShowAnimalNamesToggleButton>
@@ -256,6 +264,8 @@
  
   <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Erilised tingimused mõjutavad ala hetkel.</MapConditionsTip>
+  <TimeLeft>aega jäänud</TimeLeft>
+  <ImpactDate>kõkkupõrkeaeg</ImpactDate>
 
   <!-- Building placement -->
   <NoStuffsToBuildWith>Sul pole kasutatavaid materjale, millest saaksid selle ehitada.</NoStuffsToBuildWith>
@@ -269,14 +279,13 @@
   <MustPlaceVentWithFreeSpaces>Mõlemad pooled peavad olema vabad, et õhk pääseks läbi.</MustPlaceVentWithFreeSpaces>
   <MustPlaceAdjacentStandable>Peab asetatama koos seisuruumiga kõikidel pooltel.</MustPlaceAdjacentStandable>
 	
-	<!-- Wind Turbine -->
+  <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Blokeeritud</WindTurbine_WindPathIsBlockedBy>
   <WindTurbine_WindPathIsBlockedByRoof>Blokeeritud katuse poolt</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Cryptosleep casket -->
   <CasketContains>Sisaldab</CasketContains>
-  <CasketUnknownContents>Tundmatu</CasketUnknownContents>
-  <CasketWarning>Hoiatus!\n\nNAME on sinu viimane vaba kolonist! Kui sa lased tal laekasse, siis sul ei pruugi olla võimalik jätkata mängimist. Oled kindel, et tahad jätkata?</CasketWarning>
+  <CasketWarning>Hoiatus!\n\nNAME on sinu viimane vaba kolonist! Kui sa lased tal laekasse astuda, siis sul ei pruugi olla võimalik jätkata mängimist. Oled kindel, et tahad jätkata?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Ei saa õhku tõusta.</ShipReportCannotLaunch>
@@ -285,14 +294,7 @@
   <ShipReportNoFullPods>Pole ühtegi täis krüptoune laegast</ShipReportNoFullPods>
 
   <!-- Neurotrainer -->
-  <UseNeurotrainer>Kasuta neurotrainer'it, et õppida {0}</UseNeurotrainer>
-  <NeurotrainerUsed>{0} kasutas {1} neurotrainerit, et minna level {2} level {3}'ele.</NeurotrainerUsed>
-  
-  <!-- Artifact -->
-  <UseArtifact>Aktiveeri</UseArtifact>
-  
-  <!-- Firefoam popper -->
-  <TriggerFirefoamPopper>Käivita tulevahu kahur</TriggerFirefoamPopper>
+  <NeurotrainerUsed>{0} kasutas {1} neurotrainerit, et minna level {2}'lt level {3}'ini.</NeurotrainerUsed>
   
   <!-- Minification -->
   <Installed>Paigaldatud</Installed>
@@ -323,6 +325,7 @@
   <!-- Game over -->
   <GameOverEveryoneDead>Kõik on surnud või läinud. See lugu on läbi.\n\nVõib-olla keegi leiab kunagi kasutuse selle koha varemetele.</GameOverEveryoneDead>
   <GameOverShipLaunched>Sa oled tõusnud õhku laevaga! Need kolonistid pääsesid:\n\n{0}\nNeed kolonistid jäid maha:\n\n{1}\nSinu AI proovib sind nüüd juhatadaa turvalisesse kohta. Ta võib sulle leida õitseva planeedi siin süsteemis, või ta võib võtta ette sajandite pikkuse teekonna mõnele teisele tähele. Ta võib isegi otsustada peita ennast jää all mõnel asteroidil mõneks tuhandeks aastaks ja oodata, et keegi ehitab siin uue säramaailm.\n\nSa saad teada, kui üles ärkad.</GameOverShipLaunched>
+  <GameOverPlanetkillerImpact>Peaaegu valguskiirusel tabas planeeditapja relv maad miljardi vesinikupommi jõuga. Nagu vintpüssiga lastud veepall veeldus see maailm kõkkupõrke mõjul ja pritsis oma sulanud sisu kosmosesse.\n\nOsa {0}'st on nüüd väike asteroidivöö. Ülejäänud on sulanud, radioaktiivne põrgu, mis koguaeg vappub kilomeetri kõrguste planeedivärinate käes.\n\nSa ei jäänud ellu.</GameOverPlanetkillerImpact>
   <GameOverKeepPlaying>Jätka mängimist</GameOverKeepPlaying>
   <GameOverMainMenu>Põhimenüü</GameOverMainMenu>
   
@@ -341,4 +344,27 @@
   <DiseaseGrowthModeChanged_Growing>{0}'i {1} nüüd kasvab.</DiseaseGrowthModeChanged_Growing>
   <DiseaseGrowthModeChanged_Stable>{0}'i {1} on nüüd stabiilne.</DiseaseGrowthModeChanged_Stable>
   <DiseaseGrowthModeChanged_Remission>{0}'i {1} on nüüd taandumas.</DiseaseGrowthModeChanged_Remission>
+  
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>Kasutatav nüüd.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Pole kasutatav: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>blokeeritud</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>liiga ohtlik {0} jaoks</MarriageSpotDangerous>
+  <MarriageSpotForbidden>keelatud {0} jaoks</MarriageSpotForbidden>
+  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <MarriageSpotUnreachable>ligipääsmatu {0} jaoks</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>vangikongis</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>ebameeldiv temperatuur</NotEnjoyableOutsideTemperature>
+  
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>Meditsiinline puhkus</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Magab</ActivityIconSleeping>
+  <ActivityIconFleeing>Põgeneb</ActivityIconFleeing>
+  <ActivityIconAttacking>Võitleb</ActivityIconAttacking>
+  <ActivityIconIdle>Tegevusetu</ActivityIconIdle>
+  <ActivityIconBurning>Põleb</ActivityIconBurning>
+
+  <!-- Maintainable -->
+  <DueForMaintenance>Aeg hoolduse jaoks.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Nõrgeneb hooldusematuse tõttu.</DeterioratingDueToLackOfMaintenance>
 </LanguageData>

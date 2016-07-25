@@ -7,6 +7,7 @@
   <PassionNone>Puudub (õpib {0}x)</PassionNone>
   <PassionMinor>Huvitatud (õpib {0}x)</PassionMinor>
   <PassionMajor>Põlev (õpib {0}x)</PassionMajor>
+  <LearnedMaxToday>Õppis täna maksimaalselt ({0}/{1}, ülejäänud õppimine on kordajaga {2})</LearnedMaxToday>
   <EffectsAtLevel>Effekt {0} levelil</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
 

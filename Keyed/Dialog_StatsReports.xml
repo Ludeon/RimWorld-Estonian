@@ -28,6 +28,7 @@
   <StatsReport_CooldownFormat>{0}s</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>Oodatav eluiga</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Puuduvate kehaosade kordaja</StatsReport_MissingBodyParts>
-  <AverageOfAllAttacks>kõihi rünnakute keskmine</AverageOfAllAttacks>
+  <AverageOfAllAttacks>kõigi rünnakute keskmine</AverageOfAllAttacks>
   <StatsReport_UnpoweredWorkTable>Pole elektrit</StatsReport_UnpoweredWorkTable>
+  <StatsReport_ScenarioFactor>Stsenaarium</StatsReport_ScenarioFactor>
 </LanguageData>

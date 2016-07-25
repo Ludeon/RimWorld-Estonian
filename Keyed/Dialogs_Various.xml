@@ -17,6 +17,9 @@
   <ErrorWhileLoadingMapTitle>Viga mapi laadimisel</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Viga mapi laadimisel. Vaata vealogi rohkema informatsiooni jaoks.</ErrorWhileLoadingMap>
   
+  <!-- Missing Steam -->
+  <SteamClientMissing>Ei saanud initialiseerida Steam'i API'd. Võimalikud põhjused:\n\n-Steam ei tööta.\n-Käima pandud väljaspool Steam'i ilma steam_appid.txt'ita kaustas.\n-Jookseb erinevate lubadega kui Steam'i klient (e.g. "administraatorina").\n\nEnamus juhtudel sinu arvuti taaskäivitina parandab selle probleemi.\n\nSteam'i versioon mängust vajab Steam'i töötamiseks ja seetõttu nüüd sulgub.</SteamClientMissing>
+  
   <!-- Long events -->
   <InitializingInterface>Kasutajaliidese alglaadimine</InitializingInterface>
   <UnloadingUnusedAssets>Kasutamata failide mahalaadimine</UnloadingUnusedAssets>
@@ -31,8 +34,8 @@
   
   <!-- Save/load -->
   <SaveGameButton>Salvesta</SaveGameButton>
-  <OverwriteButton>Kirjuta üle</OverwriteButton>
   <LoadGameButton>Lae</LoadGameButton>
+  <OverwriteButton>Kirjuta üle</OverwriteButton>
   <ConfirmDelete>Tõesti kustutada {0}?</ConfirmDelete>
   <DeleteThisSavegame>Kustuta see salvestus.</DeleteThisSavegame>
   <SavedAs>Salvestatud kui {0}.</SavedAs>
@@ -45,6 +48,7 @@
   <SaveIsFromThisGameBuild>Salvestusfail on salvestatud praeguse mänguversiooniga ja peaks töötama vigadeta.</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>Salvestusfail on tundmatus formaadis ja peaaegu kindlasti ei tööta õigesti.</SaveIsUnknownFormat>
   <ProblemSavingFile>Viga faili salvestamisel {0}:\n\n{1}</ProblemSavingFile>
+  <LoadAnyway>Lae sellest hoolimata</LoadAnyway>
   
   <!-- Colony naming-->
   <NameColonyMessage>Tundub, et sa viibid siin mõnda aega. {0} soovitab, et sa annaksid kolooniale nime.\n\nMis peaks koloonia nimi olema?</NameColonyMessage>
@@ -63,6 +67,7 @@
   <VersionMismatch>Versiooni ebakõla</VersionMismatch>
   <SaveGameIncompatibleWarningText>Mapp salvestati mänguversiooniga {0}\nHetke versioon on {1}\n\nSelle salvestusfaili laadimine võib põhjustada vigu ja krahhe.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>Maailmafail genereeriti mänguversiooniga {0}\nHetke versioon on {1}\n\nSelle maailma laadimine võib põhjustada vigu ja krahhe. Sa peaksid arvatavasti genereerima uue maailmafaili.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>See fail salvestati mänguversiooniga {0}\nHetke versioon on {1}\n\nSelle faili laadimine võib põhjustada vigu ja krahhe.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Modifikatsioonide ebakõla</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>Mapp salvestati erinevate modifikatsioonidega kui mis on hetkel aktiivsed. See võib põhjustada probleeme vastavalt sellele, mida need modifikatsioonid teevad.\n\nMapp salvestati järgnevate modifikatsioonidega (järgnevas järjekorras):\n\n{0}\n\nMe jookseme järgnevatega:\n\n{1}</ModsMismatchWarningText>
 
@@ -108,7 +113,7 @@
   <CurrentlyHave>Praegu on olemas</CurrentlyHave>
   <CountingProducts>Loendamine</CountingProducts>
   <Infinite>Lõpmatu</Infinite>
-  <MinimumSkillLevel>Min. {0} oskus</MinimumSkillLevel>
+  <AllowedSkillRange>Lubatud {0} oskus:</AllowedSkillRange>
   
   <RecipeCannotHaveTargetCount>(Sellel retseptil ei saa olla sihtmärkkogus, sest sellel on mitu või ettearvamatud saadused)</RecipeCannotHaveTargetCount>
   <WorkAmount>Töökogus</WorkAmount>
@@ -141,7 +146,10 @@
   <GrowingTime>Kasvuaeg</GrowingTime>
   <GrowingTimeDesc>Taimed kasvab ainult osa päevas ja ainult siis kui on piisavalt valgust. See statistika mõõdab kui palju aega taim tegelikult peab kasvama, et kasvada täissuuruseks. Tegelik päris kasvamisaeg on üldiselt umbes kaks korda pikem. Madalad temperatuurid vähendavad samuti kasvukiirust.</GrowingTimeDesc>
   <Days>päeva</Days>
-  <FertilityRequirement>Viljakuse nõue</FertilityRequirement>
+  <MinGrowingSkillToSow>Minimaalne kasvatamisoskus külvamiseks</MinGrowingSkillToSow>
+  <FertilityRequirement>Viljakuse nõudlus</FertilityRequirement>
+  <SoilFertilitySensitivityGrowthRate>Mulla viljakuse sensitiivsus (kasvukiirus)</SoilFertilitySensitivityGrowthRate>
+  <SoilFertilitySensitivityPlantChance>Mulla viljakuse sensitiivsus (külvivõimalus)</SoilFertilitySensitivityPlantChance>
   <LightRequirement>Valguse nõue</LightRequirement>
   <Attributes>Atribuudid</Attributes>
   <LifeSpan>Elupikkus</LifeSpan>
@@ -154,6 +162,7 @@
   <RecruitDifficulty>Värbamisraskus</RecruitDifficulty>
   <MarketValue>Alghind</MarketValue>
   <Covers>Katted</Covers>
+  <MedicineXpGainFactor>Kogemuse saamise faktor</MedicineXpGainFactor>
   <BodyPartEfficiency>Keha osa efektiivsus</BodyPartEfficiency>
   <MoodChange>Meeleolu muutus</MoodChange>
   <Wildness>Metsikus</Wildness>
@@ -164,7 +173,7 @@
   <MiscRecordsCategory>Muu</MiscRecordsCategory>
 
   <!-- Trade -->
-  <DragToTrade>Lohista number,\net kaupelda</DragToTrade>
+  <PositiveBuysNegativeSells>Positiivsed numbrid ostavad.\nNegatiivsed numbrid müüvad.</PositiveBuysNegativeSells>
   <BuyPriceDesc>Hind, mis sa maksad kui sa ostad selle.</BuyPriceDesc>
   <SellPriceDesc>Hind, mis sa saad selle müümise eest.</SellPriceDesc>
   <PriceTypeDesc>Selle asja eest on hind {0}.</PriceTypeDesc>
@@ -204,4 +213,7 @@
   <DeleteOutfit>Kustuta komplekt...</DeleteOutfit>
   <OutfitInUse>Komplekt on kasutuses {0} poolt.</OutfitInUse>
   <NoOutfitSelected>Ühtegi komplekti pole valitud</NoOutfitSelected>
+  
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} vajab {1} oskust kasvatamises, et külvata.\n\nÜkski sinu kasvatajatest ei ole võimeline seda külvama.</NoGrowerCanPlant>
 </LanguageData>

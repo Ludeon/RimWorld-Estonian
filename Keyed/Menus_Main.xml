@@ -4,8 +4,9 @@
   <CreateWorld>Loo maailm</CreateWorld>
   <NewColony>Uus koloonia</NewColony>
   <BackToGame>Tagasi mängu</BackToGame>
+  <ReviewScenario>Tsenaariumi eelvaade</ReviewScenario>
   <Save>Salvesta</Save>
-  <Load>Lae koloonia</Load>
+  <LoadGame>Lae mäng</LoadGame>
   <Options>Valikud</Options>
   <Mods>Modifikatsioonid</Mods>
   <Credits>Autorid</Credits>
@@ -45,8 +46,8 @@
   <!--=========== World generator =========-->
   <GenerateWorld>Genereeri maailm</GenerateWorld>
 
-  <!--=========== Mods screen ==========-->
-  <OpenSteamWorkshop>Ava Steam'i Workshop</OpenSteamWorkshop>
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Ava Steam'i Töökoda</OpenSteamWorkshop>
   <GetModsFromForum>Hangi modifikatsioone foorumist</GetModsFromForum>
   <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
@@ -54,15 +55,38 @@
   <Unsubscribe>Tühista tellimus</Unsubscribe>
   <ConfirmUnsubscribe>Oled sa kindel, et tahad tühistada {0} tellimuse?</ConfirmUnsubscribe>
   <Author>Autor</Author>
-  <WorkshopPage>Workshop'i lehekülg</WorkshopPage>
-  <UploadToSteamWorkshop>Lae üles Steam'i Workshop'i</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Uuenda Steam Workshop'is</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Üles laadimine juba toimub.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop'i esitamine luhtus.\n\nPõhjus: {0}</WorkshopSubmissionFailed>
-  <YouAgreeToSteamWorkshopLegal>Selle modifikatsiooni esitamisel, nõustud sa Steam Workshop'i kasutustingimused. Klikka siia rohkema info jaoks.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopPage>Töökoja lehekülg</WorkshopPage>
+  <UploadToSteamWorkshop>Lae üles Steam'i Töökotta</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Uuenda Steam Töökojas</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Üleslaadimine juba toimub.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Töökotta esitamine luhtus.\n\nPõhjus: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>{0} edukalt üleslaetud.</WorkshopUploadSucceeded>
-  <DownloadingMod>{0} allalaadimine</DownloadingMod>
+  <Downloading>Allalaadimine</Downloading>
+  <Source>Lähe</Source>
+  <ModTargetVersion>Sihtversioon: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>See modifikatsioon ei olnud loodud selle RimWorld'i versiooni jaoks ja arvatavasti ei tööta korralikult.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modifikatsioon vajab hästi vormindatud sihtversiooni About.xml'is. Nagu nii: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
 
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Vali tsenaarium</ChooseScenario>
+  <ScenariosCustom>Kohandatud</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam'i Töökoda</ScenariosSteamWorkshop>
+  <ScenarioEditor>Tsenaariumi redaktor</ScenarioEditor>
+  <Delete>Kustuta</Delete>
+  
+  <!--============ Scenario editor ===============-->
+  <Seed>seeme</Seed>
+  <Load>Lae</Load>
+  <EditMode>redigeerimis mood</EditMode>
+  <Summary>Kokkuvõte</Summary>
+  <AddPart>Lisa osa</AddPart>
+  <TextFieldsMustBeFilled>Kõik tekstiväljad peavad olema täidetud.</TextFieldsMustBeFilled>
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <ConfirmSteamWorkshopUpload>Oled kindel et tahad selle üles laadida Steam'i Töökotta?\n\nSa pead nõustuma Steam'i Töökoja kasutustingimustega. Leia kõik tingimused siit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <Incompatible>Ühtimatu</Incompatible>
+  <TooMany>Liiga palju (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>On võimalik uuendada Töökotta, sest sa oled autor.</CanBeUpdatedOnWorkshop>
+  
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
   <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, resurssi kukkumised või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
@@ -89,8 +113,8 @@
   <Elevation>Kõrgus</Elevation>
   <Fertility>Viljakus</Fertility>
   <AvgTemp>Keskmine temperatuur</AvgTemp>
-  <AvgJanTemp>Keskmine temperatuur (Jaan): {0}</AvgJanTemp>
-  <AvgJulTemp>Keskmine temperatuur (Juul): {0}</AvgJulTemp>
+  <AvgWinterTemp>Keskmine temperatuur (talv): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Keskmine temperatuur (suvi): {0}</AvgSummerTemp>
   <Rainfall>Sademed</Rainfall>
   <HasCoast0>Põhjarannik</HasCoast0>
   <HasCoast1>Idarannik</HasCoast1>

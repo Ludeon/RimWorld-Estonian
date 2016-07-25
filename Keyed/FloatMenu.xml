@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <CallOnRadio>Kutsu {0}</CallOnRadio>
+  <CallOnRadio>Helista {0}</CallOnRadio>
   <CannotUseReason>Ei saa kasutada ({0})</CannotUseReason>
   <CannotUseSolarFlare>Ei saa kasutada (päikesepurse)</CannotUseSolarFlare>
   <CannotUseNoPower>Ei saa kasutada (pole elektrit)</CannotUseNoPower>
@@ -23,6 +23,7 @@
   <NoPath>pole teed</NoPath>
 
   <ForbiddenLower>keelatud</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>väljaspool lubatud ala</ForbiddenOutsideAllowedAreaLower>
   <SociallyImproperLower>sotsiaalselt ebasobimatu</SociallyImproperLower>
   <PrisonerRoomLower>vangiruum</PrisonerRoomLower>
   <BurningLower>põlev</BurningLower>
@@ -33,6 +34,7 @@
   <NoEmptyGraveLower>pole tühja hauda konfigureeritud hoiustamiseks</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>loom suhtles liiga hiljuti</AnimalInteractedTooRecently>
   <NoUsableFood>pole kasutatavat toitu</NoUsableFood>
+  <NoFood>pole toitu</NoFood>
   <AnimalsSkillTooLow>Looma oskus liiga madal</AnimalsSkillTooLow>
   <NoComponentsToRepair>vaja komponente</NoComponentsToRepair>
   <NoFuelToRefuel>vaja {0}</NoFuelToRefuel>
@@ -67,6 +69,8 @@
   <Incapable>võimetu</Incapable>
   <IncapableOfCapacity>võimetu tegema {0}</IncapableOfCapacity>
 
+  <MinSkill>min oskus</MinSkill>
+  
   <Equip>Varusta {0}</Equip>
   <EquipWarningBrawler>(lähivõitleja on õnnetu)</EquipWarningBrawler>
   <CannotEquip>Ei saa varustada {0}</CannotEquip>
@@ -109,6 +113,7 @@
   <CannotPrioritizeResearch>Ei saa tähtsustada (uurimine on pikaajaline tegevus)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Ei saa tähtsustada ({0} on keelatud)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Ei saa tähtustada ({0} on väljaspool lubatud ala)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Tähtsusta {0} {1}</PrioritizeGeneric>

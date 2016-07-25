@@ -23,6 +23,9 @@
   <CommandToggleDraftDesc>Lülita võitluses osalemist.\n\nOsalevad inimesed võtavad käske ja võitlevad. Nad ei tööta, söö, ega puhka.</CommandToggleDraftDesc>
   <IsIncapped>{0} on teadvusetu.</IsIncapped>
   
+  <CommandClearPrioritizedWork>Tühista eelistöö</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Tühista iga eelistöö mis sa määrasid. Karakter läheb tagasi nende tavalisse endast-suunatud tegevustesse.</CommandClearPrioritizedWorkDesc>
+  
   <CommandCancelConstructionLabel>Tühista</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Tühista see konstruktsioon.</CommandCancelConstructionDesc>
 
@@ -35,15 +38,11 @@
   <CommandGraveAssignColonistDesc>Määra see haud omatavaks kindla kolonisti poolt.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Määra</BuildingAssign>
   <BuildingUnassign>Tühista määrang</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>Määra vangidele</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Määra voodid selles ruumis kasutavateks vangide poolt.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersLabel>Vangidele</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Kas voodid selles ruumis peaksid olema kasutavad vangide poolt.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Ei saa määrata välivoodeid vangidele.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetForColonistsLabel>Määra kolonistidele</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Määra voodid selles ruumis kasutavateks kolonistide poolt.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>Määra meditsiiniliseks</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Määra see voodi ainult meditsiiniliseks kasutuseks.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Määra mitte-meditsiiniliseks</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc>Määra see voodi mitte-meditsiiniliseks kasutuseks.</CommandBedSetAsNonMedicalDesc>
+  <CommandBedSetAsMedicalLabel>Meditsiiniline</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Kas see voodi peaks olema meditsiiniliseks kasutuseks.</CommandBedSetAsMedicalDesc>
   <TurningOnPrisonerBedWarning>Vangimoodi sisselülitamine mõjutab tervet ruumi (sest vangid ja kolonistid ei saa magada samas ruumis).\n\nNeed inimesed kaotavad oma voodi:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Vangimoodi väljalülitamine mõjutab tervet ruumi (since prisoners and colonists cannot sleep in the same room).\n\nNeed inimesed kaotavad oma voodi:</TurningOffPrisonerBedWarning>
   <AreYouSure>Oled kindel, et tahad seda teha?</AreYouSure>
@@ -127,4 +126,13 @@
   <!-- Squad attack -->
   <CommandSquadAttack>Ründa</CommandSquadAttack>
   <CommandSquadAttackDesc>Käsuta valitud kolonistid ründama sihtmärki.</CommandSquadAttackDesc>
+  
+  <!-- Hold fire -->
+  <CommandHoldFire>Relvarahu</CommandHoldFire>
+  <CommandHoldFireDesc>Tühista kõik käimasolevad rünnakud.</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Vali taim kasvatamiseks</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Taim: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Määra millist taime peaks siia külvama.</CommandSelectPlantToGrowDesc>
 </LanguageData>

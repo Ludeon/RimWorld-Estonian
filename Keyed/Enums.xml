@@ -17,6 +17,14 @@
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
   <PriceTypeExorbitant>väga kallis</PriceTypeExorbitant>
 
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>hoiustamata</StoragePriorityUnstored>
+  <StoragePriorityLow>madal</StoragePriorityLow>
+  <StoragePriorityNormal>tavaline</StoragePriorityNormal>
+  <StoragePriorityPreferred>eelistatud</StoragePriorityPreferred>
+  <StoragePriorityImportant>tähtis</StoragePriorityImportant>
+  <StoragePriorityCritical>kriitiline</StoragePriorityCritical>
+
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>aedviljad</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>toorliha</FoodTypeFlags_Meat>
@@ -27,8 +35,8 @@
   <FoodTypeFlags_Tree>eluspuud</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>söögikorrad</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>töödeldud toidud</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>alkohol</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>kuivtoit</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>kuivtoit</FoodTypeFlags_Kibble>
   
   <!-- Quality category -->
   <QualityCategory_Awful>kohutav</QualityCategory_Awful>
@@ -79,6 +87,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Eelvaate faili üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Muudatuste pühendamine</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
   
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>kohalik kaust</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam'i Töökoda</ContentSource_SteamWorkshop>
+  
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>Puudub</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Lihtne</TrainableIntelligence_Simple>
@@ -91,4 +103,42 @@
   <MedicalCareCategory_HerbalOrWorse>Ravimtaimed või halvem</MedicalCareCategory_HerbalOrWorse>
   <MedicalCareCategory_NormalOrWorse>Tavalised ravimid või halvem</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>Parima kvaliteediga arstiabi</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Eira</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Ründa</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Põgene</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>kasvab</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stabiilne</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>vähenemine</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>loom</TechLevel_Animal>
+  <TechLevel_Neolithic>neoliitiline</TechLevel_Neolithic>
+  <TechLevel_Medieval>keskaegne</TechLevel_Medieval>
+  <TechLevel_Industrial>tööstuslik</TechLevel_Industrial>
+  <TechLevel_Spacer>kosmoseline</TechLevel_Spacer>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Transcendent>üleolev</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Seismas</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Kukkumiskaunad</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>kõik karakterid</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>mängija alustavad karakterid</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>mitte-mängija karakterid</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Kuva loomade nimed</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Taltsas (ainult nimega)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Taltsas (kõik)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
 </LanguageData>

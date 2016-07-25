@@ -2,7 +2,7 @@
 <LanguageData>
   <Autosaving>Automaatsalvestamine</Autosaving>
   
-  <GameStartDialog>Kolm teist ärkavad krüptoune sarkofaagist sireenide ja rebeneva metalli hääle peale. Te saate napilt pääste laevadesse enne kui teie kosmoselaev puruneb.\n\nMõnda aega hiljem te maandute tundmatul kettamaailmal.\n\nSel ajal kui kosmoselaeva tükid kukuvad teie ümber hakkate tegema plaane ellujäämiseks.</GameStartDialog>
+  <GameStartDialog>Kolm teist ärkavad krüptoune sarkofaagist sireenide ja rebeneva metalli hääle peale. Te jõuate napilt pääste laevadesse enne kui teie kosmoselaev puruneb.\n\nMõnda aega hiljem te maandute tundmatul kettamaailmal.\n\nSel ajal kui kosmoselaeva tükid kukuvad teie ümber hakkate tegema plaane ellujäämiseks.</GameStartDialog>
 
   <Colony>Koloonia</Colony>
   
@@ -17,6 +17,18 @@
   <DevelopmentBuildLower>arendusversioon</DevelopmentBuildLower>
   <CompiledOn>Kompileeritud {0}</CompiledOn>
   <LoggedIntoSteamAs>Logitud sisse Steam'i kui {0}</LoggedIntoSteamAs>
+  
+  <!-- General-use words -->
+  <Yes>Jah</Yes>
+  <No>Ei</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>võimalus</chance>
+  <context>kontekst</context>
+  <multiplier>kordaja</multiplier>
+  <damage>kahju</damage>
+  <radius>raadius</radius>
+  <durationDays>kestvus (päevades)</durationDays>
   
   <!-- Content generation-->
   <MeatLabel>{0} liha</MeatLabel>

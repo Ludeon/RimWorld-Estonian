@@ -57,16 +57,19 @@
   <LetterLeadersDeathLabel>Liidri surm</LetterLeadersDeathLabel>
   <LetterLeadersDeath>{1} kildkonna liider {0} on surnud ja on asendatud {2} poolt.</LetterLeadersDeath>
   
-  <!-- Family -->
-  <LetterLabelNoticedFamilyMembers>Pere</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>On saabumas sinu kolonistide või vangide perekonnaliikmed {0}'i saabuvas grupis.\n\nJäta meelde, kuigi nad on sugluses, ründavad nad siiski üksteist, sest nende kildkonnad on halvas suhtes.\n\nPerekonnaliikmed on:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>On saabumas sinu kolonistide või vangide perekonnaliikmed {0}'i saabuvas sõbralikus grupis:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>On saabumas sinu kolonistide või vangide perekonnaliikmed saabuvas grupis:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>Orbiidikaupleja müüb sinu kolonistide või vangide perekonnaliikmeid:</LetterFamilyMembersTraderShipSlaves>
+  <MentalBreakLetterLabel>Vaimne murre</MentalBreakLetterLabel>
+  <MentalBreakReason>Põhjus: {0}.</MentalBreakReason>
   
-  <FamilyLetterAppendedSuffix>(pere)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME on kolonisti perekonnaliige. HECAP on {0}'i {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME on ühe sinu vangide perekonnaliige. HECAP on {0}'i {1}.</FamilyLetterAppendedTextPrisoner>
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Sugulus</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>On saabumas inimesi grupis {0}, kellel on suhteid sinu kolonistide või vangidega.\n\nJäta meelde, kuigi nad on sugluses, ründavad nad siiski üksteist, sest nende kildkonnad on halvas suhtes.\n\nNeed inimesed on:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>On saabumas inimesi sõbralikus grupis {0}, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>On saabumas inimesi grupus, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Orbiidikaupleja müüb inimesi, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsTradeShip>
+  
+  <RelationshipAppendedLetterSuffix>(Sugulus)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME'il on suhe kolonistiga. HECAP on {0}'i {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME'il on suhe ühe sinu vangiga. HECAP on {0}'i {1}.</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Afäär</LetterLabelAffair>
@@ -74,6 +77,7 @@
   <LetterLabelNewLovers>Uued armastajad</LetterLabelNewLovers>
   <LetterNewLovers>{0} ja {1} on tulnud kokku ja on nüüd armastajad.</LetterNewLovers>
   <LetterNoLongerLovers>{0} ja {1} pole enam suhtes.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Lahkuminek</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Abielu vastuvõetud!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Ettepanek lükati tagasi</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} on nõustunud {0}'i abieluettepanekuga.\n\nMingi aeg tulevatel päevadel või hooaegadel korraldavad nad abielutseremoonia ja kutsuvad kõik kolonistid osalema. Kaalutle abielu koha panekut, kui tahad kontrollida kus tseremoonia toimub.</LetterAcceptedProposal>

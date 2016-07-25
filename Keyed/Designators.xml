@@ -42,6 +42,11 @@
   <DesignatorAreaHomeClear>Eemalda koduala</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Eemaldab koduala. Kolonistid enam ei puhasta, paranda, või kustuta tulekahjusid.</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>Suurenda katuse ala</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonistid ehitavad katuseid siin alas.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Eemalda katuse ala</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Eemalda ala, kus kolonistid ehitavad katuseid. Olemasolevad katused jäävad alles, kuid kolonistid ei ehita neid juurde.</DesignatorAreaBuildRoofClearDesc>
+  
   <DesignatorAreaNoRoofExpand>Suurenda katuseta ala</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Loo ala, kus katuseid ei teki. See eemaldab ka olemasolevad õhukesed katused.</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Eemalda katuseta ala</DesignatorAreaNoRoofClear>
