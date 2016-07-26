@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MessageSiegersAssaulting>{0} {1}'st ründavad kolooniat.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} {1}'st alustavad rünnakut.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} {1}'st on avastanud sinu ja alustavad nende rünnakut varakult.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} {1}'st on otsustanud röövida keda nad saavad ja lahkuda.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} {1}'st on otsustanud varastada mida nad saavad ja lahkuda.</MessageRaidersStealing>
+
+  <MessageRaidersLeaving>{0} {1}'st lahkuvad.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} {1}'st on alla andnud ja lahkuvad.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} {1}'st on rahul tehtud kahjuga ja lahkuvad.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} {1}'st põgenevad.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Sõbralikud {0} {1}'st lahkuvad.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0} {1}'st võtavad haavatud külalise.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} {1}'st on langenud lõksu ja kaevavad välja, et põgeneda.</MessageVisitorsTrappedLeaving>
+  
+  <MessageWornApparelDeterioratedAway>{0} kantud {1} poolt on lagunenud täielikult.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} on alanud.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0} on lahkunud kommunikatsioonide kaugusest.</MessageShipHasLeftCommsRange>
+  
+  <MessageNeedBeaconToTradeWithShip>Sul on vaja kauplemismajakat, et kaubelda laevaga.\n\nMajakal peab olema elekter.</MessageNeedBeaconToTradeWithShip>
+  
+  <MessageBillComplete>Arve valmis: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} on täielikult paranenud.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Vang {0} on põgenemas.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} ei leidnud ühtegi lähedal olevat kasutatavat mürsku {1} jaoks.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Hoiatus: {0} tihti ründavad kui rünnatud.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Hoiatus: {0} võivad rünnata ebaõnnestunud taltsutamise korral ({1} võimalus).</MessageAnimalManhuntsOnTameFailed>
+  
+  <LetterLabelMessageRecruitSuccess>Uustulnuk</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} edukalt värbas {1} ({2} võimalus).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} edukalt taltsutas {1} ({2} võimalus).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} edukalt taltsutas {1} ({2} võimalus) ja nimetas ta {3}.</MessageTameAndNameSuccess>
+
+  <MessageColonyCannotAfford>See tehing on koloonia jaoks liiga kallis.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Sul pole piisavalt hõbedat valmis kauplemiseks.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>Kriitiline teade: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Peab määrama lõikusvalmid piisavalt kasvanud taimed.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Peab määrama puidusaagikusga piisavalt kasvanud taimed.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Peab määrama taimi.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Peab määrama kantavaid asju.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Peab määrama läbipaasamatuid kaevatavaid kivisid.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Peab määrama kütitavaid loomi.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Peab määrama taltsutavaid loomi.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Peab määrama mahajäetud kunstlikke struktuure.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Peab määrama ebatasase kivi maastikku.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Miski ei saa eemaldada pakse katuseid.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>See on juba hoiustuses ja veetakse kõrge tähtsusega hoiusesse kui vajalik.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Peab määrama laiba või teadvusetu karakteri eemaldatava riietusega.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Peab määrama taltsa looma, kes kuulub kolooniale.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Peab määrama täis hauad või konteinerid.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} on keeldunud arreteerimisest!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>Pole ühtegi meditsiinilist voodit saadaval.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Pole ühtegi looma vaadit saadaval.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operatsioon vajab {0} või paremat, kuid {1}'i hetke meditsiinilise hoolduse mood on "{2}".</MessageTooLowMedCare>
+  
+  <PawnDiedBecauseOf>{0} on surnud {1} tõttu.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} on nüüd võimeline kõndima.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} on kukkunud kokku ekstreemse väsimuse tõttu.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureCatastrophic>{0} on ebaõnnestunud katastroofiliselt {1} opereerimise ajal.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} on ebaõnnestunud natuke {1} opereerimise ajal.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>See operatsioon vihastab {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Kuna {0} lahkus mapist tervelt on suhted {1}'ga paranenud {2} võrra.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0}'l juhtus nurisünnitus nälgimise tõttu.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0}'l juhtus nurisünnitus halva tervise tõttu.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} on sünnitanud.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} on nimetanud {1} {2}'ks peale ninaga hõõrumist.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>Ükski taltsutaja ei saa taltsutada {0}'t (vajab levelit {1} {2}'s, parimal taltsutaja - {3} on {4}).</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{0} on ära söödud {1} poolt.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0}'t rünnatakse {1} poolt!</MessageAttackedByPredator>
+  
+  <MessageHiveReproduced>Putuka peas on paljunenud.</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>Kaubakaravan {0}'st lahkub.</MessageTraderCaravanLeaving>
+  
+  <MessageCantSelectDeadPawn>{0} on surnud.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} on väljaspool mappi.</MessageCantSelectOffMapPawn>
+  
+  <MessageSocialFight>{0} alustas seltskondliku võitluse {1}'ga. Põhjus: {2}.</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>Kolonistid kogunevad, et tähistada {0}'i ja {1}'i abielu.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0}'i ja {1}'i abielutseremoonia on alanud!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{0}'i ja {1}'i abielutseremoonia on tühistatud.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} ja {1} on abiellunud. Kolonistid nüüd tähistavad seda.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{0}'i ja {1}'i abielutseremoonia on lõppenud.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>{0}'i ja {1}'i vahel on moodustunud side.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0}'i ja {1}'i vahel on moodustunud side. {0}'i on andnud talle nime {2}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>{0}'l on vaimnemurre {1}'i surma tõttu.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0}'l nimega {1} on vaimnemurre {2}'i surma tõttu.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} loomal on vaimnemurre {1}'i surma tõttu.</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{0} on edukalt eemaldanud {1}'i {2}.</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>Tükk tähelaeva on kukkunud kosmosest ja maandunud lähedal.</MessageShipChunkDrop>
+  
+  <MessagePartyCalledOff>Pidu on tühistatud.</MessagePartyCalledOff>
+  <MessagePartyFinished>Pidu on lõppenud.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Mõngigate asjadega ei saa kaubelda järgneval põhjusel: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} ebaõnnestus {0}'i ehitamise ajal. Osad ressursid on läinud raisku.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Kuvatõmmis on salvestatud kui: {0}</MessageScreenshotSavedAs>
+</LanguageData>

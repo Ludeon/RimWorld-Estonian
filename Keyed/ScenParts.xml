@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ======================== Non-grouped ========================-->
+  <ScenPart_PlayerFaction>Sinu kildkond saab olema {0}.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawns>Alusta {0} inimesega.</ScenPart_StartWithPawns>
+  <RandomPet>juhuslik koduloom</RandomPet>
+
+  <ScenPart_StartingResearchFinished>Alusta uurimistööga: {0}</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>Alusta kukkumiskaunadega.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>Stat "{0}" saab olema universaalselt kordajaga {1}.</ScenPart_StatFactor>
+
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>{0}'l on {1} võimalus alustada {2}'ga.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>tõsidus: {0}</ConfigurableSeverity>
+
+  <ScenPart_PawnsHaveTrait>{0}'l on {1} võimalus alustada loomuomadusega: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Karakterid ja olendid plahvatud surma korral ({0}, raadius {1}).</ScenPart_OnPawnDeathExplode>
+
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>Sinu inimesed saavad olema vähemalt {0} aastat vanad.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Sinu inimesed saavad olema kuni {0} aastat vanad.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Sinu inimesed saavad olema {0} kuni {1} aastat vanad.</ScenPart_StartingPawnAgeRange>
+
+  <!-- ======================== Grouped ========================-->
+  <ScenPart_StartWith>Alusta</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Mapp on hajutatud </ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Püsivad mapi omadus(ed)</ScenPart_PermaMapCondition>
+  <ScenPart_DisableIncident>Keelatud juhus(ed)</ScenPart_DisableIncident>
+  <ScenPart_DisallowBuilding>Ei saa kunagi ehitada</ScenPart_DisallowBuilding>
+</LanguageData>

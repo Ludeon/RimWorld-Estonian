@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Work tab -->
+  <ManualPriorities>Käsitsi prioriteedid</ManualPriorities>
+  <HigherPriority>kõrgem prioriteet</HigherPriority>
+  <LowerPriority>madalam prioriteet</LowerPriority>
+  <RelevantSkills>Asjakohased oskused: {0}\nKeskmine asjakohastest oskustest: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klikka, et hüpata:</ClickToJumpTo>
+  <CannotDoThisWork>{0} ei saa teha seda tüüpi tööd.</CannotDoThisWork>
+  <NoneBrackets>(mitte ükski)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>See kolonist ei saa teha seda tüüpi tööd tema tervisliku seisundi tõttu.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  <!-- Outfits tab -->
+  <CurrentOutfit>Hetke komplekt</CurrentOutfit>
+  <ManageOutfits>Halda komplekte</ManageOutfits>
+  <ClearForcedApparel>Tühista sunnitud</ClearForcedApparel>
+  <ApparelForcedLower>sunnitud</ApparelForcedLower>
+  <ForcedApparel>Sunnitud rõivad</ForcedApparel>
+  <OutfitEdit>Muuda...</OutfitEdit>
+  
+  <!-- Restrictions tab -->
+  <Copy>Kopeeri</Copy>
+  <Paste>Kleebi</Paste>
+  <AllowedArea>Lubatud ala</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>Peremees</Master>
+  <PregnantIconDesc>Rase ({0} / {1})</PregnantIconDesc>
+  
+  <!-- Factions tab -->
+  <Hostile>Vaenulik</Hostile>
+  <HostileTo>{0}'i vaenlane</HostileTo>
+  <CurrentGoodwill>Hetke heatahe selle kildkonnaga.</CurrentGoodwill>
+  
+  <!-- Statistics tab -->
+  <Playtime>Mänguaeg</Playtime>
+  <Storyteller>Loojutustaja</Storyteller>
+  <ColonyWealthTotal>Koloonia vara</ColonyWealthTotal>
+  <ColonyWealthItems>Koloonia vara (asjad)</ColonyWealthItems>
+  <ColonyWealthBuildings>Koloonia vara (ehitised)</ColonyWealthBuildings>
+  <NumThreatBigs>Suured ohud</NumThreatBigs>
+  <NumEnemyRaids>Vaenlase rünnakud</NumEnemyRaids>
+  <DamageTaken>Viga saadud</DamageTaken>
+  <ColonistsKilled>Koloniste tapetud</ColonistsKilled>
+  <ColonistsLaunched>Koloniste komosesse saadetud</ColonistsLaunched>
+
+  <!-- History tab -->
+  <SelectGraph>Vali graafik</SelectGraph>
+  <Last30Days>Viimased 30 päeva</Last30Days>
+  <Last100Days>Viimased 100 päeva</Last100Days>
+  <Last300Days>Viimased 300 päeva</Last300Days>
+  <AllDays>Kõik</AllDays>
+  <Day>Päev</Day>
+  <Value>Väärtus</Value>
+  <External>Väline</External>
+  
+  <!-- Research tab -->
+  <ProjectTechLevel>projekti tehniline tase</ProjectTechLevel>
+  <YourTechLevel>sinu tehniline tase</YourTechLevel>
+  <ResearchCostMultiplier>maksumuse korrutaja</ResearchCostMultiplier>
+  <ResearchCostComparison>Projekti baasmaksumus {0} muutub {1}'ks sinu tehnilise taseme tõttu.</ResearchCostComparison>
+</LanguageData>
