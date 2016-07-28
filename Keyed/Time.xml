@@ -13,7 +13,7 @@
   <SeasonFall>Sügis</SeasonFall>
   <SeasonWinter>Talv</SeasonWinter>
   
-  <Born>Sündinud: {0} {1} {2}</Born>
+  <Born>Sündinud: {0}</Born>
   <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeChronological>
   <AgeBiological>Bioloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeBiological>
   
@@ -28,7 +28,7 @@
   <PeriodHours>{0} tundi</PeriodHours>
 
   <!-- Misc -->
-  <Started>Alustatud</Started>
+  <Started>Algus</Started>
   <Lasted>Kestnud</Lasted>
   <OccurredTimeAgo>Juhtus {0} tagasi</OccurredTimeAgo>
 </LanguageData>

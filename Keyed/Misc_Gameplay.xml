@@ -14,7 +14,7 @@
   <Unowned>Omanik puudub</Unowned>
   <DeadTime>Surnud {0}</DeadTime>
   <WalkSpeed>kõndimiskiirus {0}</WalkSpeed>
-  <FertShort>vilj.</FertShort>
+  <FertShort>viljakus</FertShort>
   <DyingLower>suremine</DyingLower>
   <FilthOnFeet>Mustust jalgadel:</FilthOnFeet>
   <NotEnoughStoredLower>pole piisavalt hoiustatud</NotEnoughStoredLower>
@@ -305,8 +305,8 @@
   <Untitled>Pealkirjata</Untitled>
   
   <!-- Unfinished thing -->
-  <UnfinishedItem>Lõpetamatta {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>Lõpetamatta {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItem>Lõpetamata {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Lõpetamata {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <Quality>Kvaliteet</Quality>

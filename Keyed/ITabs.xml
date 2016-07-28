@@ -45,13 +45,13 @@
   <DestroyedBodyPart>Hävitatud</DestroyedBodyPart>
   <ShatteredBodyPart>Purunenud</ShatteredBodyPart>
   <RemovedBodyPart>Eemaldatud</RemovedBodyPart>
-  <Healthy>Tervislik</Healthy>
+  <Healthy>Terve</Healthy>
   <InPain>Valus</InPain>
   <PainLevel>Valu</PainLevel>
   <Dead>Surnud</Dead>
   <Unconscious>Teadvusetu</Unconscious>
   <PainShock>Šokis</PainShock>
-  <Injured>Vigasatud</Injured>
+  <Injured>Vigastatud</Injured>
   <NoInjuries>(pole vigastusi)</NoInjuries>
   <WholeBody>Terve keha</WholeBody>
   <DataProcessing>Andmetöötlus</DataProcessing>

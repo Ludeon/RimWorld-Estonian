@@ -46,18 +46,18 @@
   <QualityCategory_Good>hea</QualityCategory_Good>
   <QualityCategory_Superior>väga hea</QualityCategory_Superior>
   <QualityCategory_Excellent>suurepärane</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>meistritöö</QualityCategory_Masterwork>
+  <QualityCategory_Masterwork>meisterlik</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendaarne</QualityCategory_Legendary>
 
-  <QualityCategoryShort_Awful>kohut</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>vlts</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Awful>kohutav</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>vilets</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>kehv</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>hea</QualityCategoryShort_Good>
   <QualityCategoryShort_Superior>vhea</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>srp</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>meis</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>lgnd</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Excellent>suurp</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>meister</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>legend</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <HungerLevel_Starving>Nälgiv</HungerLevel_Starving>
@@ -134,8 +134,8 @@
   
   <!-- Animal name display mode -->
   <ShowAnimalNames>Kuva loomade nimed</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Taltsas (ainult nimega)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Taltsas (kõik)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameNamed>Taltsad (nimega)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Taltsad (kõik)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>

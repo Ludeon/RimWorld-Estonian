@@ -77,11 +77,11 @@
   <ResolutionRevert>Lähtesta</ResolutionRevert>
 
   <!-- Research -->
-  <Research>Uurimistöö</Research>
+  <Research>Uuri</Research>
   <Researched>Uuritud</Researched>
   <Unresearched>Uurimata</Unresearched>
   <Finished>Lõpetatud</Finished>
-  <InProgress>Arengus</InProgress>
+  <InProgress>Uurimises</InProgress>
   <Locked>Lukustatud</Locked>
   <ResearchMenuWithoutBench>Kuni sa ehitad uurimistöö laua, sinu kolonistid ei saa teha uurimistööd teha.\n\nAga sa saad siiski vaadata uurimistöö projekte hetkel.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Uurimistöö eeldused</ResearchPrerequisites>
@@ -196,7 +196,7 @@
   
   <!--Research-->
   <ResearchFinished>Uurimustöö lõpetatud: {0}</ResearchFinished>
-  <ResearchScreen>Uurimistöö ekraan</ResearchScreen>
+  <ResearchScreen>Uurimustöö ekraan</ResearchScreen>
   
   <!--HistoryUpload-->
   <HistoryUploadMessage>Kas sa tahad laadida üles enda mängimise andmed RimWorld'i serveritesse, et aidata arendajatel mängu parandada? Kui sa nõustud, siis sinu andmed laetakse üles iga {0} päeva järel (ja mõningatel teistel harudastel juhtudel nagu mängu lõpp). Privaatsuseelistusi saab vahetada hiljem seadete menüüs.</HistoryUploadMessage>

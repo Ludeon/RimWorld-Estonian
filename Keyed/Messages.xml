@@ -17,7 +17,7 @@
   <MessageVisitorsTakingWounded>{0} {1}'st võtavad haavatud külalise.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0} {1}'st on langenud lõksu ja kaevavad välja, et põgeneda.</MessageVisitorsTrappedLeaving>
   
-  <MessageWornApparelDeterioratedAway>{0} kantud {1} poolt on lagunenud täielikult.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} kantud kolonisti {1} poolt on lagunenud täielikult.</MessageWornApparelDeterioratedAway>
   
   <MessageSeasonBegun>{0} on alanud.</MessageSeasonBegun>
 
@@ -39,7 +39,7 @@
   <LetterLabelMessageRecruitSuccess>Uustulnuk</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} edukalt värbas {1} ({2} võimalus).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} edukalt taltsutas {1} ({2} võimalus).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} edukalt taltsutas {1} ({2} võimalus) ja nimetas ta {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} edukalt taltsutas {1} ({2} võimalus) ja andis talle nime {3}.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>See tehing on koloonia jaoks liiga kallis.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Sul pole piisavalt hõbedat valmis kauplemiseks.</MessageColonyNotEnoughSilver>
@@ -50,7 +50,7 @@
   <MessageMustDesignateHarvestableWood>Peab määrama puidusaagikusga piisavalt kasvanud taimed.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Peab määrama taimi.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Peab määrama kantavaid asju.</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>Peab määrama läbipaasamatuid kaevatavaid kivisid.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Peab määrama läbipääsmatuid kaevatavaid kivisid.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Peab määrama kütitavaid loomi.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>Peab määrama taltsutavaid loomi.</MessageMustDesignateTameable>
   <MessageMustDesignateClaimable>Peab määrama mahajäetud kunstlikke struktuure.</MessageMustDesignateClaimable>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <CallOnRadio>Helista {0}</CallOnRadio>
+  <CallOnRadio>Helista {0}'ile</CallOnRadio>
   <CannotUseReason>Ei saa kasutada ({0})</CannotUseReason>
   <CannotUseSolarFlare>Ei saa kasutada (päikesepurse)</CannotUseSolarFlare>
   <CannotUseNoPower>Ei saa kasutada (pole elektrit)</CannotUseNoPower>

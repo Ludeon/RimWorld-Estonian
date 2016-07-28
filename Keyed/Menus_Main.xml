@@ -12,8 +12,8 @@
   <Credits>Autorid</Credits>
   <QuitToMainMenu>Välju menüüsse</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Salvesta ja välju menüüsse</SaveAndQuitToMainMenu>
-  <QuitToOS>Välju OS'i</QuitToOS>
-  <SaveAndQuitToOS>Salvesta ja välju OS'i</SaveAndQuitToOS>
+  <QuitToOS>Välju töölauale</QuitToOS>
+  <SaveAndQuitToOS>Salvesta ja välju töölauale</SaveAndQuitToOS>
   <FictionPrimer>Kujutluse tekitaja</FictionPrimer>
   <LudeonBlog>Ludeon'i blogi</LudeonBlog>
   <Forums>Foorumid</Forums>
@@ -120,7 +120,7 @@
   <HasCoast1>Idarannik</HasCoast1>
   <HasCoast2>Lõunarannik</HasCoast2>
   <HasCoast3>Läänerannik</HasCoast3>
-  <FactionBase>Partei baas</FactionBase>
+  <FactionBase>Kildkonna baas</FactionBase>
   <StoneTypesHere>Kivi tüübid</StoneTypesHere>
 
   <!--=========== Character chooser ==========-->

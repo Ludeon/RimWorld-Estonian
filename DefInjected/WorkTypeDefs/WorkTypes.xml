@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Firefighter.labelShort>Tuletõrju</Firefighter.labelShort>
+	<Firefighter.pawnLabel>Tuletõrjuja</Firefighter.pawnLabel>
+	
+	<PatientEmergency.labelShort>Patsient</PatientEmergency.labelShort>
+	<PatientEmergency.pawnLabel>Patsient</PatientEmergency.pawnLabel>
+	
+	<Doctor.labelShort>Ravi</Doctor.labelShort>
+	<Doctor.pawnLabel>Arst</Doctor.pawnLabel>
+	
+	<PatientBedRest.labelShort>Puhka</PatientBedRest.labelShort>
+	<PatientBedRest.pawnLabel>Puhkaja</PatientBedRest.pawnLabel>
+	
+	<Flicker.labelShort>Lülita</Flicker.labelShort>
+	<Flicker.pawnLabel>Lülitaja</Flicker.pawnLabel>
+	
+	<Warden.labelShort>Esinda</Warden.labelShort>
+	<Warden.pawnLabel>Esindaja</Warden.pawnLabel>
+	
+	<Handling.labelShort>Dresseeri</Handling.labelShort>
+	<Handling.pawnLabel>Dresseerija</Handling.pawnLabel>
+	
+	<Cooking.labelShort>Kokk</Cooking.labelShort>
+	<Cooking.pawnLabel>Kokk</Cooking.pawnLabel>
+	
+	<Hunting.labelShort>Jahi</Hunting.labelShort>
+	<Hunting.pawnLabel>Jahtija</Hunting.pawnLabel>
+	
+	<Construction.labelShort>Ehita</Construction.labelShort>
+	<Construction.pawnLabel>Ehitaja</Construction.pawnLabel>
+	
+	<Repair.labelShort>Paranda</Repair.labelShort>
+	<Repair.pawnLabel>Parandaja</Repair.pawnLabel>
+	
+	<Growing.labelShort>Kasvata</Growing.labelShort>
+	<Growing.pawnLabel>Kasvataja</Growing.pawnLabel>
+	
+	<Mining.labelShort>Kaevanda</Mining.labelShort>
+	<Mining.pawnLabel>Kaevandaja</Mining.pawnLabel>
+	
+	<PlantCutting.labelShort>Lõika</PlantCutting.labelShort>
+	<PlantCutting.pawnLabel>Lõikaja</PlantCutting.pawnLabel>
+	
+	<Smithing.labelShort>Sepista</Smithing.labelShort>
+	<Smithing.pawnLabel>Sepp</Smithing.pawnLabel>
+	
+	<Tailoring.labelShort>Õmble</Tailoring.labelShort>
+	<Tailoring.pawnLabel>Rätsep</Tailoring.pawnLabel>
+	
+	<Art.labelShort>Kunst</Art.labelShort>
+	<Art.pawnLabel>Kunstnik</Art.pawnLabel>
+	
+	<Crafting.labelShort>Käsitoo</Crafting.labelShort>
+	<Crafting.pawnLabel>Käsitööline</Crafting.pawnLabel>
+	
+	<Hauling.labelShort>Tassi</Hauling.labelShort>
+	<Hauling.pawnLabel>Tassija</Hauling.pawnLabel>
+	
+	<Cleaning.labelShort>Korista</Cleaning.labelShort>
+	<Cleaning.pawnLabel>Koristaja</Cleaning.pawnLabel>
+	
+	<Research.labelShort>Uuri</Research.labelShort>
+	<Research.pawnLabel>Teadlane</Research.pawnLabel>
+</LanguageData>

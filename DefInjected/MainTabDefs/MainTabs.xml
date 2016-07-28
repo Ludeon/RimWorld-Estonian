@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Architect.label>Arhitekt</Architect.label>
+
+	<Work.label>Töö</Work.label>
+	
+	<Restrict.label>Piira</Restrict.label>
+	
+	<Assign.label>Määra</Assign.label>
+	
+	<Animals.label>Loomad</Animals.label>
+	
+	<Factions.label>Kildkonnad</Factions.label>
+	
+	<World.label>Maailm</World.label>
+	
+	<History.label>Ajalugu</History.label>
+	
+	<Statistics.label>Statistika</Statistics.label>
+	
+	<Research.label>Uurimustöö</Research.label>
+	
+	<Menu.label>Menüü</Menu.label>
+</LanguageData>

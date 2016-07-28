@@ -3,10 +3,10 @@
   <!-- ======================== Non-grouped ========================-->
   <ScenPart_PlayerFaction>Sinu kildkond saab olema {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Alusta {0} inimesega.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Alustad {0} inimesega.</ScenPart_StartWithPawns>
   <RandomPet>juhuslik koduloom</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Alusta uurimistööga: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Alustad uurimistööga: {0}</ScenPart_StartingResearchFinished>
   
   <ScenPart_ArriveInDropPods>Alusta kukkumiskaunadega.</ScenPart_ArriveInDropPods>
 
@@ -25,8 +25,8 @@
   <ScenPart_StartingPawnAgeRange>Sinu inimesed saavad olema {0} kuni {1} aastat vanad.</ScenPart_StartingPawnAgeRange>
 
   <!-- ======================== Grouped ========================-->
-  <ScenPart_StartWith>Alusta</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Mapp on hajutatud </ScenPart_MapScatteredWith>
+  <ScenPart_StartWith>Alustad asjadega</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Mapil on hajutatult</ScenPart_MapScatteredWith>
   <ScenPart_PermaMapCondition>Püsivad mapi omadus(ed)</ScenPart_PermaMapCondition>
   <ScenPart_DisableIncident>Keelatud juhus(ed)</ScenPart_DisableIncident>
   <ScenPart_DisallowBuilding>Ei saa kunagi ehitada</ScenPart_DisallowBuilding>

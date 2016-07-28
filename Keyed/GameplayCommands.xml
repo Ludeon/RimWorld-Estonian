@@ -13,7 +13,7 @@
   <CommandTryReconnectLabel>Ühenda uuesti</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Proovi uuesti ühendada muu elektrivõrguga ühendusraadiuses. See on kasulik kui on ühendatud alatoidetud võrguga või kui on muu elektrivõrk läheduses.</CommandTryReconnectDesc>
 
-  <CommandGatherSpotToggleLabel>Kogumistkoht</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleLabel>Kogunemiskoht</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktiive - kolonistid kogunevad selle koha ümber.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Mitteaktiivne - kolonistid ei kogune selle koha ümber.</CommandGatherSpotToggleDescInactive>
   
@@ -108,11 +108,11 @@
   <CommandReinstallDesc>Määra see toode maha võtmiseks ja ümber paigaldamiseks kuhugi mujale.</CommandReinstallDesc>
   
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Loo hoiukoht selle ehitise ümber, mis oleks täpselt kauplemismajaka raadiuse kujuga.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Loo hoiukoht kauplemismajaka ümber, mis oleks täpselt kauplemismajaka raadiuse kujuga.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Loo hoiukoht</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Loo kasvukoht ümber selle ehitise, mis oleks täpselt lampi valguse raadiuse kujuga.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Loo kasvukoht ümber selle ehitise, mis oleks täpselt lambi valguse raadiuse kujuga.</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>Loo kasvukoht</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->

@@ -30,10 +30,10 @@
   <NeedWarden>Vaja vangihaldajat</NeedWarden>
   <NeedWardenDesc>Sul on vang, aga ükski kolonist pole määratud vangihaldajat.\n\nMäära kolonist vangihaldajat.</NeedWardenDesc>
 
-  <LowFood>Madal toit</LowFood>
-  <LowFoodDesc>Sul on ainult {0} täis pulga väärtuses toitu laos. See on ohtlikult madal.\n\nKasvata, osta, leia või tapa natuke toitu.</LowFoodDesc>
+  <LowFood>Vähe toitu</LowFood>
+  <LowFoodDesc>Sul on ainult {0} täispulga väärtuses toitu laos. See on ohtlikult madal.\n\nKasvata, osta, leia või tapa natuke toitu.</LowFoodDesc>
 
-  <LowMedicine>Madal ravimid</LowMedicine>
+  <LowMedicine>Vähe ravimeid</LowMedicine>
   <LowMedicineDesc>Sul on ainult {0} ravimit jäänud alles laos.\n\nOsta rohkem ravimeid kauplejatelt.</LowMedicineDesc>
   <NoMedicineDesc>Sul pole ravimeid alles jäänud laos.\n\nOsta rohkem ravimeid kauplejatelt.</NoMedicineDesc>
   

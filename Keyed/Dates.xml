@@ -5,8 +5,8 @@
   <ClockYear>Aasta</ClockYear>
   <DateReadoutTip>Sinu saabumisest möödunud päevi: {0}\nIgas kuus on {1} päeva.\nHetke aastaaeg: {2}</DateReadoutTip>
 
-  <FullDate>{0} {1}'st, {2}</FullDate>
-  <DateReadout>{0} {1}'st, {2}</DateReadout>
+  <FullDate>{0}. {1}, {2}</FullDate>
+  <DateReadout>{0}. {1}, {2}</DateReadout>
   <SeasonFullDate>{0} {1}'st</SeasonFullDate>
   <WholeYear>Terve aasta</WholeYear>
 </LanguageData>
