@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HorseshoesPin.label>hobuseraudade pulk</HorseshoesPin.label>
+	
+	<ChessTable.label>malelaud</ChessTable.label>
+	
+	<BilliardsTable.label>piljardilaud</BilliardsTable.label>
+	
+	<TubeTelevision.label>CRT televiisor</TubeTelevision.label>
+	
+	<FlatscreenTelevision.label>lameekraani televiisor</FlatscreenTelevision.label>
+	
+	<MegascreenTelevision.label>hiigelekraani televiisor</MegascreenTelevision.label>
+	
+	<Telescope.label>teleskoop</Telescope.label>
+</LanguageData>

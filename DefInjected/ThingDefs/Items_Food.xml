@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MealSurvivalPack.label>ellujäämiseine</MealSurvivalPack.label>
+	
+	<MealNutrientPaste.label>toitainepasta eine</MealNutrientPaste.label>
+	
+	<MealSimple.label>lihtne eine</MealSimple.label>
+	
+	<MealFine.label>peen eine</MealFine.label>
+	
+	<MealLavish.label>luksuslik eine</MealLavish.label>
+	
+	<Kibble.label>kuivtoit</Kibble.label>
+	
+	<Pemmican.label>kuivliha</Pemmican.label>
+</LanguageData>

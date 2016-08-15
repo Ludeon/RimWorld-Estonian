@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Silver.label>Hõbe</Silver.label>
+	<Silver.label>hõbe</Silver.label>
 	
-	<Gold.label>Kuld</Gold.label>
+	<Gold.label>kuld</Gold.label>
 	
-	<Steel.label>Teras</Steel.label>
+	<Steel.label>teras</Steel.label>
 	
-	<WoodLog.label>Puit</WoodLog.label>
+	<Plasteel.label>plateras</Plasteel.label>
+	
+	<WoodLog.label>puit</WoodLog.label>
+	
+	<Uranium.label>uraanium</Uranium.label>
+	
+	<Jade.label>nefriit</Jade.label>
+	
+	<Cloth.label>riie</Cloth.label>
+	
+	<Synthread.label>süniit</Synthread.label>
+	
+	<DevilstrandCloth.label>kuradiriie</DevilstrandCloth.label>
+	
+	<Hyperweave.label>hüperkude</Hyperweave.label>
+	
+	<MegatheriumWool.label>megatheriumi vill</MegatheriumWool.label>
+	
+	<MuffaloWool.label>muffalo vill</MuffaloWool.label>
+	
+	<CamelHair.label>kaamelikarv</CamelHair.label>
+	
+	<AlpacaWool.label>alpaka vill</AlpacaWool.label>
 </LanguageData>

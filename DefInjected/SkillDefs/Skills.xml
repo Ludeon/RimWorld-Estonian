@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Shooting.skillLabel>Laskmine</Shooting.skillLabel>
+	
+	<Melee.skillLabel>Lähivõitlus</Melee.skillLabel>
+	
+	<Social.skillLabel>Suhtlemine</Social.skillLabel>
+	
+	<Animals.skillLabel>Loomad</Animals.skillLabel>
+	
+	<Medicine.skillLabel>Meditsiin</Medicine.skillLabel>
+	
+	<Cooking.skillLabel>Kokkamine</Cooking.skillLabel>
+	
+	<Construction.skillLabel>Ehitamine</Construction.skillLabel>
+	
+	<Growing.skillLabel>Kasvatamine</Growing.skillLabel>
+	
+	<Mining.skillLabel>Kaevandamine</Mining.skillLabel>
+	
+	<Artistic.skillLabel>Kunst</Artistic.skillLabel>
+	
+	<Crafting.skillLabel>Meisterdamine</Crafting.skillLabel>
+	
+	<Research.skillLabel>Teadus</Research.skillLabel>
+</LanguageData>

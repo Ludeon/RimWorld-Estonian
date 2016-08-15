@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Milk.label>piim</Milk.label>
+	
+	<InsectJelly.label>putukatarretis</InsectJelly.label>
+	
+	<EggChickenUnfertilized.label>kana muna (viljastamata)</EggChickenUnfertilized.label>
+	
+	<EggChickenFertilized.label>kana muna (viljastatud)</EggChickenFertilized.label>
+	
+	<EggCobraFertilized.label>kobra muna (viljastatud)</EggCobraFertilized.label>
+	
+	<EggIguanaFertilized.label>iguaani muna (viljastatud)</EggIguanaFertilized.label>
+	
+	<EggTortoiseFertilized.label>kilpkonna muna (viljastatud)</EggTortoiseFertilized.label>
+	
+	<EggCassowaryFertilized.label>kaasuari muna (viljastatud)</EggCassowaryFertilized.label>
+	
+	<EggEmuFertilized.label>emu muna (viljastatud)</EggEmuFertilized.label>
+	
+	<EggOstrichFertilized.label>jaanalinnu muna (viljastatud)</EggOstrichFertilized.label>
+	
+	<EggTurkeyFertilized.label>kalkuni muna (viljastatud)</EggTurkeyFertilized.label>
+</LanguageData>

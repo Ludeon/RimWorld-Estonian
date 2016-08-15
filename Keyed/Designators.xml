@@ -7,7 +7,7 @@
   <DesignatorCutPlantsDesc>Määrab taimi, mida lõigata või lahkuda. Taim eemaldatakse täielikult ja mistahes toit koristatakse.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Lammuta</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Manipulation ehitis ja võta tagasi osa nende resurssidest.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Lammuta ehitis ja saa tagasi osa selle resurssidest.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Deinstalli</DesignatorUninstall>
   <DesignatorUninstallDesc>Deinstalli see, et seda saaks liigutada, müüa, või installida kuhugi mujale.</DesignatorUninstallDesc>

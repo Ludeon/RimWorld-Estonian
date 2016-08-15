@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ship_Beam.label>laeva struktuuritala</Ship_Beam.label>
+	
+	<Ship_CryptosleepCasket.label>laeva krüptoune laegas</Ship_CryptosleepCasket.label>
+	
+	<Ship_ComputerCore.label>laeva arvutituum</Ship_ComputerCore.label>
+	
+	<Ship_Reactor.label>laeva reaktor</Ship_Reactor.label>
+	
+	<Ship_Engine.label>laevamootor</Ship_Engine.label>
+</LanguageData>

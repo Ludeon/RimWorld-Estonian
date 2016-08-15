@@ -205,8 +205,8 @@
 
   <!-- Rotting -->
   <CurrentlyFrozen>Külmutatud (ei rikne)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Külmutatud (rikneb {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Külmutamata (rikneb {0})</NotRefrigerated>
+  <CurrentlyRefrigerated>Külmutatud (säilib {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Külmutamata (säilib {0})</NotRefrigerated>
   <OverADecade>üle kümnendi</OverADecade>
   <LessThanADay>vähem kui päev</LessThanADay>
   

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Sand.label>liiv</Sand.label>
+	
+	<Soil.label>muld</Soil.label>
+	
+	<MarshyTerrain.label>soine muld</MarshyTerrain.label>
+	
+	<SoilRich.label>toiterikas pinnas</SoilRich.label>
+	
+	<Mud.label>muda</Mud.label>
+	
+	<Marsh.label>soo</Marsh.label>
+	
+	<Gravel.label>kruus</Gravel.label>
+	
+	<MossyTerrain.label>samblane muld</MossyTerrain.label>
+	
+	<Ice.label>jää</Ice.label>
+</LanguageData>

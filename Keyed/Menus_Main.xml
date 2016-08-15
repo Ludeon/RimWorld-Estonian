@@ -38,7 +38,7 @@
   <NoWorldsFilesFound>Maailma faile ei leitud. Loo esmalt maailm.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Versioon {0} on nüüd saadaval. Külasta lisa info jaoks ludeon.com.</BuildNowAvailable>
+  <BuildNowAvailable>Versioon {0} on nüüd saadaval. Külasta lisainfo jaoks ludeon.com.</BuildNowAvailable>
   <BuildUpToDate>Versioon on ajakohane.</BuildUpToDate>
   <ErrorGettingVersionInfo>Tõrge versiooni info hankimisel: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Versiooni info laadimine...</LoadingVersionInfo>
@@ -81,7 +81,7 @@
   <Summary>Kokkuvõte</Summary>
   <AddPart>Lisa osa</AddPart>
   <TextFieldsMustBeFilled>Kõik tekstiväljad peavad olema täidetud.</TextFieldsMustBeFilled>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Sa peaksid üleslaadima ainult asju, mida sa ise oled loonud.\n\nKas sa oled loonud selle ise?</ConfirmContentAuthor>
   <ConfirmSteamWorkshopUpload>Oled kindel et tahad selle üles laadida Steam'i Töökotta?\n\nSa pead nõustuma Steam'i Töökoja kasutustingimustega. Leia kõik tingimused siit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <Incompatible>Ühtimatu</Incompatible>
   <TooMany>Liiga palju (max {0}): </TooMany>
@@ -89,7 +89,7 @@
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
-  <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, resurssi kukkumised või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
+  <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, kukkumiskaunad või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
   <MustChooseDifficulty>Palun vali raskusaste.</MustChooseDifficulty>
   <Difficulty>Raskusaste</Difficulty>
 
