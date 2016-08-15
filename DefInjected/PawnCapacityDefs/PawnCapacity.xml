@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Consciousness.label>teadvus</Consciousness.label>
+	
+	<Sight.label>nägemine</Sight.label>
+	
+	<Hearing.label>kuulmine</Hearing.label>
+	
+	<Moving.label>liikumine</Moving.label>
+	
+	<Manipulation.label>manipuleerimine</Manipulation.label>
+	
+	<Talking.label>rääkimine</Talking.label>
+	
+	<Eating.label>söömine</Eating.label>
+	
+	<Breathing.label>hingamine</Breathing.label>
+	
+	<BloodFiltration.label>vere filtreerimine</BloodFiltration.label>
+	
+	<BloodPumping.label>vere pumpamine</BloodPumping.label>
+	
+	<Metabolism.label>ainevahetus</Metabolism.label>
+</LanguageData>

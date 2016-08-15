@@ -43,7 +43,7 @@
   <NumEnemyRaids>Vaenlase rünnakud</NumEnemyRaids>
   <DamageTaken>Viga saadud</DamageTaken>
   <ColonistsKilled>Koloniste tapetud</ColonistsKilled>
-  <ColonistsLaunched>Koloniste komosesse saadetud</ColonistsLaunched>
+  <ColonistsLaunched>Kosmosesse saadetud koloniste</ColonistsLaunched>
 
   <!-- History tab -->
   <SelectGraph>Vali graafik</SelectGraph>

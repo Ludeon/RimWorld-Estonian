@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SunLamp.label>päevavalguslamp</SunLamp.label>
+	
+	<OrbitalTradeBeacon.label>orbitaal kaubandusmajakas</OrbitalTradeBeacon.label>
+	
+	<CommsConsole.label>suhtluskonsool</CommsConsole.label>
+	
+	<MultiAnalyzer.label>multi-analüsaator</MultiAnalyzer.label>
+	
+	<VitalsMonitor.label>haiglamonitor</VitalsMonitor.label>
+	
+	<ToolCabinet.label>tööriista kapp</ToolCabinet.label>
+	
+	<FirefoamPopper.label>tuletõrjevihmuti</FirefoamPopper.label>
+	
+	<MoisturePump.label>niiskuse pump</MoisturePump.label>
+	
+	<Grave.label>haud</Grave.label>
+	
+	<Sarcophagus.label>sarkofaag</Sarcophagus.label>
+	
+	<CryptosleepCasket.label>krüptoune laegas</CryptosleepCasket.label>
+	
+	<AncientCryptosleepCasket.label>iidne krüptoune laegas</AncientCryptosleepCasket.label>
+	
+	<MarriageSpot.label>abielukoht</MarriageSpot.label>
+	
+	<PartySpot.label>peokoht</PartySpot.label>
+</LanguageData>

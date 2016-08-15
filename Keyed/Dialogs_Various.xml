@@ -100,7 +100,7 @@
   <MapStartSeason>Alg hooaeg:</MapStartSeason>
   <MapStartSeasonDefault>Automaatne</MapStartSeasonDefault>
   <PermadeathMode>Lõppsurma mood</PermadeathMode>
-  <PermadeathModeInfo>Lõppsurma moodis saad sa ainult ühe salvestusfaili ja saad salvestada ainult mängust väljudes. Sa ei saa mängu uuesti laadida, et parandada vigu ja kui su koloonia sureb, siis on see kõik.\n\nSee on kuidas RimWorld'i on õeldud mängida, väga dramaatiliste pööretega, mis mängivad välja täieliku mõjuga.</PermadeathModeInfo>
+  <PermadeathModeInfo>Lõppsurma moodis saad sa ainult ühe salvestusfaili ja saad salvestada ainult mängust väljudes. Sa ei saa mängu uuesti laadida, et parandada vigu ja kui su koloonia sureb, siis on see kõik.\n\nSee on kuidas RimWorld'i on mõeldud mängitama, väga dramaatiliste pööretega, mis mängivad välja täieliku mõjuga.</PermadeathModeInfo>
 
   <!-- Bill config -->
   <Suspended>Peatatud</Suspended>

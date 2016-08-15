@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Orders.label>käsud</Orders.label>
+	
+	<Zone.label>tsoon/Ala</Zone.label>
+	
+	<Structure.label>struktuur</Structure.label>
+	
+	<Production.label>tootmine</Production.label>
+	
+	<Furniture.label>sisustus</Furniture.label>
+	
+	<Power.label>elekter</Power.label>
+	
+	<Security.label>turvalisus</Security.label>
+	
+	<Misc.label>muu</Misc.label>
+	
+	<Floors.label>põrandad</Floors.label>
+	
+	<Joy.label>lõbu</Joy.label>
+	
+	<Ship.label>laev</Ship.label>
+	
+	<Temperature.label>temperatuur</Temperature.label>
+</LanguageData>

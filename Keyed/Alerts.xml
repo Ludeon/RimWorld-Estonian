@@ -41,10 +41,10 @@
   <NeedColonistBedsDesc>Sul on rohkem koloniste, kui sul on kolonisti voodeid. Kellegil puudub koht magamiseks.\n\nTee rohkem voodeid või muuda vangivoodi kolonisti voodiks.\n\nKui sul pole resursse, magamiskohad on tasuta ja on võimalik asetada koheselt.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Jahimehel puuduvad relvad</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>Kolonist on määratud jahimeheks, aga pole relvi. Nad ei jahi enne, kui nad kannavad relva.\n\nEt vähendada vigastusi, on soovitav anda neile kaugrelv.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Kolonist on määratud jahimeheks, aga tal puuduvad relvad. Ta ei jahi enne, kui tal on mõni relv.\n\nEt vähendada vigastusi, on soovitav varustada kolonist kaugrelvaga.</HunterLacksWeaponDesc>
 
   <Starvation>Nälgimine</Starvation>
-  <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu. Sul on vaja toiduallikat nagu toitainete pasta dispenserist ja natuke selle täitmiseks. Samuti kindlusta, et nad ei ole väeteenistuses.</StarvationDesc>
+  <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu. Sul on vaja toiduallikat nagu toitainete pasta dispenserist ja natuke selle täitmiseks. Samuti kindlusta, et nad ei ole teenistuses.</StarvationDesc>
 
   <StarvationAnimals>Looma nälgimine</StarvationAnimals>
   <StarvationAnimalsDesc>Need koloonia loomad nälgivad:\n\n{0}\nHangi neile toitu.</StarvationAnimalsDesc>

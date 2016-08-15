@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SleepingSpot.label>magamiskoht</SleepingSpot.label>
+	
+	<Bed.label>voodi</Bed.label>
+	
+	<DoubleBed.label>kaheinimesevoodi</DoubleBed.label>
+	
+	<RoyalBed.label>kuninglik voodi</RoyalBed.label>
+	
+	<HospitalBed.label>haiglavoodi</HospitalBed.label>
+	
+	<Stool.label>taburet</Stool.label>
+	
+	<Armchair.label>tugitool</Armchair.label>
+	
+	<TableShort.label>laud (lühike)</TableShort.label>
+	
+	<TableLong.label>laud (pikk)</TableLong.label>
+	
+	<PlantPot.label>taimepott</PlantPot.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PowerConduit.label>elektrijuhe</PowerConduit.label>
+	
+	<PowerSwitch.label>toitelüliti</PowerSwitch.label>
+	
+	<FueledGenerator.label>generaator</FueledGenerator.label>
+	
+	<Battery.label>patarei</Battery.label>
+	
+	<SolarGenerator.label>päikesepaneel</SolarGenerator.label>
+	
+	<GeothermalGenerator.label>maasoojuse generaator</GeothermalGenerator.label>
+</LanguageData>

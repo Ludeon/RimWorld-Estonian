@@ -99,7 +99,7 @@
   <SelectSite>Vali asukoht</SelectSite>
   <MustSelectLandingSite>Palun vali maandumis asukoht.</MustSelectLandingSite>
   <CannotLandBiome>Sa ei saa maanduda sellel bioomil: {0}</CannotLandBiome>
-  <WorldRenderMode>Mood</WorldRenderMode>
+  <WorldRenderMode>Vaade</WorldRenderMode>
   <WorldRenderModeFull>Täielik</WorldRenderModeFull>
   <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
   <WorldRenderModeElevation>Kõrgus</WorldRenderModeElevation>

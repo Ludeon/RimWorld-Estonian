@@ -155,7 +155,7 @@
 
   <!-- Pawn info readout -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescFactionedWrap>{0}'i {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} {1}'st</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Kildkond</Faction>
   <Equipped>Varustatud</Equipped>
