@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SpeedOffset.degreeDatas.0.label>tigu</SpeedOffset.degreeDatas.0.label>
+	<SpeedOffset.degreeDatas.1.label>kiire kõndaja</SpeedOffset.degreeDatas.1.label>
+	<SpeedOffset.degreeDatas.2.label>jooksja</SpeedOffset.degreeDatas.2.label>
+	
+	<DrugDesire.degreeDatas.0.label>keemiline vaimustus</DrugDesire.degreeDatas.0.label>
+	<DrugDesire.degreeDatas.1.label>keemiline huvi</DrugDesire.degreeDatas.1.label>
+	<DrugDesire.degreeDatas.2.label>karsklane</DrugDesire.degreeDatas.2.label>
+	
+	<NaturalMood.degreeDatas.0.label>elavaloomuline</NaturalMood.degreeDatas.0.label>
+	<NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
+	<NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
+	<NaturalMood.degreeDatas.3.label>depressiivne</NaturalMood.degreeDatas.3.label>
+	
+	<Nerves.degreeDatas.0.label>raudse tahtega</Nerves.degreeDatas.0.label>
+	<Nerves.degreeDatas.1.label>vankumatu</Nerves.degreeDatas.1.label>
+	<Nerves.degreeDatas.2.label>närviline</Nerves.degreeDatas.2.label>
+	<Nerves.degreeDatas.3.label>kõikuv</Nerves.degreeDatas.3.label>
+	
+	<Neurotic.degreeDatas.0.label>neurootiline</Neurotic.degreeDatas.0.label>
+	<Neurotic.degreeDatas.1.label>väga neurootiline</Neurotic.degreeDatas.1.label>
+	
+	<Industriousness.degreeDatas.0.label>väga töökas</Industriousness.degreeDatas.0.label>
+	<Industriousness.degreeDatas.1.label>töökas</Industriousness.degreeDatas.1.label>
+	<Industriousness.degreeDatas.2.label>laisk</Industriousness.degreeDatas.2.label>
+	<Industriousness.degreeDatas.3.label>väga laisk</Industriousness.degreeDatas.3.label>
+	
+	<PsychicSensitivity.degreeDatas.0.label>psüühiliselt ülitundlik</PsychicSensitivity.degreeDatas.0.label>
+	<PsychicSensitivity.degreeDatas.1.label>psüühiliselt tundlik</PsychicSensitivity.degreeDatas.1.label>
+	<PsychicSensitivity.degreeDatas.2.label>psüühiliselt tuim</PsychicSensitivity.degreeDatas.2.label>
+	<PsychicSensitivity.degreeDatas.3.label>psüühiliselt kurt</PsychicSensitivity.degreeDatas.3.label>
+	
+	<TemperaturePreference.degreeDatas.0.label>külma armastaja</TemperaturePreference.degreeDatas.0.label>
+	<TemperaturePreference.degreeDatas.1.label>külma taluv</TemperaturePreference.degreeDatas.1.label>
+	<TemperaturePreference.degreeDatas.2.label>kuuma taluv</TemperaturePreference.degreeDatas.2.label>
+	<TemperaturePreference.degreeDatas.3.label>kuuma armastaja</TemperaturePreference.degreeDatas.3.label>
+	
+	<ShootingAccuracy.degreeDatas.0.label>ettevaatlik laskja</ShootingAccuracy.degreeDatas.0.label>
+	<ShootingAccuracy.degreeDatas.1.label>tulistamisjanune</ShootingAccuracy.degreeDatas.1.label>
+	
+	<Beauty.degreeDatas.0.label>väga ilus</Beauty.degreeDatas.0.label>
+	<Beauty.degreeDatas.1.label>ilus</Beauty.degreeDatas.1.label>
+	<Beauty.degreeDatas.2.label>kole</Beauty.degreeDatas.2.label>
+	<Beauty.degreeDatas.3.label>vapustavalt kole</Beauty.degreeDatas.3.label>
+</LanguageData>

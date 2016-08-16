@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Heart.label>süda</Heart.label>
+	
+	<Lung.label>kops</Lung.label>
+	
+	<Kidney.label>neer</Kidney.label>
+	
+	<Liver.label>maks</Liver.label>
+	
+	<SimpleProstheticLeg.label>lihtne jalaprotees</SimpleProstheticLeg.label>
+	
+	<SimpleProstheticArm.label>lihtne käeprotees</SimpleProstheticArm.label>
+	
+	<BionicEye.label>biooniline silm</BionicEye.label>
+	
+	<BionicArm.label>biooniline käsi</BionicArm.label>
+	
+	<BionicLeg.label>biooniline jalg</BionicLeg.label>
+	
+	<PowerClaw.label>elektrikäpp</PowerClaw.label>
+	
+	<ScytherBlade.label>mehhanoidi käsi</ScytherBlade.label>
+</LanguageData>

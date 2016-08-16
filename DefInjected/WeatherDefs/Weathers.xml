@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Clear.label>selge</Clear.label>
+	
+	<Fog.label>udu</Fog.label>
+	
+	<Rain.label>vihm</Rain.label>
+	
+	<DryThunderstorm.label>kuiv äikesetorm</DryThunderstorm.label>
+	
+	<RainyThunderstorm.label>vihmane äikesetorm</RainyThunderstorm.label>
+	
+	<FoggyRain.label>uduvihm</FoggyRain.label>
+	
+	<SnowHard.label>kõva lumesadu</SnowHard.label>
+	
+	<SnowGentle.label>õrn lumesadu</SnowGentle.label>
+</LanguageData>

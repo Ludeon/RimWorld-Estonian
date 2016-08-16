@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CollapsedRocks.label>varisenud kivid</CollapsedRocks.label>
+	
+	<MineableSteel.label>kokkusurutud teras</MineableSteel.label>
+	
+	<MineableSilver.label>hõbemaak</MineableSilver.label>
+	
+	<MineableGold.label>kullamaak</MineableGold.label>
+	
+	<MineableUranium.label>uraanimaak</MineableUranium.label>
+	
+	<MineablePlasteel.label>kokkusurutud plateras</MineablePlasteel.label>
+	
+	<MineableJade.label>nefriit</MineableJade.label>
+	
+	<MineableComponents.label>kokkusurutud elektroonika</MineableComponents.label>
+	
+	<SteamGeyser.label>auru geiser</SteamGeyser.label>
+	
+	<Hive.label>taru</Hive.label>
+	
+	<GlowPod.label>kumakaun</GlowPod.label>
+</LanguageData>

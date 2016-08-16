@@ -61,7 +61,7 @@
   
   <!--TextMotes-->
   <Headshot>Pähelask</Headshot>
-  <TreatQuality>ravimiskvaliteet {0}</TreatQuality>
+  <TreatQuality>ravikvaliteet {0}</TreatQuality>
   <PoorResult>halb tulemus</PoorResult>
   <GoodResult>hea tulemus</GoodResult>
   <TextMote_TreatSuccess>Ravi õnnestus!\n{0} võimalus</TextMote_TreatSuccess>
@@ -225,7 +225,7 @@
   <Mature>Küps.</Mature>
   <SeedLabel>{0} seeme</SeedLabel>
   <OutdoorGrowingPeriod>Kasvuperiood: {0}</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Mitee kunagi</NoGrowingPeriod>
+  <NoGrowingPeriod>Puudub</NoGrowingPeriod>
   <GrowYearRound>Terve aasta</GrowYearRound>
   <GrowSeasonHereNow>Kasvuperiood hetkel.</GrowSeasonHereNow>
   <CannotGrowTooCold>Ei saa kasvada - külm aastaaeg.</CannotGrowTooCold>

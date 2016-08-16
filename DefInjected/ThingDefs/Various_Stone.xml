@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ChunkSlagSteel.label>terasräbu tükk</ChunkSlagSteel.label>
+	
+	<Sandstone.label>liivakivi</Sandstone.label>
+	
+	<ChunkSandstone.label>liivakivi tükk</ChunkSandstone.label>
+	
+	<BlocksSandstone.label>liivakivi plokid</BlocksSandstone.label>
+	
+	<Granite.label>graniit</Granite.label>
+	
+	<ChunkGranite.label>graniidi tükk</ChunkGranite.label>
+	
+	<BlocksGranite.label>graniidi plokid</BlocksGranite.label>
+	
+	<Limestone.label>paekivi</Limestone.label>
+	
+	<ChunkLimestone.label>paekivi tükk</ChunkLimestone.label>
+	
+	<BlocksLimestone.label>paekivi plokid</BlocksLimestone.label>
+	
+	<Slate.label>kilt</Slate.label>
+	
+	<ChunkSlate.label>kildi tükk</ChunkSlate.label>
+	
+	<BlocksSlate.label>kildi plokid</BlocksSlate.label>
+	
+	<Marble.label>marmor</Marble.label>
+	
+	<ChunkMarble.label>marmori tükk</ChunkMarble.label>
+	
+	<BlocksMarble.label>marmori plokid</BlocksMarble.label>
+</LanguageData>
