@@ -217,3 +217,148 @@
   <!-- Growing -->
   <NoGrowerCanPlant>{0} vajab {1} oskust kasvatamises, et külvata.\n\nÜkski sinu kasvatajatest ei ole võimeline seda külvama.</NoGrowerCanPlant>
 </LanguageData>
+<ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+<MassCapacity>Mass capacity</MassCapacity>
+<ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+<SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+<MedGroupDefaults>Defaults</MedGroupDefaults>
+<ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+<DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
+<SplitCaravan>Split caravan</SplitCaravan>
+<CloseButton>Close</CloseButton>
+<FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
+<ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
+<PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+<CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+<EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
+<NewDrugPolicy>New policy</NewDrugPolicy>
+<PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+<CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
+<Unpause>Unpause</Unpause>
+<PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
+<GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+<MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
+<NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
+<TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
+<CaravanConfigTab>Config</CaravanConfigTab>
+<ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
+<CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
+<ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
+<TimesPerDay>{0} times per day</TimesPerDay>
+<EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
+<CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
+<FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
+<ReformCaravan>Reform caravan</ReformCaravan>
+<Restarting>Restarting</Restarting>
+<MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
+<AddDrug>Add drug...</AddDrug>
+<CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
+<CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
+<DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
+<DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
+<NoDrugUseRequirement>Any</NoDrugUseRequirement>
+<MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
+<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+<FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
+<PawnsTab>People and animals</PawnsTab>
+<MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
+<SelectDrugPolicy>Select policy...</SelectDrugPolicy>
+<ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
+<AnimalsSection>Animals</AnimalsSection>
+<PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
+<CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+<DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+<ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+<NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
+<FormCaravan>Form caravan</FormCaravan>
+<CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
+<DifficultyLevel>difficulty level</DifficultyLevel>
+<SpawningColonists>Spawning colonists</SpawningColonists>
+<CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
+<PostCurve>global post-process curve</PostCurve>
+<FinalPrice>Final price</FinalPrice>
+<DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
+<ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
+<CaravanSplitDestLabel>New</CaravanSplitDestLabel>
+<Addictiveness>Addictiveness</Addictiveness>
+<TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+<MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
+<NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
+<TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
+<ItemsTab>Items</ItemsTab>
+<ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+<Unrestricted>Unrestricted</Unrestricted>
+<GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
+<JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
+<PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
+<UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
+<GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
+<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+<DrugPolicy>Drug policy</DrugPolicy>
+<NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
+<CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
+<ColonistsSection>Colonists</ColonistsSection>
+<NoDrugs>No drugs</NoDrugs>
+<Mass>Mass</Mass>
+<InitializingGame>Initializing game</InitializingGame>
+<CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
+<NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
+<Negotiator>Negotiator</Negotiator>
+<DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+<BodySize>Body size</BodySize>
+<TraderTypePrice>trader type</TraderTypePrice>
+<PackAnimal>Pack animal</PackAnimal>
+<DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
+<MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+<DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+<PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+<MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+<DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
+<SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+<FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
+<DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
+<NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+<DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
+<LoadTransporters>Load {0}</LoadTransporters>
+<JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
+<minimum>minimum</minimum>
+<CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
+<Selling>selling</Selling>
+<EveryDay>Every day</EveryDay>
+<ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+<NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
+<MedGroupColonist>Colonist</MedGroupColonist>
+<TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
+<InventoryMass>Inventory mass</InventoryMass>
+<SocialDrugs>Social drugs</SocialDrugs>
+<CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
+<TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+<GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
+<DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+<DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
+<EveryDays>Every {0} days</EveryDays>
+<InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
+<OneDrinkPerDay>One drink per day</OneDrinkPerDay>
+<MarketValueTip>Market value</MarketValueTip>
+<DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
+<SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+<DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
+<TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
+<CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
+<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+<ExitDirection>Exit direction</ExitDirection>
+<Buying>buying</Buying>
+<PrisonersSection>Prisoners</PrisonersSection>
+<DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
+<Paused>Paused</Paused>
+<MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
+<TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
+<FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+<TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
+<PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
+<ItemWeightTip>Weight of this item.</ItemWeightTip>
+<DrugColumnLabel>Drug</DrugColumnLabel>
+<GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
+<ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>

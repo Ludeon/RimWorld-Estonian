@@ -155,3 +155,31 @@
   <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
   <GeneratingMap>Mapi genereerimine...</GeneratingMap>
 </LanguageData>
+<PlanetCoverage>Globe coverage</PlanetCoverage>
+<PlanetRainfall_Low>Low</PlanetRainfall_Low>
+<PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+<PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+<PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+<River>River</River>
+<GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+<PlanetTemperature_High>High</PlanetTemperature_High>
+<FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+<PlanetTemperature_Low>Low</PlanetTemperature_Low>
+<AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+<WorldFactionsTab>Factions</WorldFactionsTab>
+<PlanetRainfall>Overall rainfall</PlanetRainfall>
+<MovementTimeSummer>Summer movement time</MovementTimeSummer>
+<Tutorial>Tutorial</Tutorial>
+<Road>Road</Road>
+<TimeZone>Time zone</TimeZone>
+<PlanetTemperature>Overall temperature</PlanetTemperature>
+<CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+<TileOccupied>This tile is occupied.</TileOccupied>
+<MovementTimeNow>Current movement time</MovementTimeNow>
+<YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+<Quit>Quit</Quit>
+<GeneratingPlanet>Generating planet</GeneratingPlanet>
+<Ignore>Ignore</Ignore>
+<PlanetRainfall_High>High</PlanetRainfall_High>
+<DragToReorder>Drag to reorder</DragToReorder>

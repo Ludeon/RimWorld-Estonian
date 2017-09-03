@@ -104,3 +104,32 @@
   <LetterLabelNewParty>Pidu</LetterLabelNewParty>
   <LetterNewParty>{0} korraldab pidu! Kõik kes lähevad saavad lõbu ja sotsiaalsetenergiat ja positiivse meeleolu boonuse.</LetterNewParty>
 </LanguageData>
+<LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
+<LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
+<LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+<LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+<LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+<LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
+<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+<LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+<LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+<PostponeLetter>Postpone</PostponeLetter>
+<LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+<LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+<LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+<LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+<FinalStraw>The final straw was: {0}.</FinalStraw>
+<LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+<RejectLetter>Reject</RejectLetter>
+<LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
+<LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+<LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+<LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+<LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+<LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil HIS need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+<LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+<LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+<LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+<LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+<LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+<LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>

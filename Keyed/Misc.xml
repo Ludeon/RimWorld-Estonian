@@ -63,3 +63,10 @@
   <!-- History events -->
   <ColonistDied>Kolonist suri</ColonistDied>
 </LanguageData>
+<default>default</default>
+<repeat>repeat</repeat>
+<North>North</North>
+<intervalDays>interval (days)</intervalDays>
+<East>East</East>
+<West>West</West>
+<South>South</South>

@@ -109,3 +109,22 @@
   <HunterHasShieldAndRangedWeapon>Jahimehel on kilp ja kaugrelv</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Ühel sinu jahimeestest on kaugrelv ja kannab personaalset kilpi, mis takistab teda laskmast eemalt.\n\nNad ei saa jahtida, enne kui kilp on eemaldatud.</HunterHasShieldAndRangedWeaponDesc>
 </LanguageData>
+<BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+<NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+<NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+<BreakRiskMinor>Minor break risk</BreakRiskMinor>
+<BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+<ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+<NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+<BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+<BreakRiskMajor>Major break risk</BreakRiskMajor>
+<BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+<AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+<BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+<NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+<AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+<NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+<NeedJoySource>Need joy source</NeedJoySource>
+<ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+<AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+<AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>

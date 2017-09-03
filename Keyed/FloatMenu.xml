@@ -118,3 +118,41 @@
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Tähtsusta {0} {1}</PrioritizeGeneric>
 </LanguageData>
+<NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+<CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+<SelfTendDisabled>self-tend disabled</SelfTendDisabled>
+<GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+<GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+<LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+<CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+<VisitSettlement>Visit {0}</VisitSettlement>
+<AddWaypoint>Add a new waypoint here</AddWaypoint>
+<CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+<NotInHomeArea>not in home area</NotInHomeArea>
+<TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+<PickUpAll>Pick up {0} (all)</PickUpAll>
+<RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+<IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+<GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+<CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+<CannotPickUp>Cannot pick up {0}</CannotPickUp>
+<PickUpSome>Pick up {0}...</PickUpSome>
+<GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+<TooHeavy>Too heavy</TooHeavy>
+<NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+<CarryToExit>Carry {0} and leave the area</CarryToExit>
+<DropAtEdge>Drop at edge</DropAtEdge>
+<CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+<VisitSite>Visit {0}</VisitSite>
+<VomitingLower>vomiting</VomitingLower>
+<CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+<AttackSettlement>Attack {0}</AttackSettlement>
+<PickUp>Pick up {0}</PickUp>
+<ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
+<PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+<DropInCenter>Drop in center</DropInCenter>
+<NoWort>need wort</NoWort>
+<AttackSite>Attack {0}</AttackSite>
+<EnterMap>Enter {0}</EnterMap>

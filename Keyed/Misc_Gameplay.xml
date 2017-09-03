@@ -368,3 +368,124 @@
   <DueForMaintenance>Aeg hoolduse jaoks.</DueForMaintenance>
   <DeterioratingDueToLackOfMaintenance>Nõrgeneb hooldusematuse tõttu.</DeterioratingDueToLackOfMaintenance>
 </LanguageData>
+<RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+<WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+<NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
+<RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
+<RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
+<ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
+<Temperature>Temperature</Temperature>
+<WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
+<DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
+<CaravanResting>Resting.</CaravanResting>
+<FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
+<LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
+<CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
+<CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
+<ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
+<CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+<CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
+<RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
+<PainShockShort>Pain shock</PainShockShort>
+<ReadyForLaunch>Ready for launch.</ReadyForLaunch>
+<CaravanOutOfFood>Out of food.</CaravanOutOfFood>
+<HitPointsBasic>hit points</HitPointsBasic>
+<KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+<SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
+<LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
+<AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
+<TextMote_Dodge>Dodge</TextMote_Dodge>
+<RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
+<ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
+<NoPower>No power</NoPower>
+<CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+<CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+<TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
+<TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
+<RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+<CaravanAttacking>Attacking {0}.</CaravanAttacking>
+<RecipeAdminister>administer {0}</RecipeAdminister>
+<Filter>Filter</Filter>
+<Map>Map</Map>
+<MarkLearned>Mark as learned</MarkLearned>
+<BeautyHere>Beauty here</BeautyHere>
+<CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
+<RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+<WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
+<WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+<ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
+<ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
+<WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+<CaravanTraveling>Traveling.</CaravanTraveling>
+<RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+<SettlementTrader>{0} of {1}</SettlementTrader>
+<RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
+<BadTemperature>bad temperature</BadTemperature>
+<Freezing>Freezing</Freezing>
+<TextMote_Tended>{0} tended</TextMote_Tended>
+<OutfitNudist>Nudist</OutfitNudist>
+<EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
+<VentClosed>Closed</VentClosed>
+<ItemStashContents>Contents: {0}.</ItemStashContents>
+<LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
+<NextTendIn>Will need tending in {0}</NextTendIn>
+<SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
+<WornBy>worn by {0}</WornBy>
+<CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
+<Dead>Dead</Dead>
+<Overheating>Overheating</Overheating>
+<RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+<OutfitSoldier>Soldier</OutfitSoldier>
+<ContainsWort>Contains {0} / {1} wort.</ContainsWort>
+<EquippedBy>equipped by {0}</EquippedBy>
+<CaravanEntering>Entering {0}.</CaravanEntering>
+<TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
+<CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
+<ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+<WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
+<ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
+<GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
+<AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
+<CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+<NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+<GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
+<Fermented>Fermented</Fermented>
+<OutfitAnything>Anything</OutfitAnything>
+<CaravanVisiting>Visiting {0}.</CaravanVisiting>
+<FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+<AffectedBy>Affected by:</AffectedBy>
+<EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+<WornByCorpseChar>D</WornByCorpseChar>
+<CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+<DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
+<OutfitWorker>Worker</OutfitWorker>
+<ShowRoofOverlayToggleButton>Toggle visibility of roofs.</ShowRoofOverlayToggleButton>
+<TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
+<LearningHelper>Learning helper</LearningHelper>
+<CaravanWaiting>Waiting.</CaravanWaiting>
+<NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
+<ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+<MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+<UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
+<RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
+<QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+<ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
+<PainShock>In shock due to pain</PainShock>
+<TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
+<ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
+<RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
+<TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
+<IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+<AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+<Room>Room</Room>
+<SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+<FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+<ResourceBelow>Resource below</ResourceBelow>
+<RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+<Unconscious>Unconscious</Unconscious>
+<NeedsTendingNow>Needs tending now</NeedsTendingNow>
+<KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
+<AlreadyLearned>Already learned</AlreadyLearned>
+<KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
+<TextMote_HarvestFailed>Harvest\nfailed</TextMote_HarvestFailed>
+<DisabledCommand>DISABLED</DisabledCommand>

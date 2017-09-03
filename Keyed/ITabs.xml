@@ -102,3 +102,21 @@
   <IAmDead>Ma olen surnud</IAmDead>
   <IAmPsychopath>Ma olen psühhopaat</IAmPsychopath>
 </LanguageData>
+<Affects>Affects</Affects>
+<SelfTend>Self-tend</SelfTend>
+<ArmorHeat>Heat</ArmorHeat>
+<WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+<TimeToDeath>death in {0}</TimeToDeath>
+<MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+<PartEfficiency>Part efficiency</PartEfficiency>
+<ArmorElectric>Electric</ArmorElectric>
+<ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+<Missing>Missing</Missing>
+<PainFactor>Pain</PainFactor>
+<SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+<ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+<ArmorSharp>Sharp</ArmorSharp>
+<ArmorBlunt>Blunt</ArmorBlunt>
+<AverageArmor>Average armor</AverageArmor>
+<BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+<PreventsInfection>Prevents infection</PreventsInfection>
