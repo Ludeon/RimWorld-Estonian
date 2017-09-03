@@ -61,3 +61,15 @@
   <ResearchCostMultiplier>maksumuse korrutaja</ResearchCostMultiplier>
   <ResearchCostComparison>Projekti baasmaksumus {0} muutub {1}'ks sinu tehnilise taseme tõttu.</ResearchCostComparison>
 </LanguageData>
+<Rival>Rival</Rival>
+<Friend>Friend</Friend>
+<ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+<Graph>Graph</Graph>
+<Statistics>Statistics</Statistics>
+<AssignTabEdit>Edit...</AssignTabEdit>
+<ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+<ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+<ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+<ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+<Acquaintance>Acquaintance</Acquaintance>
+<DefeatedLower>defeated</DefeatedLower>

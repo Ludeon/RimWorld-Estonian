@@ -38,3 +38,13 @@
   <ChooseHistoryUploadPref>Andmete saatmise eelistus</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Mängimise andmed aitavad arendajatel tasakaalustada mängu. Kui sa nõustud, siis sinu andmeid saadetakse iga {0} mängu päeva (ja mõndadel haruldastel juhtudel nagu mängu lõpp) järel RimWorldi serveritesse ja siis analüüsitakse. Üleslaetud mängimise andmed koosnevad ainult statistikast ja ajaloo andmetest mängu kohta - isiklikku andmeid ei saadeta, väljaarvata kasutajanimi, mis tähendab, et see on täielikult anonüümne.</AboutHistoryUpload>
 </LanguageData>
+<SelectMod>Select mod...</SelectMod>
+<PlantWindSway>Plant wind sway</PlantWindSway>
+<NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+<UIScale>UI scale</UIScale>
+<MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+<ModSettings>Mod Settings</ModSettings>
+<TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+<MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+<AddName>Add name</AddName>
+<HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>

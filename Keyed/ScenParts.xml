@@ -31,3 +31,7 @@
   <ScenPart_DisableIncident>Keelatud juhus(ed)</ScenPart_DisableIncident>
   <ScenPart_DisallowBuilding>Ei saa kunagi ehitada</ScenPart_DisallowBuilding>
 </LanguageData>
+<ScenPart_SetNeed>{0} have a {1} chance to have their {2} set between {3} and {4}.</ScenPart_SetNeed>
+<ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
+<ScenPart_PermaGameCondition>Permanent game condition(s)</ScenPart_PermaGameCondition>
+<ConfigurableLevel>level: {0}</ConfigurableLevel>

@@ -32,3 +32,8 @@
   <StatsReport_UnpoweredWorkTable>Pole elektrit</StatsReport_UnpoweredWorkTable>
   <StatsReport_ScenarioFactor>Stsenaarium</StatsReport_ScenarioFactor>
 </LanguageData>
+<StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
+<StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
+<HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+<StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
+<StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
