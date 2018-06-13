@@ -36,13 +36,13 @@
 
   <TraderArrival>Kauplemislaev on läheduses.\n\nNad on tuntud kui {0}. Nad on {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{0} {1}'st möödub. HECAP on nimega {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>{0} {1}'st möödub. [PAWN_pronoun] on nimega {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Grupp reisijaid {0}'st mööduvad.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Külaline</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{0} {1}'st külastab kolooniat.\n\nHECAP on nimega {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP tundub olevat mõningaid asju kauplemiseks.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP on kildkonna juht.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>{0} {1}'st külastab kolooniat.\n\n[PAWN_pronoun] on nimega {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] tundub olevat mõningaid asju kauplemiseks.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] on kildkonna juht.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Külalised</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Grupp {0}'st külastavad kolooniat.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nNeil tundub olevat mõningaid asju kauplemiseks.</GroupVisitorsArriveTraderInfo>
@@ -50,7 +50,7 @@
   <VisitorsLeaving>Külalised {0}'st lahkuvad.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Rändaja liitub</LetterLabelWandererJoin>
-  <WandererJoin>{0} nimega NAME on saabunud ja liitub kolooniaga. HECAP on {1}.</WandererJoin>
+  <WandererJoin>{0} nimega [PAWN_nameDef] on saabunud ja liitub kolooniaga. [PAWN_pronoun] on {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Inimjahtijate kari</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Kari inimjahtivaid {0}'sid on sisenenud piirkonda. Nad hulguvad piirkonnas jahtides inimesi.\n\nNad ei saa läbi ustest, nii et kui sa püsid seinte taga peaksid sa olema turvalisuses. Nad ei ründa mitteaktiivseid kahureid, nii et lülita välja kahurid kui tahad neid säästa.\n\nNad lahkuvad piirkonnast mõne päeva jooksul.</ManhunterPackArrived>
@@ -83,7 +83,7 @@
   <BeaversArrived>Grupp näljaseid isaskopraid on saabunud.\n\nProovi nad tappa enne kui nad söövad ära kõik puud selles piirkonnas!</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>{1} nimega {0} helistab sulle lähedalt. HECAP aetakse taga {2} poolt {3}'st!\n\nHECAP anub turvalisust ja palub liituda sinu kolooniaga. Bioloogiliselt ta on {4}-aastane.\n\nOle hoiatatud - kui sa nõustud, siis sa pead võitlema {2}'ga, kes ajab teda taga.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{1} nimega {0} helistab sulle lähedalt. [PAWN_pronoun] aetakse taga {2} poolt {3}'st!\n\n[PAWN_pronoun] anub turvalisust ja palub liituda sinu kolooniaga. Bioloogiliselt ta on {4}-aastane.\n\nOle hoiatatud - kui sa nõustud, siis sa pead võitlema {2}'ga, kes ajab teda taga.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Paku turvalisust</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignoreeri sõnumit</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} karjub valus läbi väikese kõlari enne kui sa ülekande katkestad.</RefugeeChasedRejected>

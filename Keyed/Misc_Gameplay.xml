@@ -285,7 +285,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Sisaldab</CasketContains>
-  <CasketWarning>Hoiatus!\n\nNAME on sinu viimane vaba kolonist! Kui sa lased tal laekasse astuda, siis sul ei pruugi olla võimalik jätkata mängimist. Oled kindel, et tahad jätkata?</CasketWarning>
+  <CasketWarning>Hoiatus!\n\n[PAWN_nameDef] on sinu viimane vaba kolonist! Kui sa lased tal laekasse astuda, siis sul ei pruugi olla võimalik jätkata mängimist. Oled kindel, et tahad jätkata?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Ei saa õhku tõusta.</ShipReportCannotLaunch>

@@ -68,8 +68,8 @@
   <LetterRelatedPawnsTradeShip>Orbiidikaupleja müüb inimesi, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsTradeShip>
   
   <RelationshipAppendedLetterSuffix>(Sugulus)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME'il on suhe kolonistiga. HECAP on {0}'i {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME'il on suhe ühe sinu vangiga. HECAP on {0}'i {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef]'il on suhe kolonistiga. [PAWN_pronoun] on {0}'i {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef]'il on suhe ühe sinu vangiga. [PAWN_pronoun] on {0}'i {1}.</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Afäär</LetterLabelAffair>
