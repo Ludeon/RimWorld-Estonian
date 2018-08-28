@@ -45,30 +45,30 @@
   <!-- EN: duration (days) -->
   <durationDays>kestvus (päevades)</durationDays>
   <!-- EN: interval (days) -->
-  <intervalDays>TODO</intervalDays>
+  <intervalDays>intervall (päevades)</intervalDays>
   <!-- EN: repeat -->
-  <repeat>TODO</repeat>
+  <repeat>korda</repeat>
   <!-- EN: default -->
   <default>TODO</default>
   <!-- EN: distance -->
-  <distance>TODO</distance>
+  <distance>kaugus</distance>
   <!-- EN: YES -->
-  <YesUppercase>TODO</YesUppercase>
+  <YesUppercase>JAH</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>TODO</NoUppercase>
+  <NoUppercase>EI</NoUppercase>
   <!-- EN: kg -->
-  <kg>TODO</kg>
+  <kg>kg</kg>
   <!-- EN: Day -->
   <Day>Päev</Day>
   <!-- EN: day -->
-  <day>TODO</day>
+  <day>päev</day>
   <!-- EN: Default -->
   <Default>TODO</Default>
   <!-- EN: Average -->
-  <Average>TODO</Average>
+  <Average>Keskmine</Average>
 
   <!-- Content generation-->
-  
+
   <!-- EN: {0} meat -->
   <MeatLabel>{0} liha</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
@@ -115,14 +115,14 @@
   <SomeonesRoom>{0}'i {1}</SomeonesRoom>
   <!-- EN: {0} and {1}'s {2} -->
   <CouplesRoom>{0} ja {1}'i {2}</CouplesRoom>
-  
+
   <!-- EN: (various) -->
   <VariousLabel>(mitmed)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
   <ColonistDied>Kolonist suri</ColonistDied>
-  
+
   <!-- Rotation -->
   <!-- EN: North -->
   <North>TODO</North>
@@ -132,7 +132,7 @@
   <West>TODO</West>
   <!-- EN: East -->
   <East>TODO</East>
-  
+
   <!-- UNUSED -->
   <LeatherLabel>{0} nahk</LeatherLabel>
   <LeatherDesc>{0}st tehtud nahk.</LeatherDesc>
