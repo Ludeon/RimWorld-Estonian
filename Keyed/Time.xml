@@ -1,34 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: d -->
   <LetterDay>d</LetterDay>
+  <!-- EN: h -->
   <LetterHour>h</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
- 
+  
+  <!-- EN: days -->
   <DaysLower>päeva</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>sekundit</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>Kevad</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>Suvi</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>Sügis</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>Talv</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>TODO</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>TODO</QuadrumDecembary>
   
+  <!-- EN: Born: {0} -->
   <Born>Sündinud: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Bioloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeBiological>
-  
+
   <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 aasta</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} aastat</PeriodYears>
-  <Period1Season>1 hooaeg</Period1Season>
-  <PeriodSeasons>{0} hooaega</PeriodSeasons>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>TODO</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 päev</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} päeva</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 tund</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} tundi</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>TODO</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>TODO</PeriodSeconds>
 
   <!-- Misc -->
+  <!-- EN: Started -->
   <Started>Algus</Started>
+  <!-- EN: Lasted -->
   <Lasted>Kestnud</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>Juhtus {0} tagasi</OccurredTimeAgo>
+  
+  <!-- UNUSED -->
+  <Period1Season>1 hooaeg</Period1Season>
+  <PeriodSeasons>{0} hooaega</PeriodSeasons>
+
 </LanguageData>

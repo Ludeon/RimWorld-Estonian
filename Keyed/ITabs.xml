@@ -1,104 +1,300 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Arved</TabBills>
+  <!-- EN: Growing -->
   <TabGrowing>Kasvatamine</TabGrowing>
+  <!-- EN: Bio -->
   <TabCharacter>Karakter</TabCharacter>
+  <!-- EN: Training -->
   <TabTraining>Treenimine</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Vang</TabPrisoner>
+  <!-- EN: Guest -->
   <TabGuest>Külaline</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Varustus</TabGear>
+  <!-- EN: Needs -->
   <TabNeeds>Vajadused</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Ladustamine</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>TODO</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Tervis</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Rass</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Põhitõed</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Statistika</TabStats>
+  <!-- EN: Records -->
   <TabRecords>Rekordid</TabRecords>
+  <!-- EN: Art -->
   <TabArt>Kunst</TabArt>
+  <!-- EN: Social -->
   <TabSocial>Sotsiaalne</TabSocial>
-  
+  <!-- EN: Log -->
+  <TabLog>TODO</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>TODO</TabTransporterContents>
+
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Lisa arve</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Retsept {0} vajab neid oskusi. Ühelgi sinu kolonistil pole neid oskusi, nii et keegi ei saa seda arvet täita.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
   <MinimumSkill>Min oskus</MinimumSkill>
+  <!-- EN: SUSPENDED -->
   <SuspendedCaps>PEATATUD</SuspendedCaps>
+  <!-- EN: Worker: {0} -->
   <BoundWorkerIs>Töötaja: {0}</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>Istuta</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>TODO</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>TODO</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>TODO</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>TODO</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Värbamisraskus</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
   <GetsFood>Saab toitu</GetsFood>
+  <!-- EN: Doctors care -->
   <DoctorsCare>Arsti hooldus</DoctorsCare>
+  <!-- EN: Gets medicine -->
   <GetsMedicine>Saab ravimeid</GetsMedicine>
+  <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Proovi värvata</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>TODO</ConsideredGuilty>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Liikumiskiirus</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Tõhusus</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>TODO</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Keha osa efektiivsus</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Kadunud</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Hävitatud</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Purunenud</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Eemaldatud</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Terve</Healthy>
+  <!-- EN: In pain -->
+  <InPain>Valus</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Valu</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Vigastatud</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>TODO</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Terve keha</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Andmetöötlus</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Suhtelimine</Communication>
+  <!-- EN: Affects -->
+  <Affects>TODO</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Veritsuskiirus</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>TODO</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>TODO</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Ülevaade</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operatsioonid ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Muudatused ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Meditsiinilised operatsioonid</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>Amputeeri</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>TODO</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>Eemalda</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>mälu</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>suhtlused</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Nälja kiirus</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Väsimus</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>TODO</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>TODO</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>TODO</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>TODO</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Puudub</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Väga kehv</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Kehv</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Vähenenud</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>OK</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Tõhustatud</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Tõsiselt häiritud</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Häiritud</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Veidi häiritud</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Puudub</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Väike</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Keskmine</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Tõsine</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Ekstreemne</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>TODO</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>Vajab treenitavat intelligentsust {0}.</CannotTrainNotSmartEnough>
+  <!-- EN: {0} is too small to train this. -->
+  <CannotTrainTooSmall>{0} on liiga väike selle treenimiseks.</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Eelvajadused: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(suhted puuduvad)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Röövitud</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>TODO</Missing>
+  <!-- EN: Slave -->
+  <Slave>Ori</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Kildkonna juht</FactionLeader>
+  <!-- EN: Opinion of {0} -->
+  <OpinionOf>Arvamust {0}'st</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
+  <SomeonesOpinionOfMe>{0}'i arvamus minust</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Ma olen surnud</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Ma olen psühhopaat</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>TODO</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>TODO</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>TODO</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>TODO</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>TODO</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>TODO</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>TODO</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>TODO</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>TODO</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>TODO</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>TODO</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>TODO</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>TODO</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>TODO</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>TODO</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+
+  <!-- UNUSED -->
   <PrisonerNoInteraction>Läbikäimine puudub</PrisonerNoInteraction>
   <PrisonerFriendlyChat>Sõbralik vestlus</PrisonerFriendlyChat>
   <PrisonerAttemptRecruit>Vestle ja värba</PrisonerAttemptRecruit>
   <PrisonerRelease>Vabasta</PrisonerRelease>
   <PrisonerExecution>Hukka</PrisonerExecution>
-
-  <!-- Medical - general -->
-  <MoveSpeed>Liikumiskiirus</MoveSpeed>
-  <Efficiency>Tõhusus</Efficiency>
-  <MissingBodyPart>Kadunud</MissingBodyPart>
-  <DestroyedBodyPart>Hävitatud</DestroyedBodyPart>
-  <ShatteredBodyPart>Purunenud</ShatteredBodyPart>
-  <RemovedBodyPart>Eemaldatud</RemovedBodyPart>
-  <Healthy>Terve</Healthy>
-  <InPain>Valus</InPain>
-  <PainLevel>Valu</PainLevel>
-  <Dead>Surnud</Dead>
-  <Unconscious>Teadvusetu</Unconscious>
-  <PainShock>Šokis</PainShock>
-  <Injured>Vigastatud</Injured>
   <NoInjuries>(pole vigastusi)</NoInjuries>
-  <WholeBody>Terve keha</WholeBody>
-  <DataProcessing>Andmetöötlus</DataProcessing>
-  <Communication>Suhtelimine</Communication>
   <AffectsLower>mõjutab</AffectsLower>
-  <BleedingRate>Veritsuskiirus</BleedingRate>
-  <HealthOverview>Ülevaade</HealthOverview>
-  <MedicalOperationsShort>Operatsioonid ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Muudatused ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Meditsiinilised operatsioonid</MedicalOperations>
-  <Amputate>Amputeeri</Amputate>
   <Harvest>Korista</Harvest>
-  <RemoveOrgan>Eemalda</RemoveOrgan>
-  <MemoryLower>mälu</MemoryLower>
-  <SocialInteractionsLower>suhtlused</SocialInteractionsLower>
-  <HungerRate>Nälja kiirus</HungerRate>
-  <Tiredness>Väsimus</Tiredness>
-
-  <!-- Medical - Body and activities condition -->
-  <None>Puudub</None>
-  <VeryPoor>Väga kehv</VeryPoor>
-  <Poor>Kehv</Poor>
-  <Weakened>Vähenenud</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Tõhustatud</Enhanced>
-  <SeriouslyImpaired>Tõsiselt häiritud</SeriouslyImpaired>
-  <Impaired>Häiritud</Impaired>
-  <SlightlyImpaired>Veidi häiritud</SlightlyImpaired>
-  <NoPain>Puudub</NoPain>
-  <LittlePain>Väike</LittlePain>
-  <MediumPain>Keskmine</MediumPain>
-  <SeverePain>Tõsine</SeverePain>
-  <ExtremePain>Ekstreemne</ExtremePain>
-
-  <!-- Training tab-->
   <TrainableIntelligence>Treenitav intelligentsus</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Vajab treenitavat intelligentsust {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} on liiga väike selle treenimiseks.</CannotTrainTooSmall>
-  <TrainingNeedsPrerequisite>Eelvajadused: {0}</TrainingNeedsPrerequisite>
-  
-  <!-- Social tab -->
-  <NoRelationships>(suhted puuduvad)</NoRelationships>
-  <Kidnapped>Röövitud</Kidnapped>
-  <Slave>Ori</Slave>
-  <FactionLeader>Kildkonna juht</FactionLeader>
-  <OpinionOf>Arvamust {0}'st</OpinionOf>
-  <SomeonesOpinionOfMe>{0}'i arvamus minust</SomeonesOpinionOfMe>
-  <IAmDead>Ma olen surnud</IAmDead>
-  <IAmPsychopath>Ma olen psühhopaat</IAmPsychopath>
+
 </LanguageData>

@@ -1,29 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Koloonia simulaator Tynan Sylvester'i poolt</MainPageCredit>
 
+  <!-- EN: Developers -->
   <Credits_Developers>Arendajad</Credits_Developers>
+  <!-- EN: Direction, design, code, art -->
   <Credit_DirectionVarious>Suund, disain, kood, kunst</Credit_DirectionVarious>
+  <!-- EN: Audio -->
   <Credit_MusicAndSound>Muusika ja hääled</Credit_MusicAndSound>
+  <!-- EN: Code -->
   <Credit_Code>Kood</Credit_Code>
+  <!-- EN: Art -->
   <Credit_GameArt>Mängu kunst</Credit_GameArt>
-  <Credit_MenuArt>Menüü kunst</Credit_MenuArt>,
+  <!-- EN: Menu art -->
+  <Credit_MenuArt>Menüü kunst</Credit_MenuArt>
+  <!-- EN: Additional code -->
   <Credit_AdditionalCode>Lisaprogrammeerimine</Credit_AdditionalCode>
-
-  <Credit_SpecialThanks>Eriline tänu</Credit_SpecialThanks>
   
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>TODO</Credits_AdditionalDevelopment>
+
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Eriline tänu</Credit_SpecialThanks>
+
+  <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Kogukonna vabatahtlikud</Credits_TitleCommunity>
+  <!-- EN: Tester -->
   <Credit_Tester>Testija</Credit_Tester>
+  <!-- EN: Mod donor -->
   <Credit_ModDonation>Modifikatsiooni annetaja</Credit_ModDonation>
+  <!-- EN: Writing donor -->
   <Credit_WritingDonation>Kirjutamisdoonor</Credit_WritingDonation>
+  <!-- EN: Moderator -->
   <Credit_Moderator>Moderaator</Credit_Moderator>
+  <!-- EN: Wiki master -->
   <Credit_WikiMaster>Wiki valdaja</Credit_WikiMaster>
 
+  <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} keel</Credits_TitleLanguage>
+  <!-- EN: Writer -->
   <Credit_Writer>Kirjutaja</Credit_Writer>
+  <!-- EN: Translator -->
   <Credit_Translator>Tõlkija</Credit_Translator>
+  <!-- EN: Open source libraries -->
   <Credit_OpenSourceLibraries>Avatud koodiga tööriistad</Credit_OpenSourceLibraries>
+  <!-- EN: Noise generation -->
   <Credit_NoiseGeneration>Hääle generatsioon</Credit_NoiseGeneration>
-  
+
+  <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Aitäh mängimise eest!</ThanksForPlaying>
+
 </LanguageData>

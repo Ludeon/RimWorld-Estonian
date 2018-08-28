@@ -1,106 +1,401 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: Jump to location -->
   <JumpToLocation>Hüppa asukohta</JumpToLocation>
+  <!-- EN: Postpone -->
+  <PostponeLetter>TODO</PostponeLetter>
+  <!-- EN: Reject -->
+  <RejectLetter>TODO</RejectLetter>
   
+  <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Suvi</LetterLabelFirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>Suvi on alanud! Aga talv on tulemas.\n\nSinu põllukultuurid ei kasva talvekülmas. Kindlasti hoiusta mitme kuu väärtuses toitu nüüd, kuni sa veel saad.\n\nSa saad ehitada jahutus ruumi, et hoida toitu halvaks minemast.\n\nJa proovi osta, varastada või valmistada mõningaid parkasid või sa külmud ära, kui sa astud väljad.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Suhted {0}'ga on halvenenud. Nad on nüüd vaenulikud sinu vastu.</RelationsBrokenDown>
-  <RelationsWarmed>Suhted {0}'ga on soojenenud. Nad pole enam vaenulikud sinu vastu.</RelationsWarmed>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
+  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostile>TODO</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAlly>TODO</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
+  <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
 
-  <RelationsBrokenCapture>Kuna sa vangistasid {0}, on {1} nüüd su vaenlane.</RelationsBrokenCapture>
-
-  <ColonyGoodwill>Koloonia heatahe</ColonyGoodwill>
+  <!-- EN: goodwill -->
+  <goodwill>TODO</goodwill>
+  <!-- EN: Neutral -->
   <Neutral>Neutraalne</Neutral>
+  <!-- EN: Death -->
+  <Death>TODO</Death>
 
+  <!-- EN: A {0} has short-circuited in the rain and started a fire. -->
   <ShortCircuitRain>{0} on sattunud lühisesse vihmas ja alustanud tulekahju.</ShortCircuitRain>
 
+  <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Ala avaldanud</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
   <AreaRevealed>Uus ala on avaldunud.</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
   <AreaRevealedWithMechanoids>Uus ala on avaldunud. See sisaldab vanu, vaenulikke mehhanoide.</AreaRevealedWithMechanoids>
 
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>Katus on sisse varisenud, sest see oli liiga kaugel toetusest.</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>Need asjad said viga:</TheseThingsCrushed>
+  <!-- EN: Nothing was crushed. -->
   <NothingCrushed>Midagi ei saanud viga.</NothingCrushed>
+  <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>Katuse sissevaring</LetterLabelRoofCollapsed>
   
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
   <RecruitSuccess>{0} õnnestus värvata {1} ({2} võimalus).</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
   <RecruitFail>{0} ei õnnestunud värvata {1} ({2} võimalus).</RecruitFail>
 
+  <!-- EN: [PAWN_nameDef] is {0}'s {1}. If [PAWN_nameDef] dies, {0} will suffer from long-lasting grief. However, if you manage to rescue [PAWN_nameDef], {0} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>TODO</RelatedPawnInvolvedInQuest>
+
+  <!-- EN: Birthday -->
   <LetterLabelBirthday>Sünnipäeva</LetterLabelBirthday>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>On {0}'i kronoloogiline sünnipäeva täna! Bioloogiliselt, {1} on {3} aastat vana.\n\nKronoloogiliselt, {1} sai just {2}.\n\nJäta meelde, et kuna inimesed ei vanane krüptouinakus, on kronoloogiline sünnipäev erinev bioloogilisest sünnipäevast.</BirthdayChronological>
+  <!-- EN: {0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2} -->
   <BirthdayBiologicalAgeInjuries>{0} on jõudnud {1} bioloogilise vanuseni.\n\nKahjuks on {0} saanud mõned uued haigused vananemise tõttu:\n{2}</BirthdayBiologicalAgeInjuries>
 
+  <!-- EN: Disease -->
   <LetterLabelNewDisease>Haigus</LetterLabelNewDisease>
+  <!-- EN: {0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
   <NewDisease>{0} haigestus {1} tõttu.\n\nKindlusta, et sul on meditsiiline voodi ja arst. Kindlusta, et {0} saab korralikku ravi ja veedab võimalikult palju aega voodis.</NewDisease>
+  <!-- EN: {0} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
   <NewPartDisease>{0} on arenenud haigus tema {1}s.\n\nKindlusta, et sul on meditsiiline voodi ja arst. Kindlusta, et {0} saab korralikku ravi ja veedab võimalikult palju aega voodis.</NewPartDisease>
+  <!-- EN: {0} has developed an illness: {1} -->
+  <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
+  <!-- EN: {0} has developed an illness: {3} in [PAWN_possessive] {1} -->
+  <NewPartDiseaseAnimal>TODO</NewPartDiseaseAnimal>
 
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>TODO</PawnWasFormerlyColonist>
+  <!-- EN: {0} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>TODO</PawnHasTheseRelationshipsWithColonists>
+  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {1} again. -->
+  <PrisonerRescueTimeout>TODO</PrisonerRescueTimeout>
+
+  <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Iidne oht</LetterLabelAncientShrineWarning>
+  <!-- EN: As {0} draws near the ancient wall, a sense of foreboding overcomes [PAWN_objective]. [PAWN_pronoun] isn't sure why, but [PAWN_pronoun] feels that this dusty structure may contain great danger. -->
   <AncientShrineWarning>Kui {0} jõuab iidse seina lähedale, tunneb ta halba eelaimust. Ta ei ole kindel miks, aga ta tunnetab, et see tolmune ehitis võib sisaldada suurt ohtu.</AncientShrineWarning>
 
+  <!-- EN: We have struck {0}! -->
   <StruckMineable>Oleme tabanud {0}!</StruckMineable>
 
+  <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} kättemaks</LetterLabelAnimalManhunterRevenge>
+  <!-- EN: [PAWN_indefinite] is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
   <AnimalManhunterFromDamage>{0} ründab peale viga saamist!</AnimalManhunterFromDamage>
+  <!-- EN: [PAWN_indefinite] is attacking due to a botched taming attempt! -->
   <AnimalManhunterFromTaming>{0} ründab taltsutamis proovi tõttu!</AnimalManhunterFromTaming>
+  <!-- EN: Other {0} nearby have also become enraged! -->
   <AnimalManhunterOthers>Teised {0} läheduses on samuti raevunud!</AnimalManhunterOthers>
 
+  <!-- EN: {0} hit trap -->
   <LetterFriendlyTrapSprungLabel>{0} langes lõksu</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {0} has accidentally sprung a trap and taken damage from it. -->
   <LetterFriendlyTrapSprung>{0} langes kogematta lõksu ja sai viga.</LetterFriendlyTrapSprung>
 
+  <!-- EN: {0} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
   <LetterHealthComplications>{0} on arenenud {1}, {2} tõttu.</LetterHealthComplications>
+  <!-- EN: {0}: {1} -->
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
-
+  
+  <!-- EN: {0} has developed a health condition: {1}. -->
   <LetterHediffFromRandomHediffGiver>{0} on arenenud tervislik seisund: {1}.</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {0}: {1} -->
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
   
+  <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>Liidri surm</LetterLeadersDeathLabel>
+  <!-- EN: {0}, {3} of {1}, has died.\n\nThe new {3} is {2}. -->
   <LetterLeadersDeath>{1} kildkonna liider {0} on surnud ja on asendatud {2} poolt.</LetterLeadersDeath>
+
+  <!-- EN: New {1}: {0} -->
+  <LetterLeaderChangedLabel>TODO</LetterLeaderChangedLabel>
+  <!-- EN: {0} is no longer {3} of {1}.\n\nThe new {3} is {2}. -->
+  <LetterLeaderChanged>TODO</LetterLeaderChanged>
   
-  <MentalBreakLetterLabel>Vaimne murre</MentalBreakLetterLabel>
-  <MentalBreakReason>Põhjus: {0}.</MentalBreakReason>
+  <!-- EN: The final straw was: {0} -->
+  <FinalStraw>TODO</FinalStraw>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
+
+  <!-- EN: Read more -->
+  <ReadMore>TODO</ReadMore>
+  <!-- EN: The last events in {0}'s life -->
+  <LastEventsInLife>TODO</LastEventsInLife>
   
   <!-- Related pawns -->
+  <!-- EN: Relationship -->
   <LetterLabelNoticedRelatedPawns>Sugulus</LetterLabelNoticedRelatedPawns>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
   <LetterRelatedPawnsRaidEnemy>On saabumas inimesi grupis {0}, kellel on suhteid sinu kolonistide või vangidega.\n\nJäta meelde, kuigi nad on sugluses, ründavad nad siiski üksteist, sest nende kildkonnad on halvas suhtes.\n\nNeed inimesed on:</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
   <LetterRelatedPawnsRaidFriendly>On saabumas inimesi sõbralikus grupis {0}, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
   <LetterRelatedPawnsNeutralGroup>On saabumas inimesi grupus, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
   <LetterRelatedPawnsTradeShip>Orbiidikaupleja müüb inimesi, kellel on suhteid sinu kolonistide või vangidega:</LetterRelatedPawnsTradeShip>
-  
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>TODO</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>TODO</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>TODO</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
+
+  <!-- EN: (relationship) -->
   <RelationshipAppendedLetterSuffix>(Sugulus)</RelationshipAppendedLetterSuffix>
+  <!-- EN: [PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}. -->
   <RelationshipAppendedLetterTextColonist>[PAWN_nameDef]'il on suhe kolonistiga. [PAWN_pronoun] on {0}'i {1}.</RelationshipAppendedLetterTextColonist>
+  <!-- EN: [PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}. -->
   <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef]'il on suhe ühe sinu vangiga. [PAWN_pronoun] on {0}'i {1}.</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
+  <!-- EN: Affair -->
   <LetterLabelAffair>Afäär</LetterLabelAffair>
+  <!-- EN: {0}, married to {1}, has begun an affair with {2}. -->
   <LetterAffair>{0}, abiellunud {1}'ga, on alustanud afääri {2}'ga.</LetterAffair>
+  <!-- EN: New lovers -->
   <LetterLabelNewLovers>Uued armastajad</LetterLabelNewLovers>
-  <LetterNewLovers>{0} ja {1} on tulnud kokku ja on nüüd armastajad.</LetterNewLovers>
+  <!-- EN: {0} and {1} are no longer in a relationship. -->
   <LetterNoLongerLovers>{0} ja {1} pole enam suhtes.</LetterNoLongerLovers>
+  <!-- EN: Breakup -->
   <LetterLabelBreakup>Lahkuminek</LetterLabelBreakup>
+  <!-- EN: Marriage is on! -->
   <LetterLabelAcceptedProposal>Abielu vastuvõetud!</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>Ettepanek lükati tagasi</LetterLabelRejectedProposal>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
   <LetterAcceptedProposal>{1} on nõustunud {0}'i abieluettepanekuga.\n\nMingi aeg tulevatel päevadel või hooaegadel korraldavad nad abielutseremoonia ja kutsuvad kõik kolonistid osalema. Kaalutle abielu koha panekut, kui tahad kontrollida kus tseremoonia toimub.</LetterAcceptedProposal>
+  <!-- EN: {0} is going to be unhappy about this. -->
   <LetterRejectedProposal>{1} ei nõustunud {0}'i abieluettepanekuga. {0} ei ole rõõmus selle üle.</LetterRejectedProposal>
   
   <!-- Generalized letter labels -->
-  <LetterLabelRelationsChangeGood>Heatahe</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Halbtahe</LetterLabelRelationsChangeBad>
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>TODO</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>TODO</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>TODO</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>TODO</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>Vaimne murre</LetterLabelMentalBreakdown>
   
   <!-- Bonded animals -->
+  <!-- EN: bonded animal -->
+  <LetterLabelSuffixBondedAnimalDied>TODO</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {0} was bonded to {1}. It will affect {1}'s mood. -->
+  <LetterPartBondedAnimalDied>TODO</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>TODO</LetterPartBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <!-- EN: Prison break -->
+  <LetterLabelPrisonBreak>Vanglast põgenemine</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
+  <LetterPrisonBreak>Vangid on korraldanud vangist välja murdmise! Nad on kuidagi lõhkunud ukseluku ja põgenevad välja. Nad võivad otsida relvi, võidelda või proovida põgeneda. Need vangid on seotud:\n\n{0}\n\nVangid on tõenäolisemad põgeneda proovima siis, kui nad on ebaõnnelikud, arvukad ja terved.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <!-- EN: Party -->
+  <LetterLabelNewParty>Pidu</LetterLabelNewParty>
+  <!-- EN: {0} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
+  <LetterNewParty>{0} korraldab pidu! Kõik kes lähevad saavad lõbu ja sotsiaalsetenergiat ja positiivse meeleolu boonuse.</LetterNewParty>
+
+  <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
+  <LetterLabelNewlyAddicted>TODO</LetterLabelNewlyAddicted>
+  <!-- EN: {0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal. -->
+  <LetterNewlyAddicted>TODO</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  <!-- EN: {0} binge -->
+  <LetterLabelDrugBinge>TODO</LetterLabelDrugBinge>
+  <!-- EN: {0} is binging on {1}. -->
+  <LetterDrugBinge>TODO</LetterDrugBinge>
+  
+  <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>TODO</LetterLabelAllCaravanColonistsDied>
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>TODO</LetterAllCaravanColonistsDied>
+  
+  <!-- Caravan entered ambush map -->
+  <!-- EN: Caravan arrived at ambush -->
+  <LetterLabelCaravanEnteredAmbushMap>TODO</LetterLabelCaravanEnteredAmbushMap>
+  <!-- EN: {0} has arrived at the ambush site. -->
+  <LetterCaravanEnteredAmbushMap>TODO</LetterCaravanEnteredAmbushMap>
+  
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelCaravanEnteredEnemyBase>TODO</LetterLabelCaravanEnteredEnemyBase>
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
+  <LetterCaravanEnteredEnemyBase>TODO</LetterCaravanEnteredEnemyBase>
+
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
+  
+  <!-- Faction base defeated -->
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>TODO</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
+  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
+  
+  <!-- Quest completed -->
+  <!-- EN: Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>TODO</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
+  <LetterDefeatAllEnemiesQuestCompleted>TODO</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <!-- EN: Precious minerals found -->
+  <LetterLabelFoundPreciousLump>TODO</LetterLabelFoundPreciousLump>
+  <!-- EN: Using your long-range mineral scanner, {3} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>TODO</LetterFoundPreciousLump>
+  
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
+  <LetterLabelAmbushInExistingMap>TODO</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
+  <LetterAmbushInExistingMap>TODO</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
+  <LetterLabelPeaceTalks_Disaster>TODO</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
+  <LetterPeaceTalks_Disaster>TODO</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
+  <LetterLabelPeaceTalks_Backfire>TODO</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
+  <LetterPeaceTalks_Backfire>TODO</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
+  <LetterLabelPeaceTalks_TalksFlounder>TODO</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
+  <LetterPeaceTalks_TalksFlounder>TODO</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
+  <LetterLabelPeaceTalks_Success>TODO</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
+  <LetterPeaceTalks_Success>TODO</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
+  <LetterLabelPeaceTalks_Triumph>TODO</LetterLabelPeaceTalks_Triumph>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>TODO</LetterPeaceTalks_Triumph>
+  <!-- EN: {0}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>TODO</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n[PAWN_pronoun] realized that wild creatures are always free. So, [PAWN_pronoun] has decided to leave your faction and live with the animals.\n\nYou can attempt to tame [PAWN_objective] to get [PAWN_objective] back. -->
+  <LetterRunWildMentalBreak>TODO</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. [PAWN_pronoun] will recover in several days. -->
+  <LetterCatatonicMentalBreak>TODO</LetterCatatonicMentalBreak>
+
+  <!-- EN: AI Core Offer -->
+  <LetterLabelAICoreOffer>TODO</LetterLabelAICoreOffer>
+  <!-- EN: {0} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>TODO</LetterAICoreOffer>
+
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>TODO</LetterCraftedLegendaryLabel>
+  <!-- EN: {0} has created a {1}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>TODO</LetterCraftedLegendaryMessage>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>TODO</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>TODO</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>TODO</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>TODO</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>TODO</LetterLabelHibernateComplete>
+  <!-- EN: Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>TODO</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>TODO</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>TODO</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from [PAWN_factionName] have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>TODO</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>TODO</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>TODO</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>TODO</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued [PAWN_nameDef] and [PAWN_pronoun] has joined your group.\n\nYou can take [PAWN_objective] with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
+  <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
+
+  <!-- Player entered site (generic label) -->
+  <!-- EN: Arrived at site -->
+  <LetterLabelPlayerEnteredNewSiteGeneric>TODO</LetterLabelPlayerEnteredNewSiteGeneric>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {0} hunting {1} -->
+  <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {0} is hunting {1} for food! -->
+  <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on: {2}. -->
+  <LetterDisease_Blocked>TODO</LetterDisease_Blocked>
+  <!-- EN: Disease ({0}) -->
+  <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
+  <!-- EN: {0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that [PAWN_pronoun] gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>TODO</LetterTraitDisease>
+
+  <!-- UNUSED -->
+  <RelationsBrokenDown>Suhted {0}'ga on halvenenud. Nad on nüüd vaenulikud sinu vastu.</RelationsBrokenDown>
+  <RelationsWarmed>Suhted {0}'ga on soojenenud. Nad pole enam vaenulikud sinu vastu.</RelationsWarmed>
+  <RelationsBrokenCapture>Kuna sa vangistasid {0}, on {1} nüüd su vaenlane.</RelationsBrokenCapture>
+  <ColonyGoodwill>Koloonia heatahe</ColonyGoodwill>
+  <MentalBreakLetterLabel>Vaimne murre</MentalBreakLetterLabel>
+  <MentalBreakReason>Põhjus: {0}.</MentalBreakReason>
+  <LetterNewLovers>{0} ja {1} on tulnud kokku ja on nüüd armastajad.</LetterNewLovers>
+  <LetterLabelRelationsChangeGood>Heatahe</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Halbtahe</LetterLabelRelationsChangeBad>
   <LetterLabelBondedAnimalDied>Seotud looma surm</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{0}, seotud {1}'ga, on surnud. See mõjutab {1}'e meeleolu.</LetterBondedAnimalDied>
   <LetterNamedBondedAnimalDied>{0} nimega {1}, seotud {2}'ga, on surnud. See mõjutab {2}'e meeleolu.</LetterNamedBondedAnimalDied>
   <LetterBondedAnimalDiedMulti>{0} on surnud. See mõjutab järgenvate inimeste meeleolu:\n\n{1}</LetterBondedAnimalDiedMulti>
   <LetterNamedBondedAnimalDiedMulti>{0} nimega {1} on surnud. See mõjutab järgenvate inimeste meeleolu:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
-  <!-- Prison break -->
-  <LetterLabelPrisonBreak>Vanglast põgenemine</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Vangid on korraldanud vangist välja murdmise! Nad on kuidagi lõhkunud ukseluku ja põgenevad välja. Nad võivad otsida relvi, võidelda või proovida põgeneda. Need vangid on seotud:\n\n{0}\n\nVangid on tõenäolisemad põgeneda proovima siis, kui nad on ebaõnnelikud, arvukad ja terved.</LetterPrisonBreak>
-  
-  <!-- Party -->
-  <LetterLabelNewParty>Pidu</LetterLabelNewParty>
-  <LetterNewParty>{0} korraldab pidu! Kõik kes lähevad saavad lõbu ja sotsiaalsetenergiat ja positiivse meeleolu boonuse.</LetterNewParty>
 </LanguageData>

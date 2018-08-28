@@ -1,40 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
   <Audiovisuals>Hääled ja graafika</Audiovisuals>
+  <!-- EN: Game volume -->
   <GameVolume>Mängu helitegevus</GameVolume>
+  <!-- EN: Music volume -->
   <MusicVolume>Muusika helitegevus</MusicVolume>
+  <!-- EN: Ambient volume -->
+  <AmbientVolume>TODO</AmbientVolume>
+  <!-- EN: Anti-aliasing -->
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Ekraani hiirega liigutamine</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
   <PauseOnLoad>Peata laadimisel</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Peata tähtsa kirja korral</PauseOnUrgentLetter>
+  <!-- EN: Custom cursor -->
   <CustomCursor>Erinev hiir</CustomCursor>
+  <!-- EN: Hats shown only on game map -->
+  <HatsShownOnlyOnMap>TODO</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>TODO</UIScale>
+  <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Klaviatuuri konfiguratsioon</KeyboardConfig>
+  <!-- EN: Choose language -->
   <ChooseLanguage>Vali keel</ChooseLanguage>
-  <AdaptiveTutor>Kohanev õpetaja</AdaptiveTutor>
+  <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Lähtesta Kohanev õpetaja</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>Kohanemisvõimeline õpetaja on lähtestatud. Ta nüüd õpetab sind algusest peale.</AdaptiveTutorIsReset>
+  <!-- EN: Run in background -->
   <RunInBackground>Jookse tagataustal</RunInBackground>
+  <!-- EN: Development mode -->
   <DevelopmentMode>Arendamis mood</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Lähtesta modifikatsioonid krahhi korral</ResetModsConfigOnCrash>
+  <!-- EN: Verbose logging -->
   <LogVerbose>Logi sügavaid andmeid</LogVerbose>
+  <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Ava salvestus andmete kaust</OpenSaveGameDataFolder>
+  <!-- EN: Show save data location -->
+  <ShowSaveGameDataLocation>TODO</ShowSaveGameDataLocation>
+  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Perekonnanimed "Nimi Mängus" programmist, mida mängus või tagaloos tahad inimestel näha:</NamesYouWantToSee>
+  <!-- EN: Add name -->
+  <AddName>TODO</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>TODO</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>TODO</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Vali loojutustaja</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
   <AutosaveInterval>Salvestamise intervall</AutosaveInterval>
+  <!-- EN: Temperature mode -->
   <TemperatureMode>Temperatuuri mood</TemperatureMode>
+  <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Näita reaalajas kella</ShowRealtimeClock>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>TODO</MaxNumberOfPlayerSettlements>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>TODO</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>TODO</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>Maksimaalne automaatsalvestuse intervall lõppsurma moodis on {0} päev.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>TODO</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>TODO</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
+  <!-- EN: Resolution -->
   <Resolution>Resolutsioon</Resolution>
+  <!-- EN: Fullscreen -->
   <Fullscreen>Täisekraan</Fullscreen>
 
-  <!-- Privacy-->
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>TODO</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>TODO</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore to default settings -->
+  <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
+  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>TODO</ResetAndRestart>
+  
+  <!-- UNUSED -->
+  <AdaptiveTutor>Kohanev õpetaja</AdaptiveTutor>
   <Privacy>Privaatsus</Privacy>
   <UserName>Kasutajanimi</UserName>
   <ChooseHistoryUploadPref>Andmete saatmise eelistus</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Mängimise andmed aitavad arendajatel tasakaalustada mängu. Kui sa nõustud, siis sinu andmeid saadetakse iga {0} mängu päeva (ja mõndadel haruldastel juhtudel nagu mängu lõpp) järel RimWorldi serveritesse ja siis analüüsitakse. Üleslaetud mängimise andmed koosnevad ainult statistikast ja ajaloo andmetest mängu kohta - isiklikku andmeid ei saadeta, väljaarvata kasutajanimi, mis tähendab, et see on täielikult anonüümne.</AboutHistoryUpload>
+
 </LanguageData>

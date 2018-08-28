@@ -1,10 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: Save -->
   <SaveButton>Salvesta</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
+  <!-- EN: Clear -->
   <ClearBinding>Puhasta</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>Taasta vaikimisi seadetele</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Vasak klõps, et muuta selle tegevuse nuppu või parem klõps valikute jaoks</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Vajuta suvalist klahvi või Esc, et tühistada...</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>Funktsiooni nupp ülekirjutatud: {0}</KeyBindingOverwritten>
+  
 </LanguageData>

@@ -1,35 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: Level -->
   <Level>Level</Level>
+  <!-- EN: Progress to next level -->
   <ProgressToNextLevel>Edenemine järgmisele levelile</ProgressToNextLevel>
+  <!-- EN: Experience -->
   <Experience>Oskus</Experience>
+  <!-- EN: Passion -->
   <Passion>Kirg</Passion>
+  <!-- EN: None\n   -Learns {0} -->
   <PassionNone>Puudub (õpib {0}x)</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
   <PassionMinor>Huvitatud (õpib {0}x)</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
   <PassionMajor>Põlev (õpib {0}x)</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Õppis täna maksimaalselt ({0}/{1}, ülejäänud õppimine on kordajaga {2})</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Effekt {0} levelil</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
 
+  <!-- EN: Barely heard of it -->
   <Skill0>Mitteteadlik</Skill0>
+  <!-- EN: Utter beginner -->
   <Skill1>Oskamatu</Skill1>
+  <!-- EN: Beginner -->
   <Skill2>Algteadmised</Skill2>
+  <!-- EN: Basic familiarity -->
   <Skill3>Algtundmised</Skill3>
+  <!-- EN: Some familiarity -->
   <Skill4>Amatöör</Skill4>
+  <!-- EN: Significant familiarity -->
   <Skill5>Tugev amatöör</Skill5>
+  <!-- EN: Capable amateur -->
   <Skill6>Praktik</Skill6>
+  <!-- EN: Weak professional -->
   <Skill7>Oskuslik praktik</Skill7>
+  <!-- EN: Employable professional -->
   <Skill8>Professionaal</Skill8>
+  <!-- EN: Solid professional -->
   <Skill9>Oskuslik professionaal</Skill9>
+  <!-- EN: Skilled professional -->
   <Skill10>Ekspert</Skill10>
+  <!-- EN: Very skilled professional -->
   <Skill11>Tugev ekspert</Skill11>
+  <!-- EN: Expert -->
   <Skill12>Väga tugev ekspert</Skill12>
+  <!-- EN: Strong expert -->
   <Skill13>Meister</Skill13>
+  <!-- EN: Master -->
   <Skill14>Tugev meister</Skill14>
+  <!-- EN: Strong master -->
   <Skill15>Planeedi tasemel meister</Skill15>
+  <!-- EN: Region-known master -->
   <Skill16>Süsteemi tasemel meister</Skill16>
+  <!-- EN: Region-leading master -->
   <Skill17>Austusväärne meister</Skill17>
+  <!-- EN: Planet-known master -->
   <Skill18>Visionäär</Skill18>
+  <!-- EN: Planet-leading master -->
   <Skill19>Legendaarne</Skill19>
+  <!-- EN: Legendary master -->
   <Skill20>Jumalik</Skill20>
+  
 </LanguageData>

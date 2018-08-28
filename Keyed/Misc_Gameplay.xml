@@ -1,370 +1,1072 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>TODO</HitPointsBasic>
+  <!-- EN: Work left -->
   <WorkLeft>Tööd jäänud</WorkLeft>
+  <!-- EN: Contents -->
   <Contents>Sisu</Contents>
+  <!-- EN: Contained resources -->
   <ContainedResources>Sisaldatavad ressursid</ContainedResources>
+  <!-- EN: For prisoner use -->
   <ForPrisonerUse>Vangide kasutuseks</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>TODO</InPrisonCell>
+  <!-- EN: For colonist use -->
   <ForColonistUse>Kolonistide kasutuseks</ForColonistUse>
+  <!-- EN: Medical -->
   <MedicalBed>Meditsiiniline</MedicalBed>
+  <!-- EN: Owner -->
   <Owner>Omanik</Owner>
+  <!-- EN: Owners -->
   <Owners>Omanikud</Owners>
+  <!-- EN: Assigned colonist -->
   <AssignedColonist>Määratud kolonistid</AssignedColonist>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>TODO</DiedOn>
+  <!-- EN: Nobody -->
   <Nobody>Mitte keegi</Nobody>
+  <!-- EN: Unowned -->
   <Unowned>Omanik puudub</Unowned>
+  <!-- EN: Dead for {0} -->
   <DeadTime>Surnud {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
   <WalkSpeed>kõndimiskiirus {0}</WalkSpeed>
+  <!-- EN: fert. -->
   <FertShort>viljakus</FertShort>
+  <!-- EN: dying -->
   <DyingLower>suremine</DyingLower>
+  <!-- EN: Filth on feet: -->
   <FilthOnFeet>Mustust jalgadel:</FilthOnFeet>
+  <!-- EN: not enough stored -->
   <NotEnoughStoredLower>pole piisavalt hoiustatud</NotEnoughStoredLower>
+  <!-- EN: nothing -->
   <NothingLower>mitte midagi</NothingLower>
+  <!-- EN: Adapted -->
   <Adapted>Kohanenud</Adapted>
+  <!-- EN: fresh -->
   <FreshMissingBodyPart>värske</FreshMissingBodyPart>
-  <UntreatedLower>ravimata</UntreatedLower>
+  <!-- EN: developed immunity -->
   <DevelopedImmunityLower>arenenud immuunsus</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>Vajab ravi paranemiseks</InjuryRequiresTreatment>
-  <NextTreatmentIn>Järgmine ravi: {0}</NextTreatmentIn>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>TODO</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>TODO</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>TODO</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>TODO</TendQuality>
+  <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>puudub {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
   <Immunity>Immuunsus</Immunity>
+  <!-- EN: Race -->
   <Race>Rass</Race>
+  <!-- EN: Description -->
   <Description>Kirjeldus</Description>
+  <!-- EN: Equipment -->
   <Equipment>Varustus</Equipment>
+  <!-- EN: Apparel -->
   <Apparel>Riietus</Apparel>
+  <!-- EN: Inventory -->
   <Inventory>Inventar</Inventory>
+  <!-- EN: Information -->
   <ThingInfo>Informatsioon</ThingInfo>
+  <!-- EN: Drop -->
   <DropThing>Kukuta</DropThing>
+  <!-- EN: Rename -->
   <Rename>Nimeta ümber</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>TODO</RenameAnimal>
+  <!-- EN: Rename colonist -->
   <RenameColonist>Nimeta ümber kolonist</RenameColonist>
+  <!-- EN: unknown -->
   <UnknownLower>teadmata</UnknownLower>
+  <!-- EN: On -->
   <On>Sees</On>
+  <!-- EN: Off -->
   <Off>Väljas</Off>
+  <!-- EN: Power -->
   <PowerSwitch_Power>Elekter</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
   <JoyTolerances>Rõõmu tolerantsid</JoyTolerances>
+  <!-- EN: Milk fullness -->
   <MilkFullness>Piima kogus</MilkFullness>
+  <!-- EN: Wool growth -->
   <WoolGrowth>Karvakasv</WoolGrowth>
+  <!-- EN: Egg progress -->
   <EggProgress>Muna edenemine</EggProgress>
+  <!-- EN: Fertilized -->
   <Fertilized>Viljastatud</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Edenemine peatunud viljastamiseni</ProgressStoppedUntilFertilized>
+  <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>vaja {0} level {2}, on {1}</SkillTooLow>
-  <EggDamagedEmbryo>kahjustatud embrüo</EggDamagedEmbryo>
+  <!-- EN: Freezing -->
+  <Freezing>TODO</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>TODO</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>TODO</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Puuduvad kehaosad</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
   <HiveReproducesIn>Paljuneb</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <!-- EN: Broken down -->
   <BrokenDown>Katki</BrokenDown>
+  <!-- EN: (bond) -->
   <BondBrackets>(side)</BondBrackets>
+  <!-- EN: Fuel -->
   <Fuel>Kütus</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>TODO</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>TODO</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>TODO</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>TODO</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
   <Enemies>vastased</Enemies>
+  <!-- EN: time passed -->
   <TimePassed>aega möödunud</TimePassed>
+  <!-- EN: current radius -->
   <CurrentRadius>praegune raadius</CurrentRadius>
+  <!-- EN: radius expands in -->
   <RadiusExpandsIn>raadius suureneb</RadiusExpandsIn>
+  <!-- EN: permanent -->
   <Permanent>püsiv</Permanent>
-  
-  <!--TextMotes-->
+  <!-- EN: Resting -->
+  <CaravanResting>TODO</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>TODO</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>TODO</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>TODO</CaravanEstimatedTimeToDestination>
+  <!-- EN: Estimated days to arrive: {0} -->
+  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>TODO</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>TODO</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>TODO</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>TODO</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>TODO</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone has a mental break. -->
+  <AllCaravanMembersMentalBreak>TODO</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>TODO</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>TODO</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>TODO</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>TODO</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>TODO</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>TODO</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>TODO</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>TODO</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>TODO</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>TODO</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>TODO</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>TODO</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>TODO</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>TODO</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <!-- EN: Deteriorating because of -->
+  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <!-- EN: Map -->
+  <Map>TODO</Map>
+  <!-- EN: {0} until leaving -->
+  <ForceExitAndRemoveMapCountdown>TODO</ForceExitAndRemoveMapCountdown>
+  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
+  <ForceExitAndRemoveMapCountdownTip>TODO</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: Room -->
+  <Room>TODO</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>TODO</BeautyHere>
+  <!-- EN: No power -->
+  <NoPower>TODO</NoPower>
+  <!-- EN: Work speed penalty -->
+  <WorkSpeedPenalty>TODO</WorkSpeedPenalty>
+  <!-- EN: DISABLED -->
+  <DisabledCommand>TODO</DisabledCommand>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>TODO</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>TODO</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>TODO</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>TODO</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <TransportPodInGroupHasSomethingLeftToLoad>TODO</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>TODO</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>TODO</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>TODO</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>TODO</VentClosed>
+  <!-- EN: worn by {0} -->
+  <WornBy>TODO</WornBy>
+  <!-- EN: equipped by {0} -->
+  <EquippedBy>TODO</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>TODO</WorldObjectTimeout>
+  <!-- EN: Contents: {0} ({1}) -->
+  <ItemStashContents>TODO</ItemStashContents>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>TODO</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>TODO</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>TODO</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>TODO</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>TODO</CheckboxShiftClickTip>
+  <!-- EN: Known threat: {0} -->
+  <KnownSiteThreat>TODO</KnownSiteThreat>
+  <!-- EN: Known threats: {0} -->
+  <KnownSiteThreats>TODO</KnownSiteThreats>
+  <!-- EN: Known threats: None -->
+  <KnownSiteThreatsNone>TODO</KnownSiteThreatsNone>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>TODO</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>TODO</Products>
+  <!-- EN: {0} of {1} -->
+  <Relationship>TODO</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>TODO</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>TODO</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>TODO</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>TODO</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>TODO</DownedLower>
+  <!-- EN: carried -->
+  <Carried>TODO</Carried>
+  <!-- EN: Avg. person move speed -->
+  <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>TODO</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>TODO</RangeTo>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
+  <ExpiresIn>TODO</ExpiresIn>
+  <!-- EN: {0}'s caravan -->
+  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>TODO</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>TODO</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>TODO</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>TODO</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>TODO</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>TODO</CreatureTrainability>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <EnterCooldown>TODO</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>TODO</Caravan>
+  <!-- EN: there may be danger there -->
+  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>TODO</Turret>
+  <!-- EN: turrets -->
+  <Turrets>TODO</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>TODO</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>TODO</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>TODO</Enemy>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>TODO</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>TODO</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>TODO</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>TODO</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>TODO</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
   <Headshot>Pähelask</Headshot>
-  <TreatQuality>ravikvaliteet {0}</TreatQuality>
-  <PoorResult>halb tulemus</PoorResult>
-  <GoodResult>hea tulemus</GoodResult>
+  <!-- EN: Treatment success!\n{0} chance -->
   <TextMote_TreatSuccess>Ravi õnnestus!\n{0} võimalus</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Ravi ebaõnnestus\n{0} võimalus</TextMote_TreatFailed>
-  <HarvestFailed>Saagikoristus\nebaõnnestus</HarvestFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>TODO</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>TODO</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>TODO</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>Värbamine ebaõnnestus!\n{0} chance</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Taltsutamine ebaõnnestus\n{0} võimalus</TextMote_TameFail>
+  <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Taltsutatud!\n{0} võimalus</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Treenimine ebaõnnestus: {0}\n{1} võimalus</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Treenitud: {0}\n{1} võimalus</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>Parandamine\nebaõnnestus</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Ehitamine\nebaõnnestus</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>TODO</TextMote_Dodge>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>TODO</TextMote_Tended>
+  <!-- EN: low mood -->
+  <lowMood>TODO</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>TODO</lowOpinion>
 
   <!-- Areas -->
+  <!-- EN: Home -->
   <Home>Kodu</Home>
+  <!-- EN: Build roof -->
   <BuildRoof>Ehita katus</BuildRoof>
+  <!-- EN: No roof -->
   <NoRoof>Katus puudub</NoRoof>
+  <!-- EN: Snow clear -->
   <SnowClear>Lumepuhastus</SnowClear>
+  <!-- EN: Area {0} -->
   <AreaDefaultLabel>Tsoon {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Looma tsoon {0}</AreaAnimalDefaultLabel>
+  <!-- EN: Unrestricted -->
   <NoAreaAllowed>Piiramata</NoAreaAllowed>
+  <!-- EN: New area -->
   <NewArea>Uus tsoon</NewArea>
-  <NewAreaAnimal>Uus looma tsoon</NewAreaAnimal>
+  <!-- EN: Invert -->
   <InvertArea>Teistpidi</InvertArea>
-  
+
   <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Ei saa käsutada kontrollimatuid üksuseid.</CannotOrderNonControlled>
+  <!-- EN: {0} is incapable of violence. -->
   <IsIncapableOfViolence>{0} ei ole vägivalla võimeline.</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>vägivalla võimetu</IsIncapableOfViolenceShort>
+  <!-- EN: {0} is not drafted. -->
   <IsNotDrafted>{0} pole teenistuses.</IsNotDrafted>
-  
+
   <!-- Snow -->
+  <!-- EN: No snow -->
   <SnowNone>Pole lund</SnowNone>
+  <!-- EN: Snow (dusting) -->
   <SnowDusting>Härmatis</SnowDusting>
+  <!-- EN: Snow (thin) -->
   <SnowThin>Lumi (õhuke)</SnowThin>
+  <!-- EN: Snow (medium) -->
   <SnowMedium>Lumi (keskmine)</SnowMedium>
+  <!-- EN: Snow (thick) -->
   <SnowThick>Lumi (paks)</SnowThick>
-  
+
   <!-- Turrets -->
+  <!-- EN: Installed -->
   <GunInstalled>Paigaldatud</GunInstalled>
+  <!-- EN: Minimum range -->
   <MinimumRange>Minimaalne kaugus</MinimumRange>
+  <!-- EN: Can fire in -->
   <CanFireIn>Saab tulistada</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>TODO</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>TODO</Roofed>
+  <!-- EN: Shell loaded: {0} -->
   <ShellLoaded>Mürsk laetud</ShellLoaded>
+  <!-- EN: Not loaded -->
   <ShellNotLoaded>Pole laetud</ShellNotLoaded>
-  
+
   <!-- Job reports -->
+  <!-- EN: hauling {0} to {1}. -->
   <ReportHaulingTo>{0} kandmine {1}'i.</ReportHaulingTo>
+  <!-- EN: hauling {0}. -->
   <ReportHauling>{0} kandmine.</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
   <ReportSleeping>Magab.</ReportSleeping>
+  <!-- EN: resting. -->
   <ReportResting>Puhkab.</ReportResting>
+  <!-- EN: watching the sunrise. -->
   <WatchingSunrise>Vaatab päikesetõusu</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
   <CloudWatching>Vaatab pilvi</CloudWatching>
+  <!-- EN: watching the sunset. -->
   <WatchingSunset>Vaatab päikeseloojangut</WatchingSunset>
+  <!-- EN: stargazing. -->
   <Stargazing>Vaatab tähti</Stargazing>
+  <!-- EN: watching the eclipse. -->
   <WatchingEclipse>Vaatab varjutust</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>TODO</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
   <UsingVerb>Kasutab {0}'i {1} peal.</UsingVerb>
+  <!-- EN: area -->
   <AreaLower>tsoon</AreaLower>
+  <!-- EN: cowering. -->
   <ReportCowering>kardab.</ReportCowering>
+  <!-- EN: standing. -->
   <ReportStanding>seisab.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>tulekustutamine.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {0}. -->
   <ReportExtinguishingFireOn>tulekustutamine {0} peal.</ReportExtinguishingFireOn>
-  
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
+
   <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
   <LordReportAttendingMarriageCeremony>Osalemine abielu tseremoonial</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
   <LordReportAttendingParty>Osalemine peol</LordReportAttendingParty>
-  
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>TODO</LordReportFormingCaravan>
+
   <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>Relva möödalaske kaugus</WeaponMissRadius>
+  <!-- EN: Shooter -->
   <ShootReportShooterAbility>Laskja</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
   <ShootReportWeapon>Relv</ShootReportWeapon>
+  <!-- EN: Darkness -->
   <Darkness>Pimedus</Darkness>
+  <!-- EN: Target lying down -->
   <TargetProne>Sihtmärk kükitab</TargetProne>
+  <!-- EN: Target size -->
   <TargetSize>Sihtmärgi suurus</TargetSize>
+  <!-- EN: Weather -->
   <Weather>Ilm</Weather>
+  <!-- EN: Cover -->
   <ShootingCover>Kate</ShootingCover>
+  <!-- EN: {0} stops {1} -->
   <CoverThingBlocksPercentOfShots>{0} peatab {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
   <NoCoverLower>kate puudub</NoCoverLower>
+  <!-- EN: Execution -->
   <Execution>Hukkamine</Execution>
-	
+
   <!-- Generated recipes -->
+  <!-- EN: make {0} -->
   <RecipeMake>Valmista {0}</RecipeMake>
+  <!-- EN: Making {0}. -->
   <RecipeMakeJobString>{0} valmistamine.</RecipeMakeJobString>
-  
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>TODO</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>TODO</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>TODO</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>TODO</ProsthophobeUnhappy>
+
   <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Saab läbi: {0}</ThoughtExpiresIn>
+  <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Hakkab läbi saama: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
   <ThoughtFinishesExpiringIn>Saab läbi lõplikult: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Ekstreemse vaimse murde piir</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
   <MentalBreakThresholdMajor>Suure vaimse murde piir</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
   <MentalBreakThresholdMinor>Väikse vaimse murde piir</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
+  <!-- EN: {0} {1} -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} {1}'st</PawnMainDescFactionedWrap>
+  <!-- EN: {1} {0} -->
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
   <Faction>Kildkond</Faction>
+  <!-- EN: Equipped -->
   <Equipped>Varustatud</Equipped>
+  <!-- EN: nothing -->
   <EquippedNothing>Mitte midagi</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>Surnud</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>Teadvusetu</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>Šokis</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>TODO</PainShockShort>
+  <!-- EN: Incapacitated -->
   <Incapacitated>Teadvusetu</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
   <InRestraints>Aheldatud (aeglustatud)</InRestraints>
+  <!-- EN: Carrying -->
   <Carrying>Kannab</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>TODO</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>TODO</Queued>
+  <!-- EN: State -->
+  <State>TODO</State>
+  <!-- EN: stun -->
+  <StunLower>TODO</StunLower>
 
   <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Vali järgmine asi samas ruudus.\n\nKiirklahv: {0}\n\nSa saad ka seda teha klikates aeglaselt samat ruutu.</SelectNextInSquareTip>
+  <!-- EN: View information about this object. -->
   <DefInfoTip>Vaata informatsiooni selle objekti kohta.</DefInfoTip>
-  
+
   <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
   <HostilityReponseTip>Muuda kuidas reageerida vaenlastele, kui kolonist pole teenistuses.</HostilityReponseTip>
+  <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>Hetke valik</HostilityResponseCurrentMode>
-  
+
   <!-- like 'Blood of John' -->
+  <!-- EN: of -->
   <OfLower></OfLower>
 
   <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
   <PowerNotConnected>Pole ühendatud elektriga.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Tariff/hoiustatud: {0} W / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
   <PowerNeeded>Elektri vajadus</PowerNeeded>
+  <!-- EN: Power output -->
   <PowerOutput>Elektri toodang</PowerOutput>
+  <!-- EN: Stored -->
   <PowerBatteryStored>Hoiustatud</PowerBatteryStored>
+  <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Tõhusus</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>TODO</SelfDischarging>
 
   <!-- Temperature control -->
+  <!-- EN: Target temperature -->
   <TargetTemperature>Siht temperatuur</TargetTemperature>
+  <!-- EN: Current power use -->
   <PowerConsumptionMode>Hetke elektrikasutus</PowerConsumptionMode>
+  <!-- EN: high -->
   <PowerConsumptionHigh>Kõrge</PowerConsumptionHigh>
+  <!-- EN: low -->
   <PowerConsumptionLow>Madal</PowerConsumptionLow>
-  
+
   <!-- Temperature readout -->
+  <!-- EN: Indoors -->
   <Indoors>Toas</Indoors>
+  <!-- EN: Unroofed -->
   <IndoorsUnroofed>Katuseta</IndoorsUnroofed>
+  <!-- EN: Outdoors -->
   <Outdoors>Väljas</Outdoors>
-  
-  <!--Rotting-->
-  <RotStateFresh>Värske</RotStateFresh>
-  <RotStateRotting>Mädaneb</RotStateRotting>
-  <RotStateDessicated>Dessicated</RotStateDessicated>
-	
-  <!-- Shooting tooltip -->
-  <ShotBy>Lastud {0}'i  poolt</ShotBy>
-  <CannotHit>Ei saa sihtmärgile pihta.</CannotHit>
 
   <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>Värske</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>Mädaneb</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>Dessicated</RotStateDessicated>
+  <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Külmutatud (ei rikne)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>Külmutatud (säilib {0})</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
   <NotRefrigerated>Külmutamata (säilib {0})</NotRefrigerated>
+  <!-- EN: over a decade -->
   <OverADecade>üle kümnendi</OverADecade>
+  <!-- EN: less than a day -->
   <LessThanADay>vähem kui päev</LessThanADay>
-  
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {0} -->
+  <ShotBy>Lastud {0}'i  poolt</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Ei saa sihtmärgile pihta.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>TODO</ManhunterPerHit>
+
   <!-- Meal -->
+  <!-- EN: Ingredients -->
   <Ingredients>Koostisosad</Ingredients>
 
   <!-- Plants -->
+  <!-- EN: {0} grown -->
   <PercentGrowth>{0} kasvanud</PercentGrowth>
+  <!-- EN: Growth rate -->
   <GrowthRate>Kasvukiirus</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Täiskasvanud {0} pärast kasvu.</FullyGrownIn>
+  <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>Vajab valgustaset</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
   <PlantResting>Puhkab</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
   <OutOfIdealTemperatureRange>Väljaspool ideaalset kasvutemperatuuri (kasvab {0}% tavakiirusest)</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Väljaspool kasvutemperatuuri vahemikku (ei kasva)</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Valmis koristamiseks.</ReadyToHarvest>
+  <!-- EN: Mature. -->
   <Mature>Küps.</Mature>
-  <SeedLabel>{0} seeme</SeedLabel>
+  <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Kasvuperiood: {0}</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
   <NoGrowingPeriod>Puudub</NoGrowingPeriod>
+  <!-- EN: Year-round -->
   <GrowYearRound>Terve aasta</GrowYearRound>
+  <!-- EN: Growing season here now. -->
   <GrowSeasonHereNow>Kasvuperiood hetkel.</GrowSeasonHereNow>
-  <CannotGrowTooCold>Ei saa kasvada - külm aastaaeg.</CannotGrowTooCold>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>TODO</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>TODO</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>TODO</DyingBecauseExposedToLight>
 
   <!-- Zones -->
+  <!-- EN: Zone -->
   <Zone>Tsoon</Zone>
+  <!-- EN: Growing zone -->
   <GrowingZone>Kasvutsoon</GrowingZone>
+  <!-- EN: Stockpile zone -->
   <Stockpile>Laotsoon</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Prügilaotsoon</DumpingStockpile>
+  <!-- EN: Priority -->
   <Priority>Tähtsus</Priority>
+  <!-- EN: Clear all -->
   <ClearAll>Kustuta kõik</ClearAll>
+  <!-- EN: Allow all -->
   <AllowAll>Luba kõik</AllowAll>
 
   <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
   <HitPoints>{0} elupunkti</HitPoints>
+  <!-- EN: any quality -->
   <AnyQuality>mis tahes kvaliteet</AnyQuality>
+  <!-- EN: {0} only -->
   <OnlyQuality>ainult {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
   <Undiscovered>Avastamatta</Undiscovered>
-  
+
   <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>TODO</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Lülita tsoonide nähtavust.</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
   <ShowBeautyToggleButton>Lülita ilukuva.\n\nKuvab ilu, nagu nähtuna karakteri poolt, kui seisab hiire poolt osutatud kohas.</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
   <ShowRoomStatsToggleButton>Lülita ruumi statistika kuva.\n\nNäitab hiire poolt osutatava ruumi statistikat.</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>Lülita kolonisti riba.\n\nKuvab ikoone ja põhiolekut kõigi kolonistide kohta ekraani ülaosas.</ShowColonistBarToggleButton>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Lülita automaatselt kodutsooni suurendamine ümber uute ehitiste.</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>TODO</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
   <CategorizedResourceReadoutToggleButton>Lülita kategoriseeritus ressurside kuval.</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
   <ShowAnimalNamesToggleButton>Lülita loomanimede kuvamine taltsutatud loomadel.</ShowAnimalNamesToggleButton>
-  
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>TODO</ShowRoofOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>TODO</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting system. -->
+  <UsePlanetDayNightSystemToggleButton>TODO</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
+
   <!-- Fire -->
+  <!-- EN: Fire -->
   <Fire>Tuli</Fire>
+  <!-- EN: Fire on {0} -->
   <FireOn>Tuli {0} peal</FireOn>
+  <!-- EN: Burning -->
   <Burning>Põleb</Burning>
+  <!-- EN: fire size {0} -->
   <FireSizeLower>tulesuurus {0}</FireSizeLower>
- 
-  <!-- Map conditions (eclipse, solar flare, etc )-->
-  <MapConditionsTip>Erilised tingimused mõjutavad ala hetkel.</MapConditionsTip>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>TODO</GameConditionsTip>
+  <!-- EN: time left -->
   <TimeLeft>aega jäänud</TimeLeft>
+  <!-- EN: impact date -->
   <ImpactDate>kõkkupõrkeaeg</ImpactDate>
 
   <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
   <NoStuffsToBuildWith>Sul pole kasutatavaid materjale, millest saaksid selle ehitada.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>TODO</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Ei saa asetada katuse alla.</MustPlaceUnroofed>
+  <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Peab asetama pea ühendatud laeva struktuuri sambaga.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
   <MustPlaceNextToHopperAccepter>Peab asetatama millegi kõrvale, mis vajab salve.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Peab asetatama täpselt aurugeisri peale.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
   <MustPlaceCoolerWithFreeSpaces>Nii kuuma kui ka külma pooled peavad olema avatud.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>Mõlemad pooled peavad olema vabad, et õhk pääseks läbi.</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>Peab asetatama koos seisuruumiga kõikidel pooltel.</MustPlaceAdjacentStandable>
-	
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>TODO</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
+
   <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
   <WindTurbine_WindPathIsBlockedBy>Blokeeritud</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
   <WindTurbine_WindPathIsBlockedByRoof>Blokeeritud katuse poolt</WindTurbine_WindPathIsBlockedByRoof>
 
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
+
   <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
   <CasketContains>Sisaldab</CasketContains>
+  <!-- EN: Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>Hoiatus!\n\n[PAWN_nameDef] on sinu viimane vaba kolonist! Kui sa lased tal laekasse astuda, siis sul ei pruugi olla võimalik jätkata mängimist. Oled kindel, et tahad jätkata?</CasketWarning>
 
   <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>Ei saa õhku tõusta.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
   <ShipReportCanLaunch>Valmis õhkutõusuks.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Puudub kriitiline komponent</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>TODO</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Pole ühtegi täis krüptoune laegast</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>TODO</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>TODO</ShipReportNotReady>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>TODO</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
+  <!-- EN: {0} used {1} neurotrainer to go from level {2} to level {3}. -->
   <NeurotrainerUsed>{0} kasutas {1} neurotrainerit, et minna level {2}'lt level {3}'ini.</NeurotrainerUsed>
-  
+
   <!-- Minification -->
+  <!-- EN: Installed -->
   <Installed>Paigaldatud</Installed>
+  <!-- EN: Not installed -->
   <NotInstalled>Paigaldamata</NotInstalled>
 
   <!-- Art -->
+  <!-- EN: Title -->
   <Title>Pealkiri</Title>
+  <!-- EN: Untitled -->
   <Untitled>Pealkirjata</Untitled>
-  
+
   <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
   <UnfinishedItem>Lõpetamata {0}</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
   <UnfinishedItemWithStuff>Lõpetamata {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
+  <!-- EN: Quality -->
   <Quality>Kvaliteet</Quality>
+  <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Asja kvaliteet näitab kui hästi see on valmistatud.</QualityDescription>
+  <!-- EN: Quality: {0} -->
   <QualityIs>Kvaliteet: {0}</QualityIs>
-    
+
   <!-- Mood descriptions -->
+  <!-- EN: mental state -->
   <Mood_MentalState>vaimneseisund</Mood_MentalState>
+  <!-- EN: about to break -->
   <Mood_AboutToBreak>lähedal murdumisele</Mood_AboutToBreak>
+  <!-- EN: on edge -->
   <Mood_OnEdge>piiri peal</Mood_OnEdge>
+  <!-- EN: stressed -->
   <Mood_Stressed>stressis</Mood_Stressed>
+  <!-- EN: neutral -->
   <Mood_Neutral>neutraalne</Mood_Neutral>
+  <!-- EN: content -->
   <Mood_Content>rahul</Mood_Content>
+  <!-- EN: happy -->
   <Mood_Happy>õnnelik</Mood_Happy>
-  
+
   <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Kõik on surnud või läinud. See lugu on läbi.\n\nVõib-olla keegi leiab kunagi kasutuse selle koha varemetele.</GameOverEveryoneDead>
+  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
   <GameOverShipLaunched>Sa oled tõusnud õhku laevaga! Need kolonistid pääsesid:\n\n{0}\nNeed kolonistid jäid maha:\n\n{1}\nSinu AI proovib sind nüüd juhatadaa turvalisesse kohta. Ta võib sulle leida õitseva planeedi siin süsteemis, või ta võib võtta ette sajandite pikkuse teekonna mõnele teisele tähele. Ta võib isegi otsustada peita ennast jää all mõnel asteroidil mõneks tuhandeks aastaks ja oodata, et keegi ehitab siin uue säramaailm.\n\nSa saad teada, kui üles ärkad.</GameOverShipLaunched>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Peaaegu valguskiirusel tabas planeeditapja relv maad miljardi vesinikupommi jõuga. Nagu vintpüssiga lastud veepall veeldus see maailm kõkkupõrke mõjul ja pritsis oma sulanud sisu kosmosesse.\n\nOsa {0}'st on nüüd väike asteroidivöö. Ülejäänud on sulanud, radioaktiivne põrgu, mis koguaeg vappub kilomeetri kõrguste planeedivärinate käes.\n\nSa ei jäänud ellu.</GameOverPlanetkillerImpact>
+  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
+  <GameOverArrivedAtJourneyDestination>TODO</GameOverArrivedAtJourneyDestination>
+  <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Jätka mängimist</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
   <GameOverMainMenu>Põhimenüü</GameOverMainMenu>
-  
+
   <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
   <LifespanExpiry>Saab läbi:</LifespanExpiry>
-  
-  <!-- Traps -->
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>mitte aktiivne</InactiveFacility>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {0}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{0}'i {1} nüüd kasvab.</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {0}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{0}'i {1} on nüüd stabiilne.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {0}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{0}'i {1} on nüüd taandumas.</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>Kasutatav nüüd.</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>Pole kasutatav: {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>blokeeritud</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {0} -->
+  <MarriageSpotDangerous>liiga ohtlik {0} jaoks</MarriageSpotDangerous>
+  <!-- EN: forbidden for {0} -->
+  <MarriageSpotForbidden>keelatud {0} jaoks</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <!-- EN: unreachable for {0} -->
+  <MarriageSpotUnreachable>ligipääsmatu {0} jaoks</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>vangikongis</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>ebameeldiv temperatuur</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>Meditsiinline puhkus</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>Magab</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>Põgeneb</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>Võitleb</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>Tegevusetu</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>Põleb</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>Aeg hoolduse jaoks.</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>Nõrgeneb hooldusematuse tõttu.</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>TODO</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>TODO</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>TODO</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>TODO</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>TODO</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
+
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>TODO</LearningHelper>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>TODO</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>TODO</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>TODO</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>TODO</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>TODO</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>TODO</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>TODO</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>TODO</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>TODO</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>TODO</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>TODO</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
+
+  <!-- UNUSED -->
+  <UntreatedLower>ravimata</UntreatedLower>
+  <InjuryRequiresTreatment>Vajab ravi paranemiseks</InjuryRequiresTreatment>
+  <NextTreatmentIn>Järgmine ravi: {0}</NextTreatmentIn>
+  <EggDamagedEmbryo>kahjustatud embrüo</EggDamagedEmbryo>
+  <TreatQuality>ravikvaliteet {0}</TreatQuality>
+  <PoorResult>halb tulemus</PoorResult>
+  <GoodResult>hea tulemus</GoodResult>
+  <HarvestFailed>Saagikoristus\nebaõnnestus</HarvestFailed>
+  <AreaAnimalDefaultLabel>Looma tsoon {0}</AreaAnimalDefaultLabel>
+  <NewAreaAnimal>Uus looma tsoon</NewAreaAnimal>
+  <SeedLabel>{0} seeme</SeedLabel>
+  <CannotGrowTooCold>Ei saa kasvada - külm aastaaeg.</CannotGrowTooCold>
+  <MapConditionsTip>Erilised tingimused mõjutavad ala hetkel.</MapConditionsTip>
   <TrapArmed>Üles seatud</TrapArmed>
   <TrapNotArmed>Üles seadmata</TrapNotArmed>
   <TrapRearmingCost>Ülesseadmise maksumus: {0}</TrapRearmingCost>
-  
-  <!-- Facilities -->
-  <InactiveFacility>mitte aktiivne</InactiveFacility>
-  
-  <!-- Hediffs growth modes -->
-  <DiseaseGrowthModeChanged_Growing>{0}'i {1} nüüd kasvab.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{0}'i {1} on nüüd stabiilne.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0}'i {1} on nüüd taandumas.</DiseaseGrowthModeChanged_Remission>
-  
-  <!-- Marriage spot -->
-  <MarriageSpotUsable>Kasutatav nüüd.</MarriageSpotUsable>
-  <MarriageSpotNotUsable>Pole kasutatav: {0}.</MarriageSpotNotUsable>
-  <MarriageSpotNotStandable>blokeeritud</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>liiga ohtlik {0} jaoks</MarriageSpotDangerous>
-  <MarriageSpotForbidden>keelatud {0} jaoks</MarriageSpotForbidden>
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
-  <MarriageSpotUnreachable>ligipääsmatu {0} jaoks</MarriageSpotUnreachable>
-  <MarriageSpotInPrisonCell>vangikongis</MarriageSpotInPrisonCell>
-  <NotEnjoyableOutsideTemperature>ebameeldiv temperatuur</NotEnjoyableOutsideTemperature>
-  
-  <!-- Colonist bar -->
-  <ActivityIconMedicalRest>Meditsiinline puhkus</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Magab</ActivityIconSleeping>
-  <ActivityIconFleeing>Põgeneb</ActivityIconFleeing>
-  <ActivityIconAttacking>Võitleb</ActivityIconAttacking>
-  <ActivityIconIdle>Tegevusetu</ActivityIconIdle>
-  <ActivityIconBurning>Põleb</ActivityIconBurning>
 
-  <!-- Maintainable -->
-  <DueForMaintenance>Aeg hoolduse jaoks.</DueForMaintenance>
-  <DeterioratingDueToLackOfMaintenance>Nõrgeneb hooldusematuse tõttu.</DeterioratingDueToLackOfMaintenance>
 </LanguageData>

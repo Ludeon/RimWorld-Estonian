@@ -1,65 +1,140 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: Autosaving -->
   <Autosaving>Automaatsalvestamine</Autosaving>
-  
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>Kolm teist ärkavad krüptoune sarkofaagist sireenide ja rebeneva metalli hääle peale. Te jõuate napilt pääste laevadesse enne kui teie kosmoselaev puruneb.\n\nMõnda aega hiljem te maandute tundmatul kettamaailmal.\n\nSel ajal kui kosmoselaeva tükid kukuvad teie ümber hakkate tegema plaane ellujäämiseks.</GameStartDialog>
-
+  <!-- EN: Colony -->
   <Colony>Koloonia</Colony>
-  
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>Sa saad vahetada keelt ainult põhimenüüst.</ChangeLanguageFromMainMenu>
-
+  <!-- EN: and -->
   <AndLower>ja</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>disabled</DisabledLower>
 
-  <CloseButton>Sulge</CloseButton>
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Versioon {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>arendusversioon</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Kompileeritud {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Logitud sisse Steam'i kui {0}</LoggedIntoSteamAs>
-  
+
   <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>Jah</Yes>
+  <!-- EN: No -->
   <No>Ei</No>
+  <!-- EN: min -->
   <min>min</min>
+  <!-- EN: max -->
   <max>max</max>
+  <!-- EN: chance -->
   <chance>võimalus</chance>
+  <!-- EN: context -->
   <context>kontekst</context>
+  <!-- EN: multiplier -->
   <multiplier>kordaja</multiplier>
+  <!-- EN: damage -->
   <damage>kahju</damage>
+  <!-- EN: radius -->
   <radius>raadius</radius>
+  <!-- EN: duration (days) -->
   <durationDays>kestvus (päevades)</durationDays>
-  
+  <!-- EN: interval (days) -->
+  <intervalDays>TODO</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>TODO</repeat>
+  <!-- EN: default -->
+  <default>TODO</default>
+  <!-- EN: distance -->
+  <distance>TODO</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>Päev</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
+
   <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
   <MeatLabel>{0} liha</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>{0} küpsetamatta liha.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
 
-  <LeatherLabel>{0} nahk</LeatherLabel>
-  <LeatherDesc>{0}st tehtud nahk.</LeatherDesc>
-
+  <!-- EN: {0} corpse -->
   <CorpseLabel>{0} laip</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>{0} laip.</CorpseDesc>
+  <!-- EN: {0} (dead) -->
   <DeadLabel>{0} (surnud)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>ebatasane {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Ebatasane, looduslik {0} maastik.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>tahumata {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Ebatasaselt lõigatud looduslik {0} põrand.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>tasane {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Tasandatud looduslik {0} põrand.</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (plaan)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (ehitus)</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
-  
-  <SomeonesRoom>{0}'i {1}</SomeonesRoom>
-  <CouplesRoom>{0} ja {1}'i {2}</CouplesRoom>
 
+  <!-- EN: {0}'s {1} -->
+  <SomeonesRoom>{0}'i {1}</SomeonesRoom>
+  <!-- EN: {0} and {1}'s {2} -->
+  <CouplesRoom>{0} ja {1}'i {2}</CouplesRoom>
+  
+  <!-- EN: (various) -->
   <VariousLabel>(mitmed)</VariousLabel>
 
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Kolonist suri</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>TODO</North>
+  <!-- EN: South -->
+  <South>TODO</South>
+  <!-- EN: West -->
+  <West>TODO</West>
+  <!-- EN: East -->
+  <East>TODO</East>
+  
+  <!-- UNUSED -->
+  <LeatherLabel>{0} nahk</LeatherLabel>
+  <LeatherDesc>{0}st tehtud nahk.</LeatherDesc>
+
 </LanguageData>

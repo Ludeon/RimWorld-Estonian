@@ -1,144 +1,310 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- glow -->
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
   <Dark>Pime</Dark>
+  <!-- EN: Lit -->
   <Lit>Valgustatud</Lit>
+  <!-- EN: Brightly lit -->
   <LitBrightly>Eredalt valgustatud</LitBrightly>
-
-  <!-- history upload pref -->
+  
+  <!-- History upload pref -->
+  <!-- EN: Undecided -->
   <Unspecified>Otsustamata</Unspecified>
+  <!-- EN: Allow -->
   <Always>Luba</Always>
+  <!-- EN: Do not allow -->
   <Never>Ära luba</Never>
-
+  
   <!-- Price types -->
+  <!-- EN: very cheap -->
   <PriceTypeVeryCheap>väga odav</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
   <PriceTypeCheap>odav</PriceTypeCheap>
+  <!-- EN: normal -->
   <PriceTypeNormal>tavaline</PriceTypeNormal>
+  <!-- EN: expensive -->
   <PriceTypeExpensive>kallis</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
   <PriceTypeExorbitant>väga kallis</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
+  <!-- EN: unstored -->
   <StoragePriorityUnstored>hoiustamata</StoragePriorityUnstored>
+  <!-- EN: low -->
   <StoragePriorityLow>madal</StoragePriorityLow>
+  <!-- EN: normal -->
   <StoragePriorityNormal>tavaline</StoragePriorityNormal>
+  <!-- EN: preferred -->
   <StoragePriorityPreferred>eelistatud</StoragePriorityPreferred>
+  <!-- EN: important -->
   <StoragePriorityImportant>tähtis</StoragePriorityImportant>
+  <!-- EN: critical -->
   <StoragePriorityCritical>kriitiline</StoragePriorityCritical>
 
   <!-- Food type flags -->
+  <!-- EN: vegetables -->
   <FoodTypeFlags_VegetableOrFruit>aedviljad</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
   <FoodTypeFlags_Meat>toorliha</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
   <FoodTypeFlags_Corpse>surnukehad</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>seemned</FoodTypeFlags_Seeds>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>TODO</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>loomatooted</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
   <FoodTypeFlags_Plant>elustaimed</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
   <FoodTypeFlags_Tree>eluspuud</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
   <FoodTypeFlags_Meal>söögikorrad</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>töödeldud toidud</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>kuivtoit</FoodTypeFlags_Kibble>
-  
-  <!-- Quality category -->
-  <QualityCategory_Awful>kohutav</QualityCategory_Awful>
-  <QualityCategory_Shoddy>vilets</QualityCategory_Shoddy>
-  <QualityCategory_Poor>kehv</QualityCategory_Poor>
-  <QualityCategory_Normal>normaalne</QualityCategory_Normal>
-  <QualityCategory_Good>hea</QualityCategory_Good>
-  <QualityCategory_Superior>väga hea</QualityCategory_Superior>
-  <QualityCategory_Excellent>suurepärane</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>meisterlik</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>legendaarne</QualityCategory_Legendary>
 
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>kohutav</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>kehv</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>normaalne</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>hea</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>suurepärane</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>meisterlik</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>legendaarne</QualityCategory_Legendary>
+  <!-- EN: awfl -->
   <QualityCategoryShort_Awful>kohutav</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>vilets</QualityCategoryShort_Shoddy>
+  <!-- EN: poor -->
   <QualityCategoryShort_Poor>kehv</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <!-- EN: good -->
   <QualityCategoryShort_Good>hea</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>vhea</QualityCategoryShort_Superior>
+  <!-- EN: exc -->
   <QualityCategoryShort_Excellent>suurp</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>meister</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
   <QualityCategoryShort_Legendary>legend</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
+  <!-- EN: Starving -->
   <HungerLevel_Starving>Nälgiv</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
   <HungerLevel_UrgentlyHungry>Pakiliselt näljane</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
   <HungerLevel_Hungry>Näljane</HungerLevel_Hungry>
+  <!-- EN: Fed -->
   <HungerLevel_Fed>Toidetud</HungerLevel_Fed>
 
   <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>Üliväsinud</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
   <HungerLevel_VeryTired>Väga väsinud</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
   <HungerLevel_Tired>Väsinud</HungerLevel_Tired>
+  <!-- EN: Rested -->
   <HungerLevel_Rested>Puhanud</HungerLevel_Rested>
-  
+
   <!-- Hilliness -->
+  <!-- EN: flat -->
   <Hilliness_Flat>Tasane</Hilliness_Flat>
+  <!-- EN: small hills -->
   <Hilliness_SmallHills>Väiksed künkad</Hilliness_SmallHills>
+  <!-- EN: large hills -->
   <Hilliness_LargeHills>Suured künkad</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
   <Hilliness_Mountainous>Mägine</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>TODO</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>Loomine</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
   <WorkshopInteractStage_SubmittingItem>Esitamine</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Kehtetu</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Konfiguratsiooni andmete ettevalmistamine</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Sisu failide ettevalmistamine</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Sisu üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Eelvaate faili üleslaadimine</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Muudatuste pühendamine</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
-  
+
   <!-- Mod sources -->
+  <!-- EN: local folder -->
   <ContentSource_LocalFolder>kohalik kaust</ContentSource_LocalFolder>
+  <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam'i Töökoda</ContentSource_SteamWorkshop>
   
-  <!-- Trainable intelligence -->
+  <!-- Medical care category -->
+  <!-- EN: No medical care -->
+  <MedicalCareCategory_NoCare>Arstiabi puudub</MedicalCareCategory_NoCare>
+  <!-- EN: Doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>Arsti hooldus, ilma ravimiteta</MedicalCareCategory_NoMeds>
+  <!-- EN: Herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>Ravimtaimed või halvem</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: Industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>Tavalised ravimid või halvem</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: Best quality medicine -->
+  <MedicalCareCategory_Best>Parima kvaliteediga arstiabi</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>Eira</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>Ründa</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>Põgene</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>kasvab</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>stabiilne</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>vähenemine</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>loom</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>neoliitiline</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>keskaegne</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>tööstuslik</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>kosmoseline</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>Seismas</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>Kukkumiskaunad</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>kõik karakterid</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>mängija alustavad karakterid</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>mitte-mängija karakterid</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>Kuva loomade nimed</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>Taltsad (nimega)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>Taltsad (kõik)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>Celsius</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>TODO</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>TODO</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>TODO</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>TODO</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>TODO</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>TODO</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>TODO</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>TODO</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+
+  <!-- UNUSED -->
+  <FoodTypeFlags_Seeds>seemned</FoodTypeFlags_Seeds>
+  <QualityCategory_Shoddy>vilets</QualityCategory_Shoddy>
+  <QualityCategory_Superior>väga hea</QualityCategory_Superior>
+  <QualityCategoryShort_Shoddy>vilets</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Superior>vhea</QualityCategoryShort_Superior>
   <TrainableIntelligence_None>Puudub</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Lihtne</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Keskmine</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>Edasijõudnud</TrainableIntelligence_Advanced>
-
-  <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>Arstiabi puudub</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Arsti hooldus, ilma ravimiteta</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Ravimtaimed või halvem</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Tavalised ravimid või halvem</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Parima kvaliteediga arstiabi</MedicalCareCategory_Best>
-
-  <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Eira</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Ründa</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Põgene</HostilityResponseMode_Flee>
-  
-  <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>kasvab</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stabiilne</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>vähenemine</HediffGrowthMode_Remission>
-
-  <!-- TechLevel -->
-  <TechLevel_Animal>loom</TechLevel_Animal>
-  <TechLevel_Neolithic>neoliitiline</TechLevel_Neolithic>
-  <TechLevel_Medieval>keskaegne</TechLevel_Medieval>
-  <TechLevel_Industrial>tööstuslik</TechLevel_Industrial>
-  <TechLevel_Spacer>kosmoseline</TechLevel_Spacer>
-  <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <TechLevel_Transcendent>üleolev</TechLevel_Transcendent>
 
-  <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Seismas</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Kukkumiskaunad</PlayerPawnsArriveMethod_DropPods>
-
-  <!-- Pawn generation context -->
-  <PawnGenerationContext_All>kõik karakterid</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>mängija alustavad karakterid</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>mitte-mängija karakterid</PawnGenerationContext_NonPlayer>
-  
-  <!-- Animal name display mode -->
-  <ShowAnimalNames>Kuva loomade nimed</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Taltsad (nimega)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Taltsad (kõik)</AnimalNameDisplayMode_TameAll>
-  
-  <!-- Temperature -->
-  <Celsius>Celsius</Celsius>
-  <Fahrenheit>Fahrenheit</Fahrenheit>
-  <Kelvin>Kelvin</Kelvin>
 </LanguageData>

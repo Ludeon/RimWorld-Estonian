@@ -1,104 +1,392 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--=========== Main menu ==========-->
-  <CreateWorld>Loo maailm</CreateWorld>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>TODO</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Uus koloonia</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Tagasi mängu</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Tsenaariumi eelvaade</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Salvesta</Save>
+  <!-- EN: Load game -->
   <LoadGame>Lae mäng</LoadGame>
+  <!-- EN: Options -->
   <Options>Valikud</Options>
+  <!-- EN: Mods -->
   <Mods>Modifikatsioonid</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Autorid</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Välju menüüsse</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Salvesta ja välju menüüsse</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Välju töölauale</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Salvesta ja välju töölauale</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Kujutluse tekitaja</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeon'i blogi</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Foorumid</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Ametlik viki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynan'i twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Tynan'i disaini raamat</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Aita tõlkida RimWorld'i</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Osta heliriba</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>Loo maailm</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>TODO</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>TODO</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Vaata üle maailm</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Genereeri</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Salvesta ja lõpeta</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Lähtesta</Reset>
-  <WorldSize>Suurus</WorldSize>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>TODO</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>TODO</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>TODO</PlanetTemperature>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>TODO</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>TODO</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>TODO</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>TODO</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>TODO</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>TODO</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Seeme</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Randomiseeri seeme</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>TODO</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>TODO</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Vali maailm</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Vali</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Maailma faile ei leitud. Loo esmalt maailm.</NoWorldsFilesFound>
   
-  <!--=========== Version info ==========-->
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Versioon {0} on nüüd saadaval. Külasta lisainfo jaoks ludeon.com.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Versioon on ajakohane.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Tõrge versiooni info hankimisel: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Versiooni info laadimine...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Genereeri maailm</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Ava Steam'i Töökoda</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Hangi modifikatsioone foorumist</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Ava modifikatsioonide kaust</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Kas oled kinal, et tahad keelata põhi mängu? Mäng ei tööta üldse, kui sul pole teist modifikatsiooni, mis asendab kogu põhifunktsionaalsuse.\n\nJäta meelde, et teised modifikatsioonid saavad kirjutada üle põhimängu kasutades sama definitsiooni nime.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Oled sa kindel, et tahad kustutada kogu {0} sisu?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Tühista tellimus</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Oled sa kindel, et tahad tühistada {0} tellimuse?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Autor</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Töökoja lehekülg</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Lae üles Steam'i Töökotta</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Uuenda Steam Töökojas</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Üleslaadimine juba toimub.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Töökotta esitamine luhtus.\n\nPõhjus: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>{0} edukalt üleslaetud.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Allalaadimine</Downloading>
+  <!-- EN: Source -->
   <Source>Lähe</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>Sihtversioon: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>See modifikatsioon ei olnud loodud selle RimWorld'i versiooni jaoks ja arvatavasti ei tööta korralikult.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Modifikatsioon vajab hästi vormindatud sihtversiooni About.xml'is. Nagu nii: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-
-  <!--=========== Select scenario =============-->
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <MessageModNeedsWellFormattedTargetVersion>Modifikatsioon vajab hästi vormindatud sihtversiooni About.xml'is. Nagu nii: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>TODO</DragToReorder>
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Vali tsenaarium</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Kohandatud</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam'i Töökoda</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>Tsenaariumi redaktor</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Kustuta</Delete>
   
-  <!--============ Scenario editor ===============-->
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>seeme</Seed>
+  <!-- EN: Load -->
   <Load>Lae</Load>
+  <!-- EN: edit mode -->
   <EditMode>redigeerimis mood</EditMode>
+  <!-- EN: Summary -->
   <Summary>Kokkuvõte</Summary>
+  <!-- EN: Add part -->
   <AddPart>Lisa osa</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Kõik tekstiväljad peavad olema täidetud.</TextFieldsMustBeFilled>
-  <ConfirmContentAuthor>Sa peaksid üleslaadima ainult asju, mida sa ise oled loonud.\n\nKas sa oled loonud selle ise?</ConfirmContentAuthor>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Oled kindel et tahad selle üles laadida Steam'i Töökotta?\n\nSa pead nõustuma Steam'i Töökoja kasutustingimustega. Leia kõik tingimused siit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>Sa peaksid üleslaadima ainult asju, mida sa ise oled loonud.\n\nKas sa oled loonud selle ise?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Ühtimatu</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Liiga palju (max {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>On võimalik uuendada Töökotta, sest sa oled autor.</CanBeUpdatedOnWorkshop>
   
-  <!--=========== Select storyteller ==========-->
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Vali AI loojutustaja</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>AI loojutustaja loob sündmusi nagu piraadi röövid, kukkumiskaunad või loomade rünnakuid. Nende valikud mõjutavad sinu koloonia lugu.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Palun vali raskusaste.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Raskusaste</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>TODO</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>Lõppsurma moodis saad sa ainult ühe salvestusfaili ja saad salvestada ainult mängust väljudes. Sa ei saa mängu uuesti laadida, et parandada vigu ja kui su koloonia sureb, siis on see kõik.\n\nSee on kuidas RimWorld'i on mõeldud mängitama, väga dramaatiliste pööretega, mis mängivad välja täieliku mõjuga.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Vali maandumis asukoht</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Vali juhuslik asukoht</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Vali asukoht</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Palun vali maandumis asukoht.</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Sa ei saa maanduda sellel bioomil: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>Bioom pole veel lisatud</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>TODO</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} juba on baas seal.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>TODO</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>Bioom</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>Maastik</Terrain>
+  <!-- EN: Road -->
+  <Road>TODO</Road>
+  <!-- EN: River -->
+  <River>TODO</River>
+  <!-- EN: Elevation -->
+  <Elevation>Kõrgus</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>Viljakus</Fertility>
+  <!-- EN: Average temperature -->
+  <AvgTemp>Keskmine temperatuur</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Sademed</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>TODO</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>Põhjarannik</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>Idarannik</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>Lõunarannik</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>Läänerannik</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>TODO</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Kildkonna baas</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Kivi tüübid</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>TODO</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>TODO</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>TODO</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>TODO</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>TODO</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>Loo inimesed</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>Inimese eesnimi.\n\nSeda kuvatakse ainult teatud menüüdes.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Inimese lühike indetifitseerija.\n\nSeda kuvatakse koguaeg. See võib olla ees- või perekonnanimi, või täielikult erinev hüüdnimi.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>Inimese perekonnanimi.\n\nSeda kuvatakse ainult teatud menüüdes.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Randomiseeri</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>vanus {0}</AgeIndicator>
+  <!-- EN: Backstory -->
+  <Backstory>Tagalugu</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Võimetu tegema</IncapableOf>
+  <!-- EN: Traits -->
+  <Traits>Oskused</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Alatised tuju effektid</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Oskused</Skills>
+  <!-- EN: none -->
+  <NoneLower>puudub</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Täiskasvanu</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Lapseiga</Childhood>
+  <!-- EN: Current -->
+  <Current>TODO</Current>
+  <!-- EN: male -->
+  <Male>mees</Male>
+  <!-- EN: female -->
+  <Female>naine</Female>
+  <!-- EN: male -->
+  <MaleAnimal>TODO</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>TODO</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Valu</Pain>
+  <!-- EN: Health -->
+  <Health>Tervis</Health>
+  <!-- EN: Relations -->
+  <Relations>Tutvused</Relations>
+  <!-- EN: Team skills -->
+  <TeamSkills>TODO</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>TODO</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Alusta</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Täpsem</Advanced>
+  <!-- EN: Next -->
+  <Next>Edasi</Next>
+  <!-- EN: Back -->
+  <Back>Tagasi</Back>
+  <!-- EN: Gameplay -->
+  <Gameplay>Gameplay</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Tõesti väljuda? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Igal inimisel on vaja kehtivat nime.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>TODO</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>TODO</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>TODO</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Mapi genereerimine...</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
+
+  <!-- UNUSED -->
+  <WorldSize>Suurus</WorldSize>
   <WorldRenderMode>Vaade</WorldRenderMode>
   <WorldRenderModeFull>Täielik</WorldRenderModeFull>
   <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
@@ -106,52 +394,7 @@
   <WorldRenderModeFertility>Viljakus</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Sademed</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Bioomid</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Bioom pole veel lisatud</BiomeNotImplemented>
-  <BaseAlreadyThere>{0} juba on baas seal.</BaseAlreadyThere>
-  <Biome>Bioom</Biome>
-  <Terrain>Maastik</Terrain>
-  <Elevation>Kõrgus</Elevation>
-  <Fertility>Viljakus</Fertility>
-  <AvgTemp>Keskmine temperatuur</AvgTemp>
   <AvgWinterTemp>Keskmine temperatuur (talv): {0}</AvgWinterTemp>
   <AvgSummerTemp>Keskmine temperatuur (suvi): {0}</AvgSummerTemp>
-  <Rainfall>Sademed</Rainfall>
-  <HasCoast0>Põhjarannik</HasCoast0>
-  <HasCoast1>Idarannik</HasCoast1>
-  <HasCoast2>Lõunarannik</HasCoast2>
-  <HasCoast3>Läänerannik</HasCoast3>
-  <FactionBase>Kildkonna baas</FactionBase>
-  <StoneTypesHere>Kivi tüübid</StoneTypesHere>
 
-  <!--=========== Character chooser ==========-->
-  <CreateCharacters>Loo inimesed</CreateCharacters>
-  <FirstNameDesc>Inimese eesnimi.\n\nSeda kuvatakse ainult teatud menüüdes.</FirstNameDesc>
-  <ShortIdentifierDesc>Inimese lühike indetifitseerija.\n\nSeda kuvatakse koguaeg. See võib olla ees- või perekonnanimi, või täielikult erinev hüüdnimi.</ShortIdentifierDesc>
-  <LastNameDesc>Inimese perekonnanimi.\n\nSeda kuvatakse ainult teatud menüüdes.</LastNameDesc>
-  <Randomize>Randomiseeri</Randomize>
-  <AgeIndicator>vanus {0}</AgeIndicator>
-  <Backstory>Tagalugu</Backstory>
-  <IncapableOf>Võimetu tegema</IncapableOf>
-  <Traits>Oskused</Traits>
-  <PermanentMoodEffect>Alatised tuju effektid</PermanentMoodEffect>
-  <Skills>Oskused</Skills>
-  <NoneLower>puudub</NoneLower>
-  <Adulthood>Täiskasvanu</Adulthood>
-  <Childhood>Lapseiga</Childhood>
-  <Male>mees</Male>
-  <Female>naine</Female>
-  <Pain>Valu</Pain>
-  <Health>Tervis</Health>
-  <Relations>Tutvused</Relations>
-
-  <!--=========== Misc ==========-->
-  <Start>Alusta</Start>
-  <Advanced>Täpsem</Advanced>
-  <Next>Edasi</Next>
-  <Back>Tagasi</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Tõesti väljuda? Sa kaotad kõik salvestamata tegevused.</ConfirmQuit>
-  <EveryoneNeedsValidName>Igal inimisel on vaja kehtivat nime.</EveryoneNeedsValidName>
-  <GeneratingWorld>Maailma genereerimine...</GeneratingWorld>
-  <GeneratingMap>Mapi genereerimine...</GeneratingMap>
 </LanguageData>

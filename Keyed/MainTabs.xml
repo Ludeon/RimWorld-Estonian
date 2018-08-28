@@ -1,63 +1,167 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- Work tab -->
+  <!-- EN: Manual priorities -->
   <ManualPriorities>Käsitsi prioriteedid</ManualPriorities>
+  <!-- EN: higher priority -->
   <HigherPriority>kõrgem prioriteet</HigherPriority>
+  <!-- EN: lower priority -->
   <LowerPriority>madalam prioriteet</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>Asjakohased oskused: {0}\nKeskmine asjakohastest oskustest: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klikka, et hüpata:</ClickToJumpTo>
+  <!-- EN: {0} cannot do this kind of work. -->
   <CannotDoThisWork>{0} ei saa teha seda tüüpi tööd.</CannotDoThisWork>
+  <!-- EN: (none) -->
   <NoneBrackets>(mitte ükski)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>See kolonist ei saa teha seda tüüpi tööd tema tervisliku seisundi tõttu.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
   
-  <!-- Outfits tab -->
-  <CurrentOutfit>Hetke komplekt</CurrentOutfit>
+  <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
   <ManageOutfits>Halda komplekte</ManageOutfits>
+  <!-- EN: Clear forced -->
   <ClearForcedApparel>Tühista sunnitud</ClearForcedApparel>
+  <!-- EN: forced -->
   <ApparelForcedLower>sunnitud</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
   <ForcedApparel>Sunnitud rõivad</ForcedApparel>
-  <OutfitEdit>Muuda...</OutfitEdit>
+  <!-- EN: Edit... -->
+  <AssignTabEdit>TODO</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>TODO</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
+  <!-- EN: Copy -->
   <Copy>Kopeeri</Copy>
+  <!-- EN: Paste -->
   <Paste>Kleebi</Paste>
+  <!-- EN: Allowed area -->
   <AllowedArea>Lubatud ala</AllowedArea>
   
   <!-- Animals tab -->
+  <!-- EN: Master -->
   <Master>Peremees</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Rase ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>TODO</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>TODO</IsPredator>
   
   <!-- Factions tab -->
+  <!-- EN: Hostile -->
   <Hostile>Vaenulik</Hostile>
+  <!-- EN: Ally -->
+  <Ally>TODO</Ally>
+  <!-- EN: defeated -->
+  <DefeatedLower>TODO</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
   <HostileTo>{0}'i vaenlane</HostileTo>
-  <CurrentGoodwill>Hetke heatahe selle kildkonnaga.</CurrentGoodwill>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
   
-  <!-- Statistics tab -->
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>TODO</Friend>
+  <!-- EN: Rival -->
+  <Rival>TODO</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>TODO</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>TODO</Graph>
+  <!-- EN: Messages -->
+  <Messages>TODO</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>TODO</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>Vali graafik</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>Viimased 30 päeva</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>Viimased 100 päeva</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>Viimased 300 päeva</Last300Days>
+  <!-- EN: All -->
+  <AllDays>Kõik</AllDays>
+  <!-- EN: Value -->
+  <Value>Väärtus</Value>
+  <!-- EN: External -->
+  <External>Väline</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>TODO</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>TODO</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>TODO</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>TODO</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
   <Playtime>Mänguaeg</Playtime>
+  <!-- EN: Storyteller -->
   <Storyteller>Loojutustaja</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>TODO</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>TODO</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>TODO</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>Suured ohud</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>Vaenlase rünnakud</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>TODO</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>Koloniste tapetud</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>Kosmosesse saadetud koloniste</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: project tech level -->
+  <ProjectTechLevel>projekti tehniline tase</ProjectTechLevel>
+  <!-- EN: your tech level -->
+  <YourTechLevel>sinu tehniline tase</YourTechLevel>
+  <!-- EN: cost multiplier -->
+  <ResearchCostMultiplier>maksumuse korrutaja</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>Projekti baasmaksumus {0} muutub {1}'ks sinu tehnilise taseme tõttu.</ResearchCostComparison>
+  
+  <!-- UNUSED -->
+  <CurrentOutfit>Hetke komplekt</CurrentOutfit>
+  <OutfitEdit>Muuda...</OutfitEdit>
+  <CurrentGoodwill>Hetke heatahe selle kildkonnaga.</CurrentGoodwill>
   <ColonyWealthTotal>Koloonia vara</ColonyWealthTotal>
   <ColonyWealthItems>Koloonia vara (asjad)</ColonyWealthItems>
   <ColonyWealthBuildings>Koloonia vara (ehitised)</ColonyWealthBuildings>
-  <NumThreatBigs>Suured ohud</NumThreatBigs>
-  <NumEnemyRaids>Vaenlase rünnakud</NumEnemyRaids>
   <DamageTaken>Viga saadud</DamageTaken>
-  <ColonistsKilled>Koloniste tapetud</ColonistsKilled>
-  <ColonistsLaunched>Kosmosesse saadetud koloniste</ColonistsLaunched>
 
-  <!-- History tab -->
-  <SelectGraph>Vali graafik</SelectGraph>
-  <Last30Days>Viimased 30 päeva</Last30Days>
-  <Last100Days>Viimased 100 päeva</Last100Days>
-  <Last300Days>Viimased 300 päeva</Last300Days>
-  <AllDays>Kõik</AllDays>
-  <Day>Päev</Day>
-  <Value>Väärtus</Value>
-  <External>Väline</External>
-  
-  <!-- Research tab -->
-  <ProjectTechLevel>projekti tehniline tase</ProjectTechLevel>
-  <YourTechLevel>sinu tehniline tase</YourTechLevel>
-  <ResearchCostMultiplier>maksumuse korrutaja</ResearchCostMultiplier>
-  <ResearchCostComparison>Projekti baasmaksumus {0} muutub {1}'ks sinu tehnilise taseme tõttu.</ResearchCostComparison>
 </LanguageData>
