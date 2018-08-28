@@ -2,23 +2,23 @@
 <LanguageData>
 
   <!-- EN: Level -->
-  <Level>Level</Level>
+  <Level>Tase</Level>
   <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>Edenemine järgmisele levelile</ProgressToNextLevel>
+  <ProgressToNextLevel>Edenemine järgmisele tasemele</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>Oskus</Experience>
   <!-- EN: Passion -->
   <Passion>Kirg</Passion>
   <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>Puudub (õpib {0}x)</PassionNone>
+  <PassionNone>Puudub\n   -õpib {0}</PassionNone>
   <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>Huvitatud (õpib {0}x)</PassionMinor>
+  <PassionMinor>Huvitatud\n   -õpib {0}</PassionMinor>
   <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>Põlev (õpib {0}x)</PassionMajor>
+  <PassionMajor>Kirglik\n   -õpib {0}</PassionMajor>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Õppis täna maksimaalselt ({0}/{1}, ülejäänud õppimine on kordajaga {2})</LearnedMaxToday>
   <!-- EN: Effects at level {0} -->
-  <EffectsAtLevel>Effekt {0} levelil</EffectsAtLevel>
+  <EffectsAtLevel>Effekt tasemel {0}</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
 
@@ -64,5 +64,5 @@
   <Skill19>Legendaarne</Skill19>
   <!-- EN: Legendary master -->
   <Skill20>Jumalik</Skill20>
-  
+
 </LanguageData>

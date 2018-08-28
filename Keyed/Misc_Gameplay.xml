@@ -3,7 +3,7 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>TODO</HitPointsBasic>
+  <HitPointsBasic>elupunktid</HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>Tööd jäänud</WorkLeft>
   <!-- EN: Contents -->
@@ -13,7 +13,7 @@
   <!-- EN: For prisoner use -->
   <ForPrisonerUse>Vangide kasutuseks</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>TODO</InPrisonCell>
+  <InPrisonCell>Vangikongis: Vangide kasutuseks</InPrisonCell>
   <!-- EN: For colonist use -->
   <ForColonistUse>Kolonistide kasutuseks</ForColonistUse>
   <!-- EN: Medical -->
@@ -25,7 +25,7 @@
   <!-- EN: Assigned colonist -->
   <AssignedColonist>Määratud kolonistid</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>TODO</DiedOn>
+  <DiedOn>Suri {0}</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>Mitte keegi</Nobody>
   <!-- EN: Unowned -->
@@ -51,15 +51,15 @@
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>arenenud immuunsus</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>TODO</NeedsTendingNow>
+  <NeedsTendingNow>Vajab kohest tähelepanu</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>TODO</CanTendNow>
+  <CanTendNow>Saab kohe ravida</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>TODO</NextTendIn>
+  <NextTendIn>Ravida saab {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>TODO</TendQuality>
+  <TendQuality>Ravi kvaliteet</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>puudub {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -81,7 +81,7 @@
   <!-- EN: Rename -->
   <Rename>Nimeta ümber</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>TODO</RenameAnimal>
+  <RenameAnimal>Nimeta ümber loom</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Nimeta ümber kolonist</RenameColonist>
   <!-- EN: unknown -->
@@ -107,19 +107,19 @@
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>vaja {0} level {2}, on {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>TODO</Freezing>
+  <Freezing>Külmumas</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>TODO</Overheating>
+  <Overheating>Ülekuumenemas</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>TODO</RuinedByTemperature>
+  <RuinedByTemperature>Temperatuuri poolt rikutud</RuinedByTemperature>
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Puuduvad kehaosad</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
   <HiveReproducesIn>Paljuneb</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Magab, ei paljune</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Järgmine {0}</NextSpawnedItemIn>
   <!-- EN: Broken down -->
   <BrokenDown>Katki</BrokenDown>
   <!-- EN: (bond) -->
@@ -127,11 +127,11 @@
   <!-- EN: Fuel -->
   <Fuel>Kütus</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>TODO</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Kütus</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>TODO</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Sea kütusetaseme siht {0} peale</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>TODO</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Sea kütusetaseme siht {0} peale\nMax kaugus: {1} ruutu</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>TODO</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->

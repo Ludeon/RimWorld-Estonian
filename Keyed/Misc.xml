@@ -49,7 +49,7 @@
   <!-- EN: repeat -->
   <repeat>korda</repeat>
   <!-- EN: default -->
-  <default>TODO</default>
+  <default>vaikimisi</default>
   <!-- EN: distance -->
   <distance>kaugus</distance>
   <!-- EN: YES -->
@@ -63,7 +63,7 @@
   <!-- EN: day -->
   <day>päev</day>
   <!-- EN: Default -->
-  <Default>TODO</Default>
+  <Default>Vaikimisi</Default>
   <!-- EN: Average -->
   <Average>Keskmine</Average>
 
@@ -72,11 +72,11 @@
   <!-- EN: {0} meat -->
   <MeatLabel>{0} liha</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>{0} küpsetamatta liha.</MeatDesc>
+  <MeatDesc>{0} küpsetamata liha.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <MeatInsectDesc>Toores küpsetamata liha. Vajadusel saab seda küpsetada eineks või süüa toorelt. Väga rõve.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>TODO</MeatHumanDesc>
+  <MeatHumanDesc>Toores küpsetamata liha. Vajadusel saab seda küpsetada eineks või süüa toorelt, kõigi enamiku inimeste arvates on see rõve.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} laip</CorpseLabel>
@@ -88,7 +88,7 @@
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>ebatasane {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Ebatasane, looduslik {0} maastik.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>Ebatasane, looduslik {0} maa.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>tahumata {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
@@ -104,7 +104,7 @@
   <FrameLabelExtra> (ehitus)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>TODO</FactionUnaffiliated>
+  <FactionUnaffiliated>Ilma kildkonnata</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -125,13 +125,13 @@
 
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>TODO</North>
+  <North>Põhi</North>
   <!-- EN: South -->
-  <South>TODO</South>
+  <South>Lõuna</South>
   <!-- EN: West -->
-  <West>TODO</West>
+  <West>Lääs</West>
   <!-- EN: East -->
-  <East>TODO</East>
+  <East>Ida</East>
 
   <!-- UNUSED -->
   <LeatherLabel>{0} nahk</LeatherLabel>

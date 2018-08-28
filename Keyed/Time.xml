@@ -2,14 +2,14 @@
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>d</LetterDay>
+  <LetterDay>p</LetterDay>
   <!-- EN: h -->
-  <LetterHour>h</LetterHour>
+  <LetterHour>t</LetterHour>
   <!-- EN: m -->
   <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-  
+
   <!-- EN: days -->
   <DaysLower>päeva</DaysLower>
   <!-- EN: seconds -->
@@ -24,25 +24,25 @@
   <!-- EN: winter -->
   <SeasonWinter>Talv</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>igavene suvi</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>igavene talv</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>TODO</QuadrumJugust>
+  <QuadrumJugust>Juugust</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <QuadrumSeptober>Septoober</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>TODO</QuadrumDecembary>
-  
+  <QuadrumDecembary>Detsemuar</QuadrumDecembary>
+
   <!-- EN: Born: {0} -->
   <Born>Sündinud: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeChronological>
+  <AgeChronological>Kronoloogiline vanus: {0} aastat, {1} aastaaega, {2} päeva</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Bioloogiline vanus: {0} aastat, {1} kuud, {2} päeva</AgeBiological>
+  <AgeBiological>Bioloogiline vanus: {0} aastat, {1} aastaaega, {2} päeva</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
@@ -50,9 +50,9 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0} aastat</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>TODO</Period1Quadrum>
+  <Period1Quadrum>1 aastaaeg</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <PeriodQuadrums>{0} aastaaega</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>1 päev</Period1Day>
   <!-- EN: {0} days -->
@@ -62,9 +62,9 @@
   <!-- EN: {0} hours -->
   <PeriodHours>{0} tundi</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 sekund</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} sekundit</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
@@ -73,7 +73,7 @@
   <Lasted>Kestnud</Lasted>
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>Juhtus {0} tagasi</OccurredTimeAgo>
-  
+
   <!-- UNUSED -->
   <Period1Season>1 hooaeg</Period1Season>
   <PeriodSeasons>{0} hooaega</PeriodSeasons>

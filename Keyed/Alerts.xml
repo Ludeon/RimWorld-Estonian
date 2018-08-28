@@ -5,36 +5,36 @@
   <ClickToJumpToProblem>Klikka probleemi juurde hüppamiseks</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <BreakRiskMinor>Väike murdumise risk</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <BreakRiskMajor>Suur murdumise risk</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <BreakRiskExtreme>Ekstreemne murdumise risk</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>TODO</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Need kolonistid on halvas tujus ning neil võib tulla väike murdumine igal ajal:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>TODO</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Need kolonistid on väga halvas tujus ning neil võib tulla suur murdumine igal ajal:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>TODO</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Need kolonistid on kriitiliselt stressis ning neil võib tulla eksteemne (ning vägivaldne) murdumine iga hetk:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>TODO</BreakRiskDescEnding>
-  
+  <BreakRiskDescEnding>Vaata nende kolonistide vajadusi, et teada saada nende mure põhjus.\n\nSa võid nende tuju parandada, andes neile head toitu, juua ja suitsu. Aitavad ka rohkem puhkeaega, paremad vaba aja veetmise võimalused, ilus keskkond ning palju rohkem.</BreakRiskDescEnding>
+
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Kolonist vajab päästmist</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Kolonistid vajavad päästmist</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>Need kolonistid on maas töövõimetud:\n\n{0}\nSaada teine kolonist neid päästma ja viima neid tagasi voodisse.\n\n(Et päästa, vali teine kolonist, siis parem klikka ohvrit ja vali päästa.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Need kolonistid on maas töövõimetud:\n\n{0}\nSaada teine kolonist neid päästma ja viima neid tagasi voodisse.\n\n(Et päästa, vali teine kolonist, siis parem klikka ohvrit ja vali päästa.)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Vaja kaitseid</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Sa oled olnud juba siin olnud mõnda aega ja arvatavasti on sind märgatud. Piraadi rünnakud hakkavad varsti.\n\nSa peaksid ette valmistama kaitseid.\n\nEhita mõningad kahurid.</NeedDefensesDesc>
+  <NeedDefensesDesc>Sa oled olnud juba siin olnud mõnda aega ja arvatavasti on sind märgatud. Piraadi rünnakud hakkavad varsti.\n\nSa peaksid ette valmistama kaitseid, nagu liivakotid ja lõksud.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Vaja arsti</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Need kolonistid vajavad arstiabi, aga sul pole terveid koloniste määratud arstideks:\n\n{0}\nMäära terve kolonist arstiks. Kui jäetud ravimatta, haavad ei pruugi kunagi korralikult paraneda ja võivad jääda igavesteks.</NeedDoctorDesc>
+  <NeedDoctorDesc>Need kolonistid vajavad arstiabi, aga sul pole terveid koloniste määratud arstideks:\n\n{0}\nMäära terve kolonist arstiks. Kui jäetud ravimata, siis haavad ei parane korralikult ja võivad jääda igavesteks.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Vaja kaevurit</NeedMiner>
@@ -44,44 +44,44 @@
   <!-- EN: Need warden -->
   <NeedWarden>Vaja vangihaldajat</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>Sul on vang, aga ükski kolonist pole määratud vangihaldajat.\n\nMäära kolonist vangihaldajat.</NeedWardenDesc>
+  <NeedWardenDesc>Sul on vang, aga ükski kolonist pole määratud vangihaldajaks.\n\nMäära kolonist vangihaldajaks.</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>Vähe toitu</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Sul on ainult {0} täispulga väärtuses toitu laos. See on ohtlikult madal.\n\nKasvata, osta, leia või tapa natuke toitu.</LowFoodDesc>
+  <LowFoodDesc>Sul on ohtlikult vähe toitu.\n\n    Täispulga väärtuses toitu laos: {0}\n    Kolonistid ja vangid, kes saavad toitu: {1}\n    Päevade väärtuses toitu laos: {2}\n\nKasvata, osta, leia või tapa natuke toitu.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Vähe ravimeid</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>Sul on ainult {0} ravimit jäänud alles laos.\n\nOsta rohkem ravimeid kauplejatelt.</LowMedicineDesc>
+  <LowMedicineDesc>Sul on ainult {0} ravimit laos.\n\nOsta rohkem ravimeid kauplejatelt.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>Sul pole ravimeid alles jäänud laos.\n\nOsta rohkem ravimeid kauplejatelt.</NoMedicineDesc>
-  
+  <NoMedicineDesc>Sul pole laos ravimeid.\n\nOsta rohkem ravimeid kauplejatelt.</NoMedicineDesc>
+
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Vaja kolonisti voodeid</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>Sul on rohkem koloniste, kui sul on kolonisti voodeid. Kellegil puudub koht magamiseks.\n\nTee rohkem voodeid või muuda vangivoodi kolonisti voodiks.\n\nKui sul pole resursse, magamiskohad on tasuta ja on võimalik asetada koheselt.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Sul on rohkem koloniste, kui sul on kolonisti voodeid. Kellegil puudub koht magamiseks.\n\nTee rohkem voodeid või muuda vangivoodi kolonisti voodiks.\n\nKui sul pole resursse, siis magamiskohad on tasuta ja neid on võimalik asetada koheselt.</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Jahimehel puuduvad relvad</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>Kolonist on määratud jahimeheks, aga tal puuduvad relvad. Ta ei jahi enne, kui tal on mõni relv.\n\nEt vähendada vigastusi, on soovitav varustada kolonist kaugrelvaga.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Kolonist on määratud jahimeheks, aga tal puuduvad kaugmaa relvad. Ta ei jahi enne, kui tal on mõni kaugmaa relv.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>TODO</AlertTatteredApparel>
+  <AlertTatteredApparel>Katkine riietus</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>TODO</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Nendel kolonistidel on katkine riietus, mis teeb nad õnnetuks:\n\n{0}\nAnna neile tervem riietus.\n\nSa võid riideid õmmelda rätsepa laua juures või osta seda kauplejatelt.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>TODO</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Õnnetu nudism</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>TODO</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>Need kolonstid on alasti ning nad ei ole selle üle rõõmsad\n\n{0}\nAnna neile riideid.\n\nSa võid riideid õmmelda rätsepa laua juures või osta seda kauplejatelt.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>Nälgimine</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu. Sul on vaja toiduallikat nagu toitainete pasta dispenserist ja natuke selle täitmiseks. Samuti kindlusta, et nad ei ole teenistuses.</StarvationDesc>
+  <StarvationDesc>Need kolonistid nälgivad:\n\n{0}\nHangi neile toitu.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Looma nälgimine</StarvationAnimals>
@@ -91,7 +91,7 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>Väsimus</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Need kolonistid on väsinud ja vajavad puhkust:\n\n{0}\nSaa neile natuke puhkust. Neil on vaja voodit märgitud kolonisti kasutuseks. Samuti kindlusta, et nad ei ole väeteenistuses.</ExhaustionDesc>
+  <ExhaustionDesc>Need kolonistid on väsinud ja vajavad puhkust:\n\n{0}\nSaa neile natuke puhkust. Neil on vaja voodit märgitud kolonisti kasutuseks. Samuti ei tohi nad olla väeteenistuses.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>Vaja toidusalve</NeedFoodHopper>
@@ -104,20 +104,20 @@
   <NeedMealSourceDesc>Sul pole viisi valmistada korralikke eineid toorest toidust.\n\nEhita toitainete pasta dispenser või pliit.\n\n(See ei või olla vangikongis või muidu kolonistid ei saa seda kasutada)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>TODO</NeedJoySource>
+  <NeedJoySource>Vaja vaba aja veetmise vaheldust</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>TODO</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Saadaolevad vaba aja veetmise võimalused</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Puuduvad vaba aja veetmise võimalused</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
   <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>igav</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Igavus</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2} -->
   <BoredomDesc>TODO</BoredomDesc>
 
@@ -140,7 +140,7 @@
   <NeedResearchProject>Vaja uurimisprojekti</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>Sul on varustus teha uurimistööd, aga ei ole valinud uurimisprojekti.\n\nAva uuringute menüü ja vali projekt.</NeedResearchProjectDesc>
-  
+
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} kolonisti tegevuseta</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
@@ -155,7 +155,7 @@
   <AlertHypothermia>Hüpotermia</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>Need kolonistid kannatavad hüpotermia käes:\n\n{0}\nKindlusta, et nende riietus on sobiv aastaajale ja et siseruumid on korralikult köetud.</AlertHypothermiaDesc>
-  
+
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} patsienti ootavad meditsiinilist operatsiooni</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
@@ -184,19 +184,19 @@
   <HunterHasShieldAndRangedWeaponDesc>Ühel sinu jahimeestest on kaugrelv ja kannab personaalset kilpi, mis takistab teda laskmast eemalt.\n\nNad ei saa jahtida, enne kui kilp on eemaldatud.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>TODO</NeedWarmClothes>
+  <NeedWarmClothes>Vaja soojasid riideid</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>TODO</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Vähemalt {0} kolonisti vajavad soojasid riideid enne külma tulekut.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>TODO</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Kõik kolonistid vajavad soojasid riideid enne külma tulekut.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>TODO</NeedWarmClothesDesc2>
-  
+  <NeedWarmClothesDesc2>Välitemperatuur langeb kuni {0}.\n\nSa võid valmistada soojasid riideid rätsepa pingil või osta neid kauplejatelt.</NeedWarmClothesDesc2>
+
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>TODO</ImmobileCaravan>
+  <ImmobileCaravan>Liikumatu karavan</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>TODO</ImmobileCaravanDesc>
-  
+  <ImmobileCaravanDesc>Üks su karavan on liikumatu, sest kannab liiga palju.\n\nSaad selle jälle liikuma, kui jätad maha mõned asjad.</ImmobileCaravanDesc>
+
   <!-- UNUSED -->
   <NeedSawmill>Vaja saeveskit</NeedSawmill>
   <NeedSawmillDesc>Sul on vaja saeveskit, et tükeldada palke plankudeks.\n\nEhita käsitsi saeveski või elektriline saeveski.</NeedSawmillDesc>
