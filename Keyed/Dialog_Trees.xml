@@ -1,20 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>{0} karjub monitorisse ja katkestab ühenduse.</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects. -->
+  <FactionGreetingHostileAppreciative>TODO</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {1} warily and asks what business you want to handle. -->
   <FactionGreetingWary>{0} tervitab {1}'i ettevaatlikult ja küsib mis ta tahab.</FactionGreetingWary>
+  <!-- EN: {0} greets {1} warmly and asks what [PAWN_pronoun] can do to help you. -->
   <FactionGreetingWarm>{0} tervitab {1}'i soojalt ka küsib kuidas koloonial läheb.</FactionGreetingWarm>
 
+  <!-- EN: Disconnect -->
   <Disconnect>Katkesta ühendus</Disconnect>
 
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
   <OfferGift>Paku kingitust</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>TODO</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>TODO</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
   <NeedSilverLaunchable>vaja {0} hõbedat kaubandusmajaka lähedal</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
   <NotEnoughSilver>Pole piisavalt hõbedat.</NotEnoughSilver>
+  <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0} hõbedat {1} heatahte eest</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
   <SilverGiftSent>{0}'i esindaja tänab sind.\n\n(Heatahe paranes {1} võrra).</SilverGiftSent>
 
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>TODO</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
+  <ChooseTraderKind>TODO</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
+  <TraderSent>TODO</TraderSent>
+  <!-- EN: wait {0} -->
+  <WaitTime>TODO</WaitTime>
+
+  <!-- AI core request -->
+  <!-- EN: Request the location of an {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>TODO</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>TODO</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>TODO</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>Palu kohest sõjalist abi ({0} heatahet)</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
   <MilitaryAidConfirmMutualEnemy>{0} ei aita sul võidelda teiste kildkondadega, kes ei ole nende vaenlased. See sisaldab ka mõningaid, kes sind praegu ähvardavavad, {1}. Kas sa soovid sellest hoolimata abi paluda?</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
   <CallConfirm>Jah, helista sellest hoolimata.</CallConfirm>
+  <!-- EN: No, never mind. -->
   <CallCancel>Ei, ära pane tähele.</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
   <MilitaryAidSent>{0}'i esindaja nõustub saatma võitlejaid sulle appi.</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>TODO</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>TODO</HostileVisitorsPresent>
+
 </LanguageData>

@@ -1,119 +1,237 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: Cancel -->
   <DesignatorCancel>Tühista</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Tühista määratud ehitamine, kaevandamine, vedamine, viljakoristamine, ja kõik muud ülesanded.</DesignatorCancelDesc>
 
+  <!-- EN: Cut plants -->
   <DesignatorCutPlants>Lõika taimi</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
   <DesignatorCutPlantsDesc>Määrab taimi, mida lõigata või lahkuda. Taim eemaldatakse täielikult ja mistahes toit koristatakse.</DesignatorCutPlantsDesc>
 
+  <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Lammuta</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Lammuta ehitis ja saa tagasi osa selle resurssidest.</DesignatorDeconstructDesc>
 
+  <!-- EN: Uninstall -->
   <DesignatorUninstall>Deinstalli</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Deinstalli see, et seda saaks liigutada, müüa, või installida kuhugi mujale.</DesignatorUninstallDesc>
-  
+
+  <!-- EN: Harvest -->
   <DesignatorHarvest>Korista vilja</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>Määra taimi, mida koristada, et saada toitu ja muid tooteid.</DesignatorHarvestDesc>
 
+  <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Lõhu puid</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>Määra puid, mida maha lõhkuda puidu saamiseks.</DesignatorHarvestWoodDesc>
 
+  <!-- EN: Haul things -->
   <DesignatorHaulThings>Vea asju</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>Määra kivitükke ja teisi asju, mida vedada prügi aladesse. Pole vajalik asjadele nagu toit või laibad, mis on alati veatavad.</DesignatorHaulThingsDesc>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
   <MustHaulHaulables>Saab ainult määrata veatavaid mitte-automaatilisi asju (näiteks kivitükid).</MustHaulHaulables>
 
+  <!-- EN: Hunt -->
   <DesignatorHunt>Jahi</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
   <DesignatorHuntDesc>Märgi loomi, mida küttitaks sinu küttijate poolt.</DesignatorHuntDesc>
 
+  <!-- EN: Mine -->
   <DesignatorMine>Kaevanda</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Määra piirkonnad, kus kaevandada kivi.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Silenda põrandat</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Määra ebatasasi kivi põrandaid, mida silendada.</DesignatorSmoothFloorDesc>
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
 
+  <!-- EN: Plan -->
   <DesignatorPlan>Kavanda</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
   <DesignatorPlanDesc>Aseta planeerimis juhiseid. Need ei tee midagi peale selle, et aitavad sul kavanda tuleviku laiendusi.</DesignatorPlanDesc>
 
+  <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Eemalda kavandeid</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>Eemalda planeerimis juhiseid.</DesignatorPlanRemoveDesc>
 
+  <!-- EN: Forbid -->
+  <DesignatorForbid>TODO</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+
+  <!-- EN: Unforbid -->
+  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>Suurenda koduala</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
   <DesignatorAreaHomeExpandDesc>Kolonistid parandavad ehitisi, puhastavad põrandaid, ja kustutavad tulekahjusid kodualal.</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
   <DesignatorAreaHomeClear>Eemalda koduala</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
   <DesignatorAreaHomeClearDesc>Eemaldab koduala. Kolonistid enam ei puhasta, paranda, või kustuta tulekahjusid.</DesignatorAreaHomeClearDesc>
 
+  <!-- EN: Build roof area -->
   <DesignatorAreaBuildRoofExpand>Suurenda katuse ala</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>Kolonistid ehitavad katuseid siin alas.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Eemalda katuse ala</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Eemalda ala, kus kolonistid ehitavad katuseid. Olemasolevad katused jäävad alles, kuid kolonistid ei ehita neid juurde.</DesignatorAreaBuildRoofClearDesc>
-  
-  <DesignatorAreaNoRoofExpand>Suurenda katuseta ala</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Loo ala, kus katuseid ei teki. See eemaldab ka olemasolevad õhukesed katused.</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Eemalda katuseta ala</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Eemaldab katuseta ala. Katused tekivad siin, ja olemasolevaid katuseid ei eemaldata.</DesignatorAreaNoRoofClearDesc>
 
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>Suurenda katuseta ala</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>Loo ala, kus katuseid ei teki. See eemaldab ka olemasolevad õhukesed katused.</DesignatorAreaNoRoofExpandDesc>
+
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>Suurenda lumepuhastus ala</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>Loo ala, mida kolonistid proovivad hoida lumevabana.</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow clear Area -->
   <DesignatorAreaSnowClearClear>Eemalda lumepuhastus ala</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Eemaldab lumepuhastus ala. Kolonistid enam ei hoia seda ala lumest puhtana.</DesignatorAreaSnowClearClearDesc>
 
+  <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>Suurenda lubatud ala</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>Suurenda lubatud ala.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>Eemalda lubatud ala</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorClearAreaAllowedDesc>Eemalda lubatud ala blokke.\n\nLubatud alad on määratletud alad, mida sa saad määrata kolonistidele. Kolonistid ei võta vastu tööd või täida nende vajadusi väljaspool nende lubatud ala.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
   <ManageAreas>Halda lubatud alasid...</ManageAreas>
 
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Loo piirkond, kus sinu kolonistid proovivad kasvatada teatud tüüpi taime.</DesignatorGrowingZoneDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageResourcesDesc>Loo tagavara, kus sinu kolonistid hoiavad resursse.\nSee tööriist saab ka suurendada olemas olevat tagavara.</DesignatorZoneCreateStorageResourcesDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageDumpingDesc>Loo tagavara, kus sinu kolonistid hoiavad prügi.\nSee tööriist saab ka suurendada olemas olevat tagavara.</DesignatorZoneCreateStorageDumpingDesc>
 
+  <!-- EN: Shrink zones -->
   <DesignatorZoneDelete>Kustuta piirkondi</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>Eemalda piirkondi, nagu tagavara piirkonnad ja kasvatamis piirkonnad.</DesignatorZoneDeleteDesc>
 
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  
+  <!-- EN: Claim -->
   <DesignatorClaim>Nõua</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
   <DesignatorClaimDesc>Nõua neutraalsed struktuurid kolooniale, kaasa arvatud iidsed varemed ja maha jäetud piiramisbaasid. Nõutud struktuure saab parandada ja hooldada sinu kolonistide poolt.</DesignatorClaimDesc>
 
+  <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>Eemalda korrus</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
   <DesignatorRemoveFloorDesc>Eemalda koorus, et tooda nähtavale maastik allpool.</DesignatorRemoveFloorDesc>
 
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
   <DesignatorStrip>Röövi</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>Röövi rõivad laipadelt ja vigastatutelt.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Sea üles lõks uuesti</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Sea üles lõks uuesti, et seda saaks vallandada jälle.</DesignatorRearmTrapDesc>
-  
+  <!-- EN: Open -->
   <DesignatorOpen>Ava</DesignatorOpen>
+  <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Ava täis hauad või konteinerid.</DesignatorOpenDesc>
   
+  <!-- EN: Slaughter -->
   <DesignatorSlaughter>Tapa</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
   <DesignatorSlaughterDesc>Tapa taltsutatud loom.</DesignatorSlaughterDesc>
 
+  <!-- EN: Tame -->
   <DesignatorTame>Taltsuta</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Talsuta metsik loom.</DesignatorTameDesc>
 
-  <!-- placement of blueprints -->
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
   <UnchosenStuff>Valimata materjal</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
   <TooCloseToMapEdge>Liiga lähedal mapi äärele.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
   <OutOfBounds>Väljaspool lubatud piire.</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Ei saa asetada avastamata piirkondadesse.</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {0}. -->
   <InteractionSpotBlocked>Interaktsiooni koht on blokeeritud {0} poolt.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Interaktsiooni koht on piiridest väljas.</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {0}. -->
   <InteractionSpotWillBeBlocked>Interaktsiooni koht blokeeritakse {0} poolt.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} blokeeriks {1} interaktsiooni ruudu.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Maastik on juba siin {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
   <IdenticalThingExists>Identiline ese juba eksisteerib siin.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>Identne kavand juba eksisteerib siin.</IdenticalBlueprintExists>
+  <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Maastik siin ei toeta seda.</TerrainCannotSupport>
+  <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Ruum juba hõivatud.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>TODO</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
   <TerrainMustBeRemovable>Peab sihtima eemaldatavat põrandat.</TerrainMustBeRemovable>
-
-  <!-- placement of zones -->
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Laienda {0} või\nLoo uus {1}</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
   <CreateNewZone>Loo uus {0}</CreateNewZone>
-
-  <!-- desc helpers -->
+  
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
   <TransmitsPower>Edastab elektrit</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>TODO</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+
+  <!-- UNUSED -->
+  <DesignatorSmoothFloor>Silenda põrandat</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Määra ebatasasi kivi põrandaid, mida silendada.</DesignatorSmoothFloorDesc>
+  <DesignatorAreaBuildRoofClear>Eemalda katuse ala</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Eemalda ala, kus kolonistid ehitavad katuseid. Olemasolevad katused jäävad alles, kuid kolonistid ei ehita neid juurde.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaNoRoofClear>Eemalda katuseta ala</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Eemaldab katuseta ala. Katused tekivad siin, ja olemasolevaid katuseid ei eemaldata.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorRearmTrap>Sea üles lõks uuesti</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Sea üles lõks uuesti, et seda saaks vallandada jälle.</DesignatorRearmTrapDesc>
+  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
+
 </LanguageData>
