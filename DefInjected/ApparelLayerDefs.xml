@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>Vöö</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>Silmade kiht</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>Keskmine kiht</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>sisemine kiht</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>peakatte</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>välimine kiht</Shell.label>
+  
+</LanguageData>
