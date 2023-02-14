@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>kuiv põõsasmaa</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Kuiv piirkond, aga mitte nii kuiv, et tekkiks päris kõrb. Lahtised tasandikud põõsaste ja muruga hoiavad vahet puusalude vahel. Taimed on vastupidavad ja on keskmine loomade tihedus, aga haritavad pinnast on raske leida.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>kõrb</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Väga kuiv ala mis toetab vähest elu. Seal on väga vähe haritavat maad ja loomi on väga hõredalt. Kõrbed võibad olla kuumad või külmad.</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>ekstreemne kõrb</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Ülimalt kuum, kuiv ja elutu ala. Kõrvetav kuumus ja peaaegu täielik haritava maa puudus teevad väga raskeks siin ellu jääda.</ExtremeDesert.description>
+  
+</LanguageData>

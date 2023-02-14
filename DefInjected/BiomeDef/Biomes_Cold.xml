@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>boreaalne mets</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Boreaalne ehk okasmets. Hoolimata rasketest talvedest on boreaalses metas mitmekesine loomastik, mis koosnenb väikestest ja suurtest loomadest ja lisaks on soojad suved.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>külm märgala</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>Märgala täis puid ja taimi. Suurem osa soist maad ei talu raskeid ehitisi. Ringi liikumine on aeglane lämmatava taimestiku tõttu. Haigused on endeemilised selles tihedas, märjas märgalas.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>liustik</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>jääliustik, mis on kilomeetreid paks. Seal ei ole pinnast taimede kasvamiseks. Ainukesed loomad on need kes rändavad läbi või on halvasti kadunud.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>merejää</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Püsiv merejää, mis vees ulpib. Seal ei ole: pinnast, mineraale kaevandada ja loomastik peaaegu puudub.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>Tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Need suurem osalt külmunud lagendikud kannavad ainult vähest taimestikku. Seal on natuke väikseid loomi vahele segatud suurte rändavate karjade ja nende kiskjatega.</Tundra.description>
+  
+</LanguageData>
