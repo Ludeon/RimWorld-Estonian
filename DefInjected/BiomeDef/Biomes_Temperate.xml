@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TemperateForest.label>parasvöötme mets</TemperateForest.label>
+  <TemperateForest.description>lehtpuu metad, mille vahel peituvad viljakad lagendikud. Paljud loomaliigid liiguvad puude vahel ja lagendikel.</TemperateForest.description>
+  
+  <TemperateSwamp.label>parasvöötme soo</TemperateSwamp.label>
+  <TemperateSwamp.description>Taimestikust ja haigustest kupatatud märgalad. Tihe kinnikasv teeb liikumise raskeks ja ehitamiseks ala puhastamine võtab pikka aega. Palju pinnasest on liiga soine, et raskeid ehitisi kannatada.</TemperateSwamp.description>
+</LanguageData>

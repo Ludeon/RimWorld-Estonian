@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beauty.degreeDatas.beautiful.label>kaunis</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] on vapustavalt kaunis. Tal on eksootiline, kuid tuttv nägu ja lummav pilk.</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.pretty.label>ilus</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef]'l on ilus nägu, mis inimestele tavaliselt meeldib.</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.ugly.label>kole</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef]'i nägu on mõnevõrra kole. See nägu mõnevõrra tõrjub teisi inimesi suhtluse ajal.</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.label>vapustavalt kole</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef]'i nägu näeb välja, kui paned kokku kärnkonna, ebatalendika väikse lapse joonistuse ja tänapäeva kunstitükki. Tal on nägu, mida ainult ema saab armastada.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <DrugDesire.degreeDatas.chemical_fascination.label>keemiline vaimustus</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] on täielikus vaimustuses keemiliste naudingutega. Tarbides meelelahutuslikke uimasteid tekib temas hea tuju, aga mittetarbimine tekitab talle ajaga suurenevat halba tuju ja võimalikku uimastite kuritarvitamist. Ta eirab juhendeid mitte kasutada meelelahutuslikke uimasteid ja ta tarbib rohkem kui tavaline inimene.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_interest.label>keemiline huvi</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]'l on ebatavaline huvi keemiliste naudingutega. Tarbides meelelahutuslikke uimasteid tekib temas hea tuju, aga mittetarbimine tekitab talle ajaga suurenevat halba tuju ja võimalikku uimastite kuritarvitamist. Ta eirab juhendeid mitte kasutada meelelahutuslikke uimasteid ja ta tarbib rohkem kui tavaline inimene.</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.teetotaler.label>karsklane</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] jälestab uimastite kasutust meelelahutuse nimel. Ta täielikult hoidub uimastitest ja alkoholist.</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <Immunity.degreeDatas.superimmune.label>TODO</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.description>TODO</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.sickly.label>haiglane</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef]'il on kohutav immuunsüsteem. Ta jääb rohkem haigeks, kui muidu ja tihti haigustega, mida keegi teine koloonias ei põde.</Immunity.degreeDatas.sickly.description>
+  
+  <Industriousness.degreeDatas.industrious.label>väga töökas</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef]'l on lihtne keskenduda tööle ja saab ülesanded valmis palju kiiremini, kui tavaline inimene.</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.hard_worker.label>töökas</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] on loomulikult töökas ja lõpetab ülesanded kiiremini, kui teised.</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.lazy.label>laisk</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] on laisavõitu.</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.slothful.label>väga laisk</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] on väga laisk. Ta liigub aeglaselt ja on tööle keskendunud harva.</Industriousness.degreeDatas.slothful.description>
+  
+  <NaturalMood.degreeDatas.sanguine.label>elavaloomuline</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] on loomulikult rõõmus, põhimõtteliselt koguaeg, ükskõik milline olukord.</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.optimist.label>optimist</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] on loomulikult optimistlik elu kohta. Raske on tema tuju rikkuda.</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.pessimist.label>pessimist</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] näeb maailma hallides toonides ja tema jaoks on alati klaas pooltühi.</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.depressive.label>depressiivne</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] on aastaringselt õnnetu. Tal on raskusi säilitada hea tuju isegi siis, kui kõik on hästi.</NaturalMood.degreeDatas.depressive.description>
+  
+  <Nerves.degreeDatas.ironwilled.label>TODO</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.description>TODO</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.steadfast.label>vankumatu</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] on vaimselt vankumatu ja ei murdu stressi all, mis murraks teisi.</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.nervous.label>närviline</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] kipub murduma surve all.</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.volatile.label>kõikuv</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef]'l on lühiku süütenöör. [PAWN_nameDef] on esimene, kes murdub igas raskes olukorras.</Nerves.degreeDatas.volatile.description>
+  
+  <Neurotic.degreeDatas.neurotic.label>neurootiline</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef]'le meeldib, et kõik asjad oleks tehtud. Ta töötab kiiremine, kui teised, et saavutada selline asjade seis, aga ta närvid võivad saada temast võitu.</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.label>väga neurootiline</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] koguaeg närveerib, kõige kohta, mis peab tehtud saama. Ta töötab väga kiiresti, et saavutada selline asjade seis, aga ta närvid võivad väga lihtsasti saada temast võitu.</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psüühiliselt ülitundlik</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef] on väga tundlik psüühilistele nähtustele.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>psüühiliselt tundlik</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] on ebatavaliselt tundlik psüühilistele nähtustele.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>psüühiliselt tuim</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] on psüühiliselt teistega häälest ära. Teda ei häiri nii palju psüühilised nähtused.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>psüühiliselt kurt</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]'i aju töötab teisel psüühilisel tasemel kõigist teistest. Teda lihtsalt ei häiri psüühilised nähtused.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>ettevaatlik laskja</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef]'l võtab rohkem aega sihtimisega. Ta tulistab harvemini, kui teised, aga suurema täpsusega.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>TODO</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>TODO</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <SpeedOffset.degreeDatas.slowpoke.label>tigu</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] jääb alati teistest maha, kui ta läheb kuhugi.</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.fast_walker.label>kiire kõndaja</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef]'le meeldib olla seal kuhu ta minna tahab. Ta kõnnib kiiremini, kui teised.</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.jogger.label>sörkija</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] liigub kõikjale kiiresti - nii kiiresti, et teistel on raske sammu pidada</SpeedOffset.degreeDatas.jogger.description>
+</LanguageData>

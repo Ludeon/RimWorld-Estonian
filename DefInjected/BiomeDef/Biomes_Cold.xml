@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BorealForest.label>boreaalne mets</BorealForest.label>
+  <BorealForest.description>Boreaalne ehk okasmets. Hoolimata rasketest talvedest on boreaalses metas mitmekesine loomastik, mis koosnenb väikestest ja suurtest loomadest ja lisaks on soojad suved.</BorealForest.description>
+  
+  <ColdBog.label>külm märgala</ColdBog.label>
+  <ColdBog.description>Märgala täis puid ja taimi. Suurem osa soist maad ei talu raskeid ehitisi. Ringi liikumine on aeglane lämmatava taimestiku tõttu. Haigused on endeemilised selles tihedas, märjas märgalas.</ColdBog.description>
+  
+  <IceSheet.label>liustik</IceSheet.label>
+  <IceSheet.description>jääliustik, mis on kilomeetreid paks. Seal ei ole pinnast taimede kasvamiseks. Ainukesed loomad on need kes rändavad läbi või on halvasti kadunud.</IceSheet.description>
+  
+  <SeaIce.label>merejää</SeaIce.label>
+  <SeaIce.description>Püsiv merejää, mis vees ulpib. Seal ei ole: pinnast, mineraale kaevandada ja loomastik peaaegu puudub.</SeaIce.description>
+  
+  <Tundra.label>Tundra</Tundra.label>
+  <Tundra.description>Need suurem osalt külmunud lagendikud kannavad ainult vähest taimestikku. Seal on natuke väikseid loomi vahele segatud suurte rändavate karjade ja nende kiskjatega.</Tundra.description>
+</LanguageData>

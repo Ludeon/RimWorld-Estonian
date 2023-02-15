@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Abrasive.degreeDatas.abrasive.label>otsene</Abrasive.degreeDatas.abrasive.label>
+  <Abrasive.degreeDatas.abrasive.description>[PAWN_nameDef] ütleb alati, mida ta arvab, eriti siis, kui see häirib teda. See ei pruugi teistele inimestele meeldida.</Abrasive.degreeDatas.abrasive.description>
+  
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>tüütu hääl</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>[PAWN_nameDef]'i hääl on eriti riiviv ja nasaalne ning ta kipub rääkima haukvate ja moonutatud lausetega. See soodustab inimesi teda mitte sallima.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <Ascetic.degreeDatas.ascetic.label>askeetlik</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.description>[PAWN_nameDef] on hüljanud füüsilised mugavused ja naudingud lihtsa ja puhta elustiili nimel. Liiga ilusa magamistoa omamine rikub ta tuju. Talle ei meeldi ka peened toidud ning eelistab süüa toorelt. Ta ei hinda kunagi kedagi välimuse järgi.</Ascetic.degreeDatas.ascetic.description>
+  
+  <Asexual.degreeDatas.asexual.label>aseksuaal</Asexual.degreeDatas.asexual.label>
+  <Asexual.degreeDatas.asexual.description>[PAWN_nameDef] ei tunne mitte kellegi vastu seksuaalset külgetõmmet.</Asexual.degreeDatas.asexual.description>
+  
+  <Bisexual.degreeDatas.bisexual.label>biseksuaal</Bisexual.degreeDatas.bisexual.label>
+  <Bisexual.degreeDatas.bisexual.description>[PAWN_nameDef] on romantiliselt sissevõetud mõlemast soost.</Bisexual.degreeDatas.bisexual.description>
+  
+  <Bloodlust.degreeDatas.bloodlust.label>vereiha</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.description>[PAWN_nameDef] ile meeldib inimestele haiget teha ning teda ei häiri kunagi näha verd ega surma.</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <BodyPurist.degreeDatas.body_purist.label>keha ülistaja</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.description>[PAWN_nameDef] tunneb, et inimkeha on piiratud põhjusega. Tema jaoks on kunstlikud kehaosad ebaeetilised ja vastikud.</BodyPurist.degreeDatas.body_purist.description>
+  
+  <Brawler.degreeDatas.brawler.label>lähivõitleja</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.description>[PAWN_nameDef]'ile meeldib võidelda vaenlasele lähedal. Ta löökide täpsus on palju täpsem, aga ta muutub väga rahulolematuks, kui peab kandma tulirelva.</Brawler.degreeDatas.brawler.description>
+  
+  <Cannibal.degreeDatas.cannibal.label>kannibal</Cannibal.degreeDatas.cannibal.label>
+  <Cannibal.degreeDatas.cannibal.description>[PAWN_nameDef]'ile õpetati, et inimliha söömine on vale ja kohutav. Aga üks kord, kaua aega tagasi, ta proovis seda… ja talle meeldis see.</Cannibal.degreeDatas.cannibal.description>
+  
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>hirmutav hingamine</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>[PAWN_nameDef] hingeldab alati ja higistab koguaeg. Teised inimesed arvavad, et see on jube.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <DislikesMen.degreeDatas.misandrist.label>meestevihkaja</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.description>[PAWN_nameDef] vihkab ja ei usalda mehi.</DislikesMen.degreeDatas.misandrist.description>
+  
+  <DislikesWomen.degreeDatas.misogynist.label>naistevihkaja</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.description>[PAWN_nameDef] vihkab ja ei usalda naisi.</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <FastLearner.degreeDatas.fast_learner.label>kiire õppija</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.description>[PAWN_nameDef] il tuleb õppimine hästi välja. Ta õppib uusi asju palju kiiremini kui teised.</FastLearner.degreeDatas.fast_learner.description>
+  
+  <Gay.degreeDatas.gay.label>gei</Gay.degreeDatas.gay.label>
+  <Gay.degreeDatas.gay.description>[PAWN_nameDef] on romantiliselt sissevõetud enda soost.</Gay.degreeDatas.gay.description>
+  
+  <Gourmand.degreeDatas.gourmand.label>gurmaan</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.description>[PAWN_nameDef] i elu ringleb toidu ümber. Ta kõht läheb kiiresti tühjaks ja kui tal on halb tuju, siis rahuldab ta ennast tihti söömisega.</Gourmand.degreeDatas.gourmand.description>
+  
+  <GreatMemory.degreeDatas.great_memory.label>hea mälu</GreatMemory.degreeDatas.great_memory.label>
+  <GreatMemory.degreeDatas.great_memory.description>[PAWN_nameDef] il on fantastiline mälu detailide jaoks. Ta kaotab kasutamata oskuseid poole aeglasemalt, kui teised inimesed.</GreatMemory.degreeDatas.great_memory.description>
+  
+  <Greedy.degreeDatas.greedy.label>ahne</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] vajab väga ilusat magamistuba. Ta tuju muutub halvemaks, kui ta ei saa mida tahab.</Greedy.degreeDatas.greedy.description>
+  
+  <Jealous.degreeDatas.jealous.label>kade</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.description>[PAWN_nameDef]'i jaoks on alandav omada vähem muljetavaldavat magamistuba kui keegi teine. [PAWN_nameDef] tuju muutub halvemaks, kui keegi teine omab temast muljetavaldavamat magamistuba.</Jealous.degreeDatas.jealous.description>
+  
+  <Kind.degreeDatas.kind.label>lahke</Kind.degreeDatas.kind.label>
+  <Kind.degreeDatas.kind.description>[PAWN_nameDef] on erakordselt meeldiv ja lahke inimene. Ta ei solva kunagi inimesi ja teeb oma ilusate sõnadega teiste tujud paremaks. Ta ei hinda kunagi teisi välimuse järgi.</Kind.degreeDatas.kind.description>
+  
+  <Masochist.degreeDatas.masochist.label>masohhist</Masochist.degreeDatas.masochist.label>
+  <Masochist.degreeDatas.masochist.description>[PAWN_nameDef]'i jaoks on haiget saamises midagi põnevat. Ta ei tea miks, ta on lihtsalt erinev.</Masochist.degreeDatas.masochist.description>
+  
+  <NightOwl.degreeDatas.night_owl.label>öine inimene</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.description>[PAWN_nameDef]'ile meeldib töötada öösel. Öösel üleval olemine tõstab ta tuju ja päeval üleval olemine rikub ta tuju. Pimedas olemine ei riku ta tuju.</NightOwl.degreeDatas.night_owl.description>
+  
+  <Nimble.degreeDatas.nimble.label>väle</Nimble.degreeDatas.nimble.label>
+  <Nimble.degreeDatas.nimble.description>[PAWN_nameDef]'il on erakordne kinesteetiline intelligentsus. Ta väldib ohtu ebaloomuliku graatsilisusega.</Nimble.degreeDatas.nimble.description>
+  
+  <Nudist.degreeDatas.nudist.label>nudist</Nudist.degreeDatas.nudist.label>
+  <Nudist.degreeDatas.nudist.description>[PAWN_nameDef] naudib vabaduse tunnet, mis kaasneb paljas olemisega. Ta saab riietega hakkama, aga on palju rõõmsam ilma nendeta.</Nudist.degreeDatas.nudist.description>
+  
+  <Psychopath.degreeDatas.psychopath.label>psühhopaat</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.description>[PAWN_nameDef]'il pole empaatiavõimet. Teiste kannatamine ei häiri teda üldse. Teda ei huvita, kui teisi inimesi nülgitakse, jäetakse matmata, vangistatakse, või müüakse orjusesse - välja arvatud siis, kui see puudutab teda. NAMEi tuju ei tõsta ka sotsialiseerumine</Psychopath.degreeDatas.psychopath.description>
+  
+  <Pyromaniac.degreeDatas.pyromaniac.label>püromaan</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.description>[PAWN_nameDef] armastab tuld. Ta paneb aeg-ajalt asju põlema ning ei kustuta tuld kunagi.</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <QuickSleeper.degreeDatas.quick_sleeper.label>kiire magaja</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>[PAWN_nameDef] ei vaja sama palju und kui keskmine inimene. Vahet pole, kas ta magab põrandal või voodis, ta puhkab end välja umbes ühe kolmandiku võrra kiiremini, kui tavaliselt.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <SlowLearner.degreeDatas.slow_learner.label>aeglane õppija</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.description>[PAWN_nameDef] võtab asju aeglaselt omaks. Ta õpib uusi asju palju aeglasemini kui teised.</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <TooSmart.degreeDatas.too_smart.label>liiga tark</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] on liiga tark iseenda heaolu jaoks. Ta õpib uusi asju palju kiiremini kui teised kuid võib olla päris ekstsentriline.</TooSmart.degreeDatas.too_smart.description>
+  
+  <TorturedArtist.degreeDatas.tortured_artist.label>piinatud kunstnik</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.description>[PAWN_nameDef] tunneb, et teised inimesed ei mõista teda. Ta tuju on koguaeg madal, aga peale vaimset murdumist on tal 50% võimalus saada loovuse inspiratsioon.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>kannatava piinatud kunstnikuna on [PAWN_nameIndef] saavutanud eureka.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <Tough.degreeDatas.tough.label>vastupidav</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.description>[PAWN_nameDef] il on paks nahk, tihedad lihased ning vastupidavad kondid. Ta saab palju vähem kahju, kui teised inimesed samadest löökidest.</Tough.degreeDatas.tough.description>
+  
+  <Transhumanist.degreeDatas.body_modder.label>keha moondaja</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.description>[PAWN_nameDef] tunneb ennast oma nõrgas inimkehas piiratuna. [PAWN_nameDefn] tihti unistab, et tal on mõned kunstlikud kehaosad.</Transhumanist.degreeDatas.body_modder.description>
+  
+  <Undergrounder.degreeDatas.undergrounder.label>maa-alune</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.description>[PAWN_nameDef]'il pole vaja käia õues ega näha päevavalgust. Ta võib ükskõik kui kaua toas olla, ilma salongipalavikku kogemata ning teda ei häiri pimedus.</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <Wimp.degreeDatas.wimp.label>tossakas</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.description>[PAWN_nameDef] on nõrk ja argpükslik. Isegi natuke valu immobiliseerib teda.</Wimp.degreeDatas.wimp.description>
+</LanguageData>

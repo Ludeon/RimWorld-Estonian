@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AridShrubland.label>kuiv põõsasmaa</AridShrubland.label>
+  <AridShrubland.description>Kuiv piirkond, aga mitte nii kuiv, et tekkiks päris kõrb. Lahtised tasandikud põõsaste ja muruga hoiavad vahet puusalude vahel. Taimed on vastupidavad ja on keskmine loomade tihedus, aga haritavad pinnast on raske leida.</AridShrubland.description>
+  
+  <Desert.label>kõrb</Desert.label>
+  <Desert.description>Väga kuiv ala mis toetab vähest elu. Seal on väga vähe haritavat maad ja loomi on väga hõredalt. Kõrbed võibad olla kuumad või külmad.</Desert.description>
+  
+  <ExtremeDesert.label>ekstreemne kõrb</ExtremeDesert.label>
+  <ExtremeDesert.description>Ülimalt kuum, kuiv ja elutu ala. Kõrvetav kuumus ja peaaegu täielik haritava maa puudus teevad väga raskeks siin ellu jääda.</ExtremeDesert.description>
+</LanguageData>
