@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <Forever.label>tee igavesti</Forever.label>
   
   <RepeatCount.label>tee X korda</RepeatCount.label>
   
   <TargetCount.label>tee kuni sul on X</TargetCount.label>
-  
 </LanguageData>
