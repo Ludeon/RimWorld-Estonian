@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <BestStockpile.label>vii parimasse lattu</BestStockpile.label>
   
   <DropOnFloor.label>paiguta põrandale</DropOnFloor.label>
   
   <SpecificStockpile.label>vii {0]</SpecificStockpile.label>
-  
 </LanguageData>
