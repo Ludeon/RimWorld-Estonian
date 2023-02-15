@@ -1,14 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: lake -->
   <Lake.label>järv</Lake.label>
-  <!-- EN: A large lake. Beautiful to live next to. Not so beautiful to live in. -->
   <Lake.description>Suur järv. Selle kõrval on ilus elada, aga ilus ei ole elada selle sees.</Lake.description>
   
-  <!-- EN: ocean -->
   <Ocean.label>ookean</Ocean.label>
-  <!-- EN: Open ocean. Great for fish. Not so great for you. -->
   <Ocean.description>Suur lahtine ookean. Suurepärane kaladele, mitte nii suurepärane sulle.</Ocean.description>
-  
 </LanguageData>
